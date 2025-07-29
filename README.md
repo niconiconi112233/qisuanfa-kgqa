@@ -19,7 +19,7 @@
 
 - 三元组抽取脚本
 - `src/`：deepresearch疾病报告生成源码及多轮数据结果（包含文件夹chubu、deep_research_result、deep_research0722、new_result、report0711等）
-- `：最终结构化知识结果
+- 最终结构化知识结果
 
 ---
 
