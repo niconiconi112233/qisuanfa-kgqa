@@ -1,0 +1,23 @@
+{"type": "entity", "entity_text": "Neutrophilia", "entity_type": "Disease", "attr": {"type": "hematologic disorder", "reversibility": "reversible", "pathogenesis": "increased circulating neutrophils above normal range"}, "reference": "Neutrophils: Overview, Quantity, Morphology - https://www.ivis.org/library/guide-to-hematology-dogs-and-cats/neutrophils-overview-quantity-morphology"}
+
+{"type": "entity", "entity_text": "bacterial infections", "entity_type": "Disease", "attr": {"type": "infectious", "pathogenesis": "bacterial invasion triggering inflammatory response"}, "reference": "Brazilian Journal of Veterinary Medicine - https://pmc.ncbi.nlm.nih.gov/articles/PMC10374294/"}
+
+{"type": "entity", "entity_text": "Escherichia coli", "entity_type": "Pathogen", "attr": {"source": "bacterial", "mechanism of action": "triggers inflammatory response"}, "reference": "Brazilian Journal of Veterinary Medicine - https://pmc.ncbi.nlm.nih.gov/articles/PMC10374294/"}
+
+{"type": "entity", "entity_text": "fever", "entity_type": "Symptom", "attr": {"severity": "variable", "frequency": "common"}, "reference": "Veterinary Times - https://www.vettimes.com/news/vets/small-animal-vets/marked-neutrophilia-in-a-dog"}
+
+{"type": "entity", "entity_text": "complete blood count", "entity_type": "Diagnosis", "attr": {"principle": "quantify neutrophil numbers", "applicable stage": "all stages"}, "reference": "Understanding your pet's lab tests - https://hospital.vetmed.wsu.edu/2022/01/12/understanding-your-pets-lab-tests/"}
+
+{"type": "entity", "entity_text": "intravenous fluid therapy", "entity_type": "Treatment", "attr": {"method": "supportive care", "indication": "severe cases"}, "reference": "Chemotherapy-Induced Side Effects in Pets: Prevention and Treatment - https://todaysveterinarynurse.com/oncology/chemotherapy-induced-side-effects-prevention-and-treatment/"}
+
+{"type": "entity", "entity_text": "vaccination", "entity_type": "Prevention", "attr": {"implementation": "scheduled protocol", "target group": "all pets", "expected effect": "prevent infectious diseases"}, "reference": "2020 AAHA/AAFP Feline Vaccination Guidelines - https://www.aaha.org/wp-content/uploads/globalassets/02-guidelines/feline-vaccination-guidlines/resource-center/2020-aahaa-afp-feline-vaccination-guidelines.pdf"}
+
+{"type": "relation", "head": "bacterial infections", "relation_type": "causes", "tail": "Neutrophilia"}
+
+{"type": "relation", "head": "Neutrophilia", "relation_type": "presents_as", "tail": "fever"}
+
+{"type": "relation", "head": "Neutrophilia", "relation_type": "diagnosed_by", "tail": "complete blood count"}
+
+{"type": "relation", "head": "Neutrophilia", "relation_type": "treated_by", "tail": "intravenous fluid therapy"}
+
+{"type": "relation", "head": "Neutrophilia", "relation_type": "prevented_by", "tail": "vaccination"}

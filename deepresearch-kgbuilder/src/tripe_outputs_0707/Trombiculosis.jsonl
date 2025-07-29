@@ -1,0 +1,88 @@
+{"type": "entity", "entity_text": "Trombiculosis", "entity_type": "Disease", "attr": {"type": "skin condition", "reversibility": "self-limiting", "pathogenesis": "caused by larval stage of mites injecting lytic enzymes into skin"}, "reference": "Feline trombiculosis: A retrospective study in 72 cats - ResearchGate; Trombiculiasis in a Dog with Severe Neurologic Disorders, Spain - https://doi.org/10.3201/eid2604.191313"}
+{"type": "entity", "entity_text": "trombidiosis", "entity_type": "DiseaseAlt", "attr": {}, "reference": "Feline trombiculosis: A retrospective study in 72 cats - ResearchGate"}
+{"type": "entity", "entity_text": "trombiculiasis", "entity_type": "DiseaseAlt", "attr": {}, "reference": "Feline trombiculosis: A retrospective study in 72 cats - ResearchGate"}
+{"type": "entity", "entity_text": "chigger bites", "entity_type": "DiseaseAlt", "attr": {}, "reference": "Chigger Bites and Trombiculiasis - StatPearls - NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK538528/"}
+{"type": "entity", "entity_text": "Trombiculidae family mites", "entity_type": "Pathogen", "attr": {"source": "environmental", "mechanism of action": "inject lytic enzymes into skin"}, "reference": "Feline trombiculosis: A retrospective study in 72 cats - ResearchGate; Trombiculiasis in a Dog with Severe Neurologic Disorders, Spain - https://doi.org/10.3201/eid2604.191313"}
+{"type": "entity", "entity_text": "chiggers", "entity_type": "Pathogen", "attr": {"source": "environmental", "mechanism of action": "inject digestive enzymes into skin"}, "reference": "Chigger Bites and Trombiculiasis - StatPearls - NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK538528/"}
+{"type": "entity", "entity_text": "Neotrombicula autumnalis", "entity_type": "Pathogen", "attr": {"source": "environmental", "mechanism of action": "European harvest mite"}, "reference": "Trombiculiasis - an overview | ScienceDirect Topics"}
+{"type": "entity", "entity_text": "Eutrombicula alfreddugesi", "entity_type": "Pathogen", "attr": {"source": "environmental", "mechanism of action": "American chigger mite"}, "reference": "Jones JG. Chiggers. Am Fam Physician. 1987 Aug;36(2):149-52."}
+{"type": "entity", "entity_text": "Eutrombicula sarcina", "entity_type": "Pathogen", "attr": {"source": "environmental", "mechanism of action": "Asian chigger"}, "reference": "Trombiculiasis - an overview | ScienceDirect Topics"}
+{"type": "entity", "entity_text": "Trombicula autumnalis", "entity_type": "Pathogen", "attr": {"source": "environmental", "mechanism of action": "European harvest mite"}, "reference": "Jones JG. Chiggers. Am Fam Physician. 1987 Aug;36(2):149-52."}
+{"type": "entity", "entity_text": "Leptotrombidium", "entity_type": "Pathogen", "attr": {"source": "environmental", "mechanism of action": "Asia-Pacific chigger mite"}, "reference": "Jones JG. Chiggers. Am Fam Physician. 1987 Aug;36(2):149-52."}
+{"type": "entity", "entity_text": "Orientia tsutsugamushi", "entity_type": "Pathogen", "attr": {"source": "vector-borne", "mechanism of action": "causes scrub typhus"}, "reference": "Trombiculiasis in a Dog with Severe Neurologic Disorders, Spain. https://pmc.ncbi.nlm.nih.gov/articles/PMC7101131/"}
+{"type": "entity", "entity_text": "dogs", "entity_type": "Host", "attr": {"breed": "all", "age group": "all"}, "reference": "Canine diseases: Canine trombiculosis and seasonal canine illness; Trombiculiasis in a Dog with Severe Neurologic Disorders, Spain - https://doi.org/10.3201/eid2604.191313"}
+{"type": "entity", "entity_text": "cats", "entity_type": "Host", "attr": {"breed": "all", "age group": "all"}, "reference": "Trombiculosis in a cat - PubMed; Feline trombiculosis: A retrospective study in 72 cats - ResearchGate"}
+{"type": "entity", "entity_text": "erythematous papules", "entity_type": "Symptom", "attr": {"location": "skin", "severity": "moderate"}, "reference": "Feline trombiculosis: A retrospective study in 72 cats - ResearchGate"}
+{"type": "entity", "entity_text": "excoriated papules", "entity_type": "Symptom", "attr": {"location": "skin", "severity": "moderate"}, "reference": "Feline trombiculosis: A retrospective study in 72 cats - ResearchGate"}
+{"type": "entity", "entity_text": "intense itching", "entity_type": "Symptom", "attr": {"location": "skin", "severity": "severe"}, "reference": "Feline trombiculosis: A retrospective study in 72 cats - ResearchGate; Small and Large Animal Dermatology Handbook, Vol. 1. Open.lib.umn.edu."}
+{"type": "entity", "entity_text": "severe pruritus", "entity_type": "Symptom", "attr": {"location": "skin", "severity": "severe"}, "reference": "Trombiculiasis (Chiggers) in Dogs - Symptoms, Causes, Diagnosis. Wagwalking.com."}
+{"type": "entity", "entity_text": "crusts", "entity_type": "Symptom", "attr": {"location": "skin", "severity": "moderate"}, "reference": "Trombiculiasis (Chiggers) in Dogs - Symptoms, Causes, Diagnosis. Wagwalking.com."}
+{"type": "entity", "entity_text": "hair loss", "entity_type": "Symptom", "attr": {"location": "skin", "severity": "moderate"}, "reference": "Trombiculiasis (Chiggers) in Dogs - Symptoms, Causes, Diagnosis. Wagwalking.com."}
+{"type": "entity", "entity_text": "raw, moist areas", "entity_type": "Symptom", "attr": {"location": "skin", "severity": "moderate to severe"}, "reference": "Trombiculiasis (Chiggers) in Dogs - Symptoms, Causes, Diagnosis. Wagwalking.com."}
+{"type": "entity", "entity_text": "erythema", "entity_type": "Symptom", "attr": {"location": "skin", "severity": "mild to moderate"}, "reference": "Jones JG. Chiggers. Am Fam Physician. 1987 Aug;36(2):149-52."}
+{"type": "entity", "entity_text": "swelling", "entity_type": "Symptom", "attr": {"location": "skin", "severity": "mild to moderate"}, "reference": "Jones JG. Chiggers. Am Fam Physician. 1987 Aug;36(2):149-52."}
+{"type": "entity", "entity_text": "skin", "entity_type": "Anatomy", "attr": {"anatomical location": "external covering", "physiological function": "protection"}, "reference": "Feline trombiculosis: A retrospective study in 72 cats - ResearchGate"}
+{"type": "entity", "entity_text": "head", "entity_type": "Anatomy", "attr": {"anatomical location": "anterior body part", "physiological function": "sensory"}, "reference": "Chiggers (Trombiculiasis) in Cats. Cat-World.com."}
+{"type": "entity", "entity_text": "ears", "entity_type": "Anatomy", "attr": {"anatomical location": "head", "physiological function": "hearing"}, "reference": "Chiggers (Trombiculiasis) in Cats. Cat-World.com."}
+{"type": "entity", "entity_text": "feet", "entity_type": "Anatomy", "attr": {"anatomical location": "distal limbs", "physiological function": "locomotion"}, "reference": "Chiggers (Trombiculiasis) in Cats. Cat-World.com."}
+{"type": "entity", "entity_text": "belly", "entity_type": "Anatomy", "attr": {"anatomical location": "ventral abdomen", "physiological function": "protection of internal organs"}, "reference": "Chiggers (Trombiculiasis) in Cats. Cat-World.com."}
+{"type": "entity", "entity_text": "secondary bacterial infection", "entity_type": "Disease", "attr": {"type": "complication", "pathogenesis": "from damaged skin due to scratching"}, "reference": "Chiggers (Trombiculiasis) in Cats. Cat-World.com."}
+{"type": "entity", "entity_text": "secondary yeast infection", "entity_type": "Disease", "attr": {"type": "complication", "pathogenesis": "from damaged skin due to scratching"}, "reference": "Chiggers (Trombiculiasis) in Cats. Cat-World.com."}
+{"type": "entity", "entity_text": "scrub typhus", "entity_type": "Disease", "attr": {"type": "bacterial infection", "pathogenesis": "transmitted by infected chiggers"}, "reference": "Trombiculiasis in a Dog with Severe Neurologic Disorders, Spain. https://pmc.ncbi.nlm.nih.gov/articles/PMC7101131/"}
+{"type": "entity", "entity_text": "sarcoptic mange", "entity_type": "DiseaseAlt", "attr": {"type": "mite infestation", "pathogenesis": "caused by Sarcoptes scabiei"}, "reference": "Merck Veterinary Manual. Mite Infestation (Mange, Acariasis, Scabies) in Dogs. https://www.merckvetmanual.com/dog-owners/skin-disorders-of-dogs/mite-infestation-mange-acariasis-scabies-in-dogs"}
+{"type": "entity", "entity_text": "demodicosis", "entity_type": "DiseaseAlt", "attr": {"type": "mite infestation", "pathogenesis": "caused by Demodex mites"}, "reference": "Merck Veterinary Manual. Mite Infestation (Mange, Acariasis, Scabies) in Dogs. https://www.merckvetmanual.com/dog-owners/skin-disorders-of-dogs/mite-infestation-mange-acariasis-scabies-in-dogs"}
+{"type": "entity", "entity_text": "allergic skin diseases", "entity_type": "DiseaseAlt", "attr": {"type": "hypersensitivity reaction", "pathogenesis": "immune-mediated"}, "reference": "Merck Veterinary Manual. Mite Infestation (Mange, Acariasis, Scabies) in Dogs. https://www.merckvetmanual.com/dog-owners/skin-disorders-of-dogs/mite-infestation-mange-acariasis-scabies-in-dogs"}
+{"type": "entity", "entity_text": "ringworm", "entity_type": "DiseaseAlt", "attr": {"type": "fungal infection", "pathogenesis": "dermatophyte infection"}, "reference": "Merck Veterinary Manual. Mite Infestation (Mange, Acariasis, Scabies) in Dogs. https://www.merckvetmanual.com/dog-owners/skin-disorders-of-dogs/mite-infestation-mange-acariasis-scabies-in-dogs"}
+{"type": "entity", "entity_text": "clinical examination", "entity_type": "Diagnosis", "attr": {"principle": "visual inspection", "applicable stage": "active infestation"}, "reference": "Santibáñez P, Gallo E, Palomar AM, Portillo A, Carrillo JA, Oteo, JA. Trombiculiasis in a Dog with Severe Neurologic Disorders, Spain. Emerg Infect Dis. 2020 Apr;26(4):819–820. https://doi.org/10.3201/eid2604.191313"}
+{"type": "entity", "entity_text": "skin scraping", "entity_type": "Diagnosis", "attr": {"principle": "microscopic identification", "applicable stage": "active infestation"}, "reference": "Santibáñez P, Gallo E, Palomar AM, Portillo A, Carrillo JA, Oteo, JA. Trombiculiasis in a Dog with Severe Neurologic Disorders, Spain. Emerg Infect Dis. 2020 Apr;26(4):819–820. https://doi.org/10.3201/eid2604.191313"}
+{"type": "entity", "entity_text": "topical treatments", "entity_type": "Treatment", "attr": {"method": "medication", "indication": "kill mite larvae"}, "reference": "https://open.lib.umn.edu/animaldermatology/chapter/trombiculosis-small-animals/"}
+{"type": "entity", "entity_text": "injections", "entity_type": "Treatment", "attr": {"method": "medication", "indication": "kill mite larvae"}, "reference": "https://open.lib.umn.edu/animaldermatology/chapter/trombiculosis-small-animals/"}
+{"type": "entity", "entity_text": "antibiotics", "entity_type": "Treatment", "attr": {"method": "medication", "indication": "control secondary skin infections"}, "reference": "https://open.lib.umn.edu/animaldermatology/chapter/trombiculosis-small-animals/"}
+{"type": "entity", "entity_text": "bathing", "entity_type": "Treatment", "attr": {"method": "nursing care", "indication": "remove attached larvae"}, "reference": "https://open.lib.umn.edu/animaldermatology/chapter/trombiculosis-small-animals/"}
+{"type": "entity", "entity_text": "anti-inflammatory medications", "entity_type": "Treatment", "attr": {"method": "medication", "indication": "reduce inflammation and itching"}, "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7101131/"}
+{"type": "entity", "entity_text": "insecticides for flea control", "entity_type": "Prevention", "attr": {"implementation": "topical application", "target group": "at-risk pets", "expected effect": "kill mites"}, "reference": "https://www.merckvetmanual.com/dog-owners/skin-disorders-of-dogs/mite-infestation-mange-acariasis-scabies-in-dogs"}
+{"type": "entity", "entity_text": "avoiding infested areas", "entity_type": "Prevention", "attr": {"implementation": "environmental management", "target group": "all pets", "expected effect": "prevent exposure"}, "reference": "https://wagwalking.com/condition/trombiculiasis-chiggers; https://vcahospitals.com/know-your-pet/harvest-mite-infestations-in-dogs"}
+{"type": "entity", "entity_text": "confinement during mite season", "entity_type": "Prevention", "attr": {"implementation": "environmental management", "target group": "at-risk pets", "expected effect": "prevent exposure"}, "reference": "https://vcahospitals.com/know-your-pet/harvest-mite-infestations-in-dogs"}
+{"type": "relation", "head": "Trombiculidae family mites", "relation_type": "causes", "tail": "Trombiculosis"}
+{"type": "relation", "head": "chiggers", "relation_type": "causes", "tail": "Trombiculosis"}
+{"type": "relation", "head": "Neotrombicula autumnalis", "relation_type": "causes", "tail": "Trombiculosis"}
+{"type": "relation", "head": "Eutrombicula alfreddugesi", "relation_type": "causes", "tail": "Trombiculosis"}
+{"type": "relation", "head": "Eutrombicula sarcina", "relation_type": "causes", "tail": "Trombiculosis"}
+{"type": "relation", "head": "Trombicula autumnalis", "relation_type": "causes", "tail": "Trombiculosis"}
+{"type": "relation", "head": "Leptotrombidium", "relation_type": "causes", "tail": "Trombiculosis"}
+{"type": "relation", "head": "Orientia tsutsugamushi", "relation_type": "causes", "tail": "scrub typhus"}
+{"type": "relation", "head": "Trombiculosis", "relation_type": "presents_as", "tail": "erythematous papules"}
+{"type": "relation", "head": "Trombiculosis", "relation_type": "presents_as", "tail": "excoriated papules"}
+{"type": "relation", "head": "Trombiculosis", "relation_type": "presents_as", "tail": "intense itching"}
+{"type": "relation", "head": "Trombiculosis", "relation_type": "presents_as", "tail": "severe pruritus"}
+{"type": "relation", "head": "Trombiculosis", "relation_type": "presents_as", "tail": "crusts"}
+{"type": "relation", "head": "Trombiculosis", "relation_type": "presents_as", "tail": "hair loss"}
+{"type": "relation", "head": "Trombiculosis", "relation_type": "presents_as", "tail": "raw, moist areas"}
+{"type": "relation", "head": "Trombiculosis", "relation_type": "presents_as", "tail": "erythema"}
+{"type": "relation", "head": "Trombiculosis", "relation_type": "presents_as", "tail": "swelling"}
+{"type": "relation", "head": "Trombiculosis", "relation_type": "differential_diagnosis", "tail": "trombidiosis"}
+{"type": "relation", "head": "Trombiculosis", "relation_type": "differential_diagnosis", "tail": "trombiculiasis"}
+{"type": "relation", "head": "Trombiculosis", "relation_type": "differential_diagnosis", "tail": "chigger bites"}
+{"type": "relation", "head": "Trombiculosis", "relation_type": "differential_diagnosis", "tail": "sarcoptic mange"}
+{"type": "relation", "head": "Trombiculosis", "relation_type": "differential_diagnosis", "tail": "demodicosis"}
+{"type": "relation", "head": "Trombiculosis", "relation_type": "differential_diagnosis", "tail": "allergic skin diseases"}
+{"type": "relation", "head": "Trombiculosis", "relation_type": "differential_diagnosis", "tail": "ringworm"}
+{"type": "relation", "head": "Trombiculosis", "relation_type": "infects", "tail": "dogs"}
+{"type": "relation", "head": "Trombiculosis", "relation_type": "infects", "tail": "cats"}
+{"type": "relation", "head": "Trombiculidae family mites", "relation_type": "infects", "tail": "dogs"}
+{"type": "relation", "head": "Trombiculidae family mites", "relation_type": "infects", "tail": "cats"}
+{"type": "relation", "head": "Trombiculosis", "relation_type": "affects", "tail": "skin"}
+{"type": "relation", "head": "Trombiculosis", "relation_type": "affects", "tail": "head"}
+{"type": "relation", "head": "Trombiculosis", "relation_type": "affects", "tail": "ears"}
+{"type": "relation", "head": "Trombiculosis", "relation_type": "affects", "tail": "feet"}
+{"type": "relation", "head": "Trombiculosis", "relation_type": "affects", "tail": "belly"}
+{"type": "relation", "head": "Trombiculosis", "relation_type": "diagnosed_by", "tail": "clinical examination"}
+{"type": "relation", "head": "Trombiculosis", "relation_type": "diagnosed_by", "tail": "skin scraping"}
+{"type": "relation", "head": "Trombiculosis", "relation_type": "treated_by", "tail": "topical treatments"}
+{"type": "relation", "head": "Trombiculosis", "relation_type": "treated_by", "tail": "injections"}
+{"type": "relation", "head": "Trombiculosis", "relation_type": "treated_by", "tail": "antibiotics"}
+{"type": "relation", "head": "Trombiculosis", "relation_type": "treated_by", "tail": "bathing"}
+{"type": "relation", "head": "Trombiculosis", "relation_type": "treated_by", "tail": "anti-inflammatory medications"}
+{"type": "relation", "head": "Trombiculosis", "relation_type": "prevented_by", "tail": "insecticides for flea control"}
+{"type": "relation", "head": "Trombiculosis", "relation_type": "prevented_by", "tail": "avoiding infested areas"}
+{"type": "relation", "head": "Trombiculosis", "relation_type": "prevented_by", "tail": "confinement during mite season"}

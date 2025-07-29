@@ -1,0 +1,23 @@
+{"type": "entity", "entity_text": "Campylobacteriosis", "entity_type": "Disease", "attr": {"type": "bacterial infectious disease", "reversibility": "usually self-limiting", "pathogenesis": "gastrointestinal infection", "complications": "Guillain-Barré syndrome"}, "reference": "WHO Campylobacter Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/campylobacter"}
+
+{"type": "entity", "entity_text": "Campylobacter jejuni", "entity_type": "Pathogen", "attr": {"source": "foodborne", "mechanism of action": "intestinal colonization"}, "reference": "VCA Animal Hospitals - https://vcahospitals.com/know-your-pet/campylobacter-infection-in-dogs"}
+
+{"type": "entity", "entity_text": "Campylobacter coli", "entity_type": "Pathogen", "attr": {"source": "pigs", "mechanism of action": "intestinal colonization"}, "reference": "Merck Veterinary Manual - https://www.merckvetmanual.com/digestive-system/enteric-campylobacteriosis/enteric-campylobacteriosis-in-animals"}
+
+{"type": "entity", "entity_text": "watery or bloody diarrhea", "entity_type": "Symptom", "attr": {"location": "gastrointestinal tract", "severity": "moderate to severe", "frequency": "common"}, "reference": "CDC About Campylobacter - https://www.cdc.gov/campylobacter/about/index.html"}
+
+{"type": "entity", "entity_text": "fecal culture", "entity_type": "Diagnosis", "attr": {"principle": "bacterial isolation", "applicable stage": "active infection", "limitations": "requires specific growth conditions"}, "reference": "Texas A&M Veterinary Medicine - https://vetmed.tamu.edu/gilab/service/assays/campylobacter/"}
+
+{"type": "entity", "entity_text": "antibiotic therapy", "entity_type": "Treatment", "attr": {"method": "oral administration", "indication": "bacterial infection", "risks": "antibiotic resistance"}, "reference": "VCA Animal Hospitals - https://vcahospitals.com/know-your-pet/campylobacter-infection-in-dogs"}
+
+{"type": "entity", "entity_text": "proper food handling", "entity_type": "Prevention", "attr": {"implementation": "separate cutting boards, thorough cooking", "target group": "all handlers", "expected effect": "reduce transmission risk"}, "reference": "CDC Preventing Campylobacter Infection - https://www.cdc.gov/campylobacter/prevention/index.html"}
+
+{"type": "relation", "head": "Campylobacter jejuni", "relation_type": "causes", "tail": "Campylobacteriosis"}
+
+{"type": "relation", "head": "Campylobacteriosis", "relation_type": "presents_as", "tail": "watery or bloody diarrhea"}
+
+{"type": "relation", "head": "Campylobacteriosis", "relation_type": "diagnosed_by", "tail": "fecal culture"}
+
+{"type": "relation", "head": "Campylobacteriosis", "relation_type": "treated_by", "tail": "antibiotic therapy"}
+
+{"type": "relation", "head": "Campylobacteriosis", "relation_type": "prevented_by", "tail": "proper food handling"}

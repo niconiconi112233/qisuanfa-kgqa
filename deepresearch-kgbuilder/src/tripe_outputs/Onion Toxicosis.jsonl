@@ -1,0 +1,21 @@
+{"type": "entity", "entity_text": "Onion toxicosis", "entity_type": "Disease", "attr": {"type": "toxicity", "reversibility": "reversible with treatment", "pathogenesis": "oxidative damage to red blood cells", "complications": "severe anemia, kidney damage"}, "reference": "Garlic and Onion (Allium spp) Toxicosis in Animals - https://www.merckvetmanual.com/toxicology/food-hazards/garlic-and-onion-allium-spp-toxicosis-in-animals"}
+
+{"type": "entity", "entity_text": "n-propyl disulfide", "entity_type": "Pathogen", "attr": {"source": "Allium species", "mechanism of action": "reduces glucose-6-phosphate dehydrogenase activity"}, "reference": "Allium species poisoning in dogs and cats - https://www.scielo.br/j/jvatitd/a/HB5wqsgNcbhcg8cGm3hy95j/?lang=en&format=pdf"}
+
+{"type": "entity", "entity_text": "sodium n-propylthiosulfate", "entity_type": "Pathogen", "attr": {"source": "Allium species", "mechanism of action": "increases methemoglobin formation and reduces glutathione"}, "reference": "Allium species poisoning in dogs and cats - https://www.scielo.br/j/jvatitd/a/HB5wqsgNcbhcg8cGm3hy95j/?lang=en&format=pdf"}
+
+{"type": "entity", "entity_text": "Heinz body formation", "entity_type": "Symptom", "attr": {"location": "red blood cells", "frequency": "within 24 hours of ingestion", "severity": "peaks at 72 hours"}, "reference": "A pungent poisoning: Onion toxicosis in a cat - https://www.dvm360.com/view/pungent-poisoning-onion-toxicosis-cat"}
+
+{"type": "entity", "entity_text": "hemolytic anemia", "entity_type": "Symptom", "attr": {"location": "blood", "frequency": "develops 3-5 days post-exposure", "severity": "can be severe"}, "reference": "Garlic and Onion (Allium spp) Toxicosis in Animals - https://www.merckvetmanual.com/toxicology/food-hazards/garlic-and-onion-allium-spp-toxicosis-in-animals"}
+
+{"type": "entity", "entity_text": "blood transfusion", "entity_type": "Treatment", "attr": {"method": "intravenous", "indication": "severe anemia", "risks": "transfusion reactions"}, "reference": "A pungent poisoning: Onion toxicosis in a cat - https://www.dvm360.com/view/pungent-poisoning-onion-toxicosis-cat"}
+
+{"type": "relation", "head": "Onion toxicosis", "relation_type": "presents_as", "tail": "hemolytic anemia"}
+
+{"type": "relation", "head": "n-propyl disulfide", "relation_type": "causes", "tail": "Onion toxicosis"}
+
+{"type": "relation", "head": "Onion toxicosis", "relation_type": "treated_by", "tail": "blood transfusion"}
+
+{"type": "entity", "entity_text": "immune-mediated hemolytic anemia", "entity_type": "DiseaseAlt", "attr": {"type": "autoimmune", "pathogenesis": "immune system attacks red blood cells"}, "reference": "DVM360: Toxicology Brief: Allium species poisoning in dogs and cats - https://www.dvm360.com/view/toxicology-brief-allium-species-poisoning-dogs-and-cats"}
+
+{"type": "relation", "head": "Onion toxicosis", "relation_type": "differential_diagnosis", "tail": "immune-mediated hemolytic anemia"}

@@ -1,0 +1,19 @@
+{"type": "entity", "entity_text": "Lymphocytosis", "entity_type": "Disease", "attr": {"type": "hematologic", "reversibility": "variable", "pathogenesis": "elevated absolute lymphocyte count"}, "reference": "Differential Diagnosis: Lymphocytosis in Dogs & Cats - https://www.cliniciansbrief.com/article/differential-diagnosis-lymphocytosis"}
+
+{"type": "entity", "entity_text": "Ehrlichia canis", "entity_type": "Pathogen", "attr": {"source": "bacterial", "mechanism of action": "causes reactive lymphocytosis"}, "reference": "Differential Diagnosis: Lymphocytosis in Dogs & Cats - https://www.cliniciansbrief.com/article/differential-diagnosis-lymphocytosis"}
+
+{"type": "entity", "entity_text": "Flow cytometry", "entity_type": "Diagnosis", "attr": {"principle": "cell surface marker detection", "applicable stage": "initial diagnosis", "limitations": "requires specialized equipment"}, "reference": "Blood Smear Review: Lymphocyte Changes in Dogs and Cats - https://todaysveterinarypractice.com/cytology/blood-smear-review-lymphocyte-changes-in-dogs-and-cats/"}
+
+{"type": "entity", "entity_text": "Monoclonal antibody therapy", "entity_type": "Treatment", "attr": {"method": "targeted immunotherapy", "indication": "immune regulation", "risks": "variable response"}, "reference": "Current Review of Monoclonal Antibody Therapeutics in Small Animals - https://pmc.ncbi.nlm.nih.gov/articles/PMC11852019/"}
+
+{"type": "relation", "head": "Ehrlichia canis", "relation_type": "causes", "tail": "Lymphocytosis"}
+
+{"type": "relation", "head": "Lymphocytosis", "relation_type": "presents_as", "tail": "lethargy"}
+
+{"type": "relation", "head": "Lymphocytosis", "relation_type": "diagnosed_by", "tail": "Flow cytometry"}
+
+{"type": "relation", "head": "Lymphocytosis", "relation_type": "treated_by", "tail": "Monoclonal antibody therapy"}
+
+{"type": "entity", "entity_text": "Vaccination", "entity_type": "Prevention", "attr": {"implementation": "routine immunization", "target group": "young animals", "expected effect": "prevent viral triggers"}, "reference": "GUIDELINE for Feline Panleukopenia - https://www.abcdcatsvets.org/guideline-for-feline-panleukopenia/"}
+
+{"type": "entity", "entity_text": "Chronic lymphocytic leukemia", "entity_type": "DiseaseAlt", "attr": {"type": "neoplastic", "pathogenesis": "lymphoid malignancy"}, "reference": "Chronic Lymphocytic Leukemia in Dogs - https://vcahospitals.com/know-your-pet/chronic-lymphocytic-leukemia-in-dogs"}

@@ -1,0 +1,87 @@
+{"type": "entity", "entity_text": "Copper storage disease", "entity_type": "Disease", "attr": {"type": "genetic", "reversibility": "treatable with management", "pathogenesis": "accumulation of copper in liver", "complications": "liver failure"}, "reference": "Copper Storage Diseases - VIN; Copper Storage Disease in Dogs - PetMD; Copper Storage Disease in Dogs and Cats - Dr. Judy Morgan's Naturally Healthy Pets"}
+{"type": "entity", "entity_text": "genetic mutation", "entity_type": "Pathogen", "attr": {"source": "inherited", "mechanism of action": "prevents liver from eliminating excess copper"}, "reference": "Copper Storage Diseases - VIN; Copper Storage Disease in Dogs - PetMD"}
+{"type": "entity", "entity_text": "lethargy", "entity_type": "Symptom", "attr": {"severity": "moderate to severe"}, "reference": "Copper Storage Disease in Dogs - PetMD; Copper Storage Disease in Dogs and Cats - Dr. Judy Morgan"}
+{"type": "entity", "entity_text": "decreased appetite", "entity_type": "Symptom", "attr": {"frequency": "common"}, "reference": "Copper Storage Disease in Dogs - PetMD; Copper Storage Disease in Dogs and Cats - Dr. Judy Morgan"}
+{"type": "entity", "entity_text": "weight loss", "entity_type": "Symptom", "attr": {"severity": "progressive"}, "reference": "Copper Storage Disease in Dogs - PetMD; Copper Storage Disease in Dogs and Cats - Dr. Judy Morgan"}
+{"type": "entity", "entity_text": "vomiting", "entity_type": "Symptom", "attr": {}, "reference": "Copper Storage Disease in Dogs - PetMD; Copper Storage Disease in Dogs and Cats - Dr. Judy Morgan"}
+{"type": "entity", "entity_text": "diarrhea", "entity_type": "Symptom", "attr": {}, "reference": "Copper Storage Disease in Dogs - PetMD; Copper Storage Disease in Dogs and Cats - Dr. Judy Morgan"}
+{"type": "entity", "entity_text": "increased thirst", "entity_type": "Symptom", "attr": {}, "reference": "Copper Storage Disease in Dogs - PetMD; Copper Storage Disease in Dogs and Cats - Dr. Judy Morgan"}
+{"type": "entity", "entity_text": "increased urination", "entity_type": "Symptom", "attr": {}, "reference": "Copper Storage Disease in Dogs - PetMD; Copper Storage Disease in Dogs and Cats - Dr. Judy Morgan"}
+{"type": "entity", "entity_text": "jaundice", "entity_type": "Symptom", "attr": {"location": "skin and eyes", "severity": "indicates advanced disease"}, "reference": "Copper Storage Hepatopathy in Cats - PetCareRx; Copper Storage Disease in Dogs - PetMD"}
+{"type": "entity", "entity_text": "pale gums", "entity_type": "Symptom", "attr": {"location": "oral mucosa", "severity": "indicates anemia"}, "reference": "Copper Storage Disease in Dogs - PetMD; Copper Storage Disease in Dogs and Cats - Dr. Judy Morgan"}
+{"type": "entity", "entity_text": "abdominal discomfort", "entity_type": "Symptom", "attr": {"location": "abdomen"}, "reference": "Copper Storage Hepatopathy in Cats - PetCareRx; Copper Storage Disease in Dogs - PetMD"}
+{"type": "entity", "entity_text": "abdominal swelling", "entity_type": "Symptom", "attr": {"location": "abdomen"}, "reference": "Copper Storage Hepatopathy in Cats - PetCareRx; Copper Storage Disease in Dogs - PetMD"}
+{"type": "entity", "entity_text": "abdominal pain", "entity_type": "Symptom", "attr": {"location": "abdomen"}, "reference": "Copper Storage Hepatopathy in Cats - PetCareRx; Copper Storage Disease in Dogs - PetMD"}
+{"type": "entity", "entity_text": "fever", "entity_type": "Symptom", "attr": {}, "reference": "Copper Storage Hepatopathy in Cats - PetCareRx; Copper Storage Disease in Dogs - PetMD"}
+{"type": "entity", "entity_text": "weakness", "entity_type": "Symptom", "attr": {}, "reference": "Copper Storage Hepatopathy in Cats - PetCareRx; Copper Storage Disease in Dogs - PetMD"}
+{"type": "entity", "entity_text": "ascites", "entity_type": "Symptom", "attr": {"location": "abdomen", "severity": "indicates advanced disease"}, "reference": "Copper Storage Hepatopathy in Cats - PetCareRx; Copper Storage Disease in Dogs - PetMD"}
+{"type": "entity", "entity_text": "Bedlington Terriers", "entity_type": "Host", "attr": {"breed": "dog"}, "reference": "Copper Storage Disease in Dogs - PetMD; Copper Storage Disease in Dogs - Veterinary Partner - VIN"}
+{"type": "entity", "entity_text": "West Highland White Terriers", "entity_type": "Host", "attr": {"breed": "dog"}, "reference": "Copper Storage Disease in Dogs - PetMD; Copper Storage Disease in Dogs - Veterinary Partner - VIN"}
+{"type": "entity", "entity_text": "Dalmatians", "entity_type": "Host", "attr": {"breed": "dog"}, "reference": "Copper Storage Disease in Dogs - PetMD; Copper Storage Disease in Dogs - Veterinary Partner - VIN"}
+{"type": "entity", "entity_text": "Labrador Retrievers", "entity_type": "Host", "attr": {"breed": "dog"}, "reference": "Copper Storage Disease in Dogs - PetMD; Copper Storage Disease in Dogs - Veterinary Partner - VIN"}
+{"type": "entity", "entity_text": "Doberman Pinschers", "entity_type": "Host", "attr": {"breed": "dog"}, "reference": "Copper Storage Disease in Dogs - PetMD; Copper Storage Disease in Dogs - Veterinary Partner - VIN"}
+{"type": "entity", "entity_text": "Skye Terriers", "entity_type": "Host", "attr": {"breed": "dog"}, "reference": "Copper Storage Disease in Dogs: Causes, Symptoms, and Treatment. VCA Animal Hospital. https://vcahospitals.com/know-your-pet/copper-storage-disease-in-dogs-causes-symptoms-and-treatment"}
+{"type": "entity", "entity_text": "cats", "entity_type": "Host", "attr": {"breed": "rare occurrence"}, "reference": "Copper Storage Disease in Dogs and Cats - Dr. Judy Morgan's Naturally Healthy Pets"}
+{"type": "entity", "entity_text": "liver", "entity_type": "Anatomy", "attr": {"physiological function": "detoxification, metabolism"}, "reference": "Copper Storage Diseases - VIN; Copper Storage Disease in Dogs - PetMD"}
+{"type": "entity", "entity_text": "blood work", "entity_type": "Diagnosis", "attr": {"principle": "detect elevated liver enzymes"}, "reference": "Copper Storage Disease in Dogs - PetMD; Diagnosing and treating canine copper-associated hepatopathies - DVM360"}
+{"type": "entity", "entity_text": "liver biopsy", "entity_type": "Diagnosis", "attr": {"principle": "definitive test", "limitations": "invasive procedure"}, "reference": "Copper Storage Disease in Dogs - PetMD; Diagnosing and treating canine copper-associated hepatopathies - DVM360; Copper Hepatopathy in Dogs | Today's Veterinary Practice"}
+{"type": "entity", "entity_text": "abdominal ultrasound", "entity_type": "Diagnosis", "attr": {"principle": "assess liver structure", "limitations": "not specific for copper storage"}, "reference": "Diagnosing and treating canine copper-associated hepatopathies - DVM360; Copper Hepatopathy in Dogs | Today's Veterinary Practice"}
+{"type": "entity", "entity_text": "low-copper diet", "entity_type": "Treatment", "attr": {"method": "dietary management", "indication": "reduce copper intake"}, "reference": "Copper Storage Disease in Dogs and Cats - https://drjudymorgan.com/blogs/blog/copper-storage-disease-in-dogs-and-cats; Copper Hepatopathy and Dietary Management - Cornell University - https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-information/copper-hepatopathy-and-dietary-management"}
+{"type": "entity", "entity_text": "D-penicillamine", "entity_type": "Treatment", "attr": {"method": "chelation therapy", "indication": "bind and remove excess copper"}, "reference": "Copper Storage Disease in Dogs and Cats - https://drjudymorgan.com/blogs/blog/copper-storage-disease-in-dogs-and-cats; Copper Storage Disease in Dogs - PetMD - https://www.petmd.com/dog/conditions/endocrine/copper-storage-disease-dogs"}
+{"type": "entity", "entity_text": "trientine", "entity_type": "Treatment", "attr": {"method": "chelation therapy", "indication": "bind and remove excess copper"}, "reference": "Copper Storage Disease in Dogs and Cats - https://drjudymorgan.com/blogs/blog/copper-storage-disease-in-dogs-and-cats; Copper Storage Disease in Dogs - PetMD - https://www.petmd.com/dog/conditions/endocrine/copper-storage-disease-dogs"}
+{"type": "entity", "entity_text": "zinc supplementation", "entity_type": "Treatment", "attr": {"method": "block copper absorption", "indication": "prevent further copper buildup"}, "reference": "Copper Storage Disease in Dogs and Cats - https://drjudymorgan.com/blogs/blog/copper-storage-disease-in-dogs-and-cats; Brewer GJ, Dick RD, Schall W, et al. Use of zinc acetate to treat copper toxicosis in dogs. JAVMA. 1992;201(4):564-568."}
+{"type": "entity", "entity_text": "antioxidant supplements", "entity_type": "Treatment", "attr": {"method": "liver support", "indication": "protect liver from oxidative damage"}, "reference": "Copper Storage Disease in Dogs and Cats - https://drjudymorgan.com/blogs/blog/copper-storage-disease-in-dogs-and-cats; Copper Storage Disease in Dogs - PetMD - https://www.petmd.com/dog/conditions/endocrine/copper-storage-disease-dogs"}
+{"type": "entity", "entity_text": "ursodiol", "entity_type": "Treatment", "attr": {"method": "improve bile flow", "indication": "reduce liver inflammation"}, "reference": "Copper Storage Disease in Dogs and Cats - https://drjudymorgan.com/blogs/blog/copper-storage-disease-in-dogs-and-cats; Diagnosing and Treating Canine Copper-Associated Hepatopathies - DVM360 - https://www.dvm360.com/view/diagnosing-and-treating-canine-copper-associated-hepatopathies"}
+{"type": "entity", "entity_text": "glucocorticoids", "entity_type": "Treatment", "attr": {"method": "anti-inflammatory", "indication": "reduce liver inflammation", "risks": "short-term use only"}, "reference": "Copper Storage Disease in Dogs and Cats - https://drjudymorgan.com/blogs/blog/copper-storage-disease-in-dogs-and-cats; Diagnosing and Treating Canine Copper-Associated Hepatopathies - DVM360 - https://www.dvm360.com/view/diagnosing-and-treating-canine-copper-associated-hepatopathies"}
+{"type": "entity", "entity_text": "low-copper diet", "entity_type": "Prevention", "attr": {"implementation": "prescription diets or homemade with low copper", "expected effect": "prevent copper accumulation"}, "reference": "Copper Hepatopathy and Dietary Management. Cornell University College of Veterinary Medicine. https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-information/copper-hepatopathy-and-dietary-management"}
+{"type": "entity", "entity_text": "avoiding copper sources", "entity_type": "Prevention", "attr": {"implementation": "flush water lines, avoid copper pipes", "expected effect": "minimize copper intake"}, "reference": "Russell K, Gillanders LK, Orr DW, Plank LD. Dietary copper restriction in Wilson's disease. Eur J Clin Nutr. 2018;72(3):326-331."}
+{"type": "entity", "entity_text": "regular monitoring", "entity_type": "Prevention", "attr": {"implementation": "bloodwork and liver biopsies", "expected effect": "early detection of copper accumulation"}, "reference": "Hoffmann G. Copper-associated liver diseases. Vet Clin North Am Small Anim Pract. 2009;39(3):489-511."}
+{"type": "entity", "entity_text": "selective breeding", "entity_type": "Prevention", "attr": {"implementation": "genetic testing", "target group": "predisposed breeds", "expected effect": "prevent passing genetic defect"}, "reference": "Dirksen K, Fieten H. Canine copper-associated hepatitis. Vet Clin North Am Small Anim Pract. 2017;47(3):631-644."}
+{"type": "entity", "entity_text": "Chronic hepatitis", "entity_type": "DiseaseAlt", "attr": {}, "reference": "Copper Storage Disease in Dogs - PetMD; Copper Storage Disease in Dogs - Veterinary Partner - VIN"}
+{"type": "entity", "entity_text": "Portosystemic shunts", "entity_type": "DiseaseAlt", "attr": {}, "reference": "Copper Storage Disease in Dogs - PetMD; Copper Storage Disease in Dogs - Veterinary Partner - VIN"}
+{"type": "entity", "entity_text": "Infectious hepatitis", "entity_type": "DiseaseAlt", "attr": {}, "reference": "Copper Storage Disease in Dogs - PetMD; Copper Storage Disease in Dogs - Veterinary Partner - VIN"}
+{"type": "entity", "entity_text": "Hepatic neoplasia", "entity_type": "DiseaseAlt", "attr": {}, "reference": "Copper Storage Disease in Dogs - PetMD; Copper Storage Disease in Dogs - Veterinary Partner - VIN"}
+{"type": "entity", "entity_text": "Nutritional hepatopathies", "entity_type": "DiseaseAlt", "attr": {}, "reference": "Copper Storage Disease in Dogs - PetMD; Copper Storage Disease in Dogs - Veterinary Partner - VIN"}
+{"type": "relation", "head": "genetic mutation", "relation_type": "causes", "tail": "Copper storage disease"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "presents_as", "tail": "lethargy"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "presents_as", "tail": "decreased appetite"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "presents_as", "tail": "weight loss"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "presents_as", "tail": "vomiting"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "presents_as", "tail": "diarrhea"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "presents_as", "tail": "increased thirst"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "presents_as", "tail": "increased urination"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "presents_as", "tail": "jaundice"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "presents_as", "tail": "pale gums"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "presents_as", "tail": "abdominal discomfort"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "presents_as", "tail": "abdominal swelling"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "presents_as", "tail": "abdominal pain"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "presents_as", "tail": "fever"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "presents_as", "tail": "weakness"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "presents_as", "tail": "ascites"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "infects", "tail": "Bedlington Terriers"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "infects", "tail": "West Highland White Terriers"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "infects", "tail": "Dalmatians"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "infects", "tail": "Labrador Retrievers"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "infects", "tail": "Doberman Pinschers"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "infects", "tail": "Skye Terriers"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "infects", "tail": "cats"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "affects", "tail": "liver"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "differential_diagnosis", "tail": "Chronic hepatitis"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "differential_diagnosis", "tail": "Portosystemic shunts"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "differential_diagnosis", "tail": "Infectious hepatitis"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "differential_diagnosis", "tail": "Hepatic neoplasia"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "differential_diagnosis", "tail": "Nutritional hepatopathies"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "diagnosed_by", "tail": "blood work"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "diagnosed_by", "tail": "liver biopsy"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "diagnosed_by", "tail": "abdominal ultrasound"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "treated_by", "tail": "low-copper diet"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "treated_by", "tail": "D-penicillamine"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "treated_by", "tail": "trientine"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "treated_by", "tail": "zinc supplementation"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "treated_by", "tail": "antioxidant supplements"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "treated_by", "tail": "ursodiol"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "treated_by", "tail": "glucocorticoids"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "prevented_by", "tail": "low-copper diet"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "prevented_by", "tail": "avoiding copper sources"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "prevented_by", "tail": "regular monitoring"}
+{"type": "relation", "head": "Copper storage disease", "relation_type": "prevented_by", "tail": "selective breeding"}

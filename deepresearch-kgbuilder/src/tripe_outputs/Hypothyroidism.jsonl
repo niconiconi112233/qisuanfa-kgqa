@@ -1,0 +1,21 @@
+{"type": "entity", "entity_text": "Hypothyroidism", "entity_type": "Disease", "attr": {"type": "endocrine disorder", "reversibility": "manageable with treatment", "pathogenesis": "thyroid gland failure to produce adequate T3/T4 hormones"}, "reference": "Canine Hypothyroidism: Diagnosis and Treatment - https://todaysveterinarypractice.com/endocrinology/canine-hypothyroidism-diagnosis-and-treatment/"}
+
+{"type": "entity", "entity_text": "lymphocytic thyroiditis", "entity_type": "Disease", "attr": {"type": "autoimmune", "pathogenesis": "immune system attacks thyroid tissue"}, "reference": "Incidence, complications and therapeutic evaluation of clinical... - https://pmc.ncbi.nlm.nih.gov/articles/PMC12063298/"}
+
+{"type": "entity", "entity_text": "lethargy", "entity_type": "Symptom", "attr": {"severity": "moderate", "frequency": "common"}, "reference": "Clinical signs and concurrent diseases of hypothyroidism in dogs... - https://pubmed.ncbi.nlm.nih.gov/17619007/"}
+
+{"type": "entity", "entity_text": "weight gain", "entity_type": "Symptom", "attr": {"frequency": "common"}, "reference": "Clinical signs and concurrent diseases of hypothyroidism in dogs... - https://pubmed.ncbi.nlm.nih.gov/17619007/"}
+
+{"type": "entity", "entity_text": "thyroid gland", "entity_type": "Anatomy", "attr": {"anatomical_location": "neck", "physiological_function": "hormone production"}, "reference": "Thyroid Function in Dogs - https://cvm.msu.edu/vdl/laboratory-sections/endocrinology/thyroid-function-in-dogs"}
+
+{"type": "entity", "entity_text": "T4/fT4 measurement", "entity_type": "Diagnosis", "attr": {"principle": "hormone level testing", "limitations": "can be affected by non-thyroidal factors"}, "reference": "Understanding and diagnosing canine hypothyroidism - https://www.dvm360.com/view/understanding-and-diagnosing-canine-hypothyroidism"}
+
+{"type": "entity", "entity_text": "levothyroxine supplementation", "entity_type": "Treatment", "attr": {"method": "oral medication", "indication": "hormone replacement", "risks": "potential overdose symptoms"}, "reference": "https://www.aaha.org/resources/2023-aaha-selected-endocrinopathies-of-dogs-and-cats-guidelines/therapy/"}
+
+{"type": "relation", "head": "Hypothyroidism", "relation_type": "presents_as", "tail": "lethargy"}
+
+{"type": "relation", "head": "Hypothyroidism", "relation_type": "affects", "tail": "thyroid gland"}
+
+{"type": "relation", "head": "Hypothyroidism", "relation_type": "diagnosed_by", "tail": "T4/fT4 measurement"}
+
+{"type": "relation", "head": "Hypothyroidism", "relation_type": "treated_by", "tail": "levothyroxine supplementation"}

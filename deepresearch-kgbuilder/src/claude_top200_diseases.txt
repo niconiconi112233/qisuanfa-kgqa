@@ -1,0 +1,442 @@
+Feline Upper Respiratory Infection
+Feline Panleukopenia
+Feline Calici Virus Infection
+Feline Herpesvirus Infectious
+Feline Coronaviral Enteritis
+Feline Lower Urinary Tract Disease
+Feline Viral Rhinotracheitis
+Feline Infectious Peritonitis
+Canine Parvoviral Enteritis
+Canine Distemper
+Canine Infectious Tracheobronchitis
+Canine Coronavirus Enteritis
+Campylobacteriosis
+Cestodiasis
+Ascariasis
+Giardiasis
+Coccidiosis
+Trichomoniasis
+Clostridium Perfringens Infection
+Staphylococcal Infection
+Trichuriasis
+Babesiosis
+Anaplasmosis
+Monocytotropic Ehrlichiosis
+Leishmaniasis
+Toxoplasmosis
+Neosporosis
+Surra
+Paragonimiasis
+Aelurostrongylus Abstrusus Infection
+Nasal Capillariasis
+Canine Brucellosis
+Pasteurellal Infection
+Hepatozoonosis
+Lyme Disease
+Canine Herpesvirus Infection
+Infectious Canine Hepatitis
+Pythiosis
+Hookworm Dermatitis
+Pelodera Dermatitis
+Dermatophilosis
+Cuterebra Species Infestation
+Lynxacarus Radovsky
+Trombiculosis
+Feline Leprosy Syndromes
+Histoplasmosis
+Cryptococcosis
+Cryptosporidiosis
+Dirofilariasis
+Salmonellosis
+Protothecosis
+Tuberculosis
+Anaerobic Infection
+Strongyloidiasis
+Physalopteran Infection
+Feline Bartonellosis
+Actinomycosis
+Leptospirosis
+Cytauxzoonosis
+Rocky Mountain Spotted Fever
+Schistosomiasis
+Hemoplasmas
+Ancylostomiasis
+Heatstroke
+Obesity
+Diabetes
+Hyperlipidemia
+Hyperadrenocorticism
+Hypothyroidism
+Lymphocytosis
+Neutrophilia
+Lymphopenia
+Neutropenia
+Thrombocytosis
+Angioedema
+Immune-mediated hemolytic anemia
+Immune-mediated thrombocytopenia
+Coagulopathies
+Thrombocytopenia
+Platelet dysfunction syndrome
+Feline hyperesthesia syndrome
+Hypoglycemia
+Acute Pancreatitis
+Chronic Pancreatitis
+Cholestasis
+Inflammatory bowel disease
+Small Intestinal Bacterial Overgrowth
+Acute Colitis
+Intussusception
+Acute Enteritis
+Hemorrhagic Gastroenteritis
+Acute Abdomen
+Gastric Dilation
+Esophagitis
+Esophageal Foreign Objects
+Esophageal Regurgitation
+Esophageal Cancer
+Gastric Foreign Objects
+Intestinal Foreign Objects
+Intestinal Obstruction
+Volvulus
+Mesenteric Torsion
+Gastric Perforation
+Gastroesophageal Intussusception
+Biliary Vomiting Syndrome
+Cholangiohepatitis
+Hepatic Encephalopathy
+Hypoglycemic Encephalopathy
+Hepatic Cirrhosis
+Hepatic vacuolation
+Extrahepatic Bile Duct Obstruction
+Choleliths
+Copper Storage Disease
+Fatty Liver
+Hypoproteinemia
+Cholecystitis
+Gallbladder Mucocele 
+Cholangitis
+Peritonitis
+Hemoabdomen
+Chylous Peritonitis
+Pleuritis
+Mediastinitis
+Hydrothorax
+Pyothorax
+Chylothorax
+Hemothorax
+Pneumothorax
+Chest Wall Penetration
+Flail Chest
+Brachycephalic Airway Syndrome
+Overlong Soft Palate
+Collapsing Trachea
+Tracheitis
+Canine Chronic Bronchitis
+Feline Idiopathic Bronchitis
+Nasopharyngeal Stenosis
+Laryngeal Foreign Body
+Nasal Foreign Body
+Feline Nasopharyngeal Polyps
+Tracheal Obstruction
+Obstructive Laryngitis
+Acute Respiratory Distress Syndrome
+Pneumonia
+Aspiration Pneumonia
+Bacterial Pneumonia
+Mycotic Pneumonia
+Viral Pneumonia
+Pleuropneumonia
+Pulmonary Abscess
+Pulmonary Edema
+Cardiogenic Pulmonary Edema
+Noncardiogenic Pulmonary Edema
+Pulmonary Thromboembolism
+Pulmonary Hypertension
+Acute Congestive Heart Failure
+Chronic Heart Failure
+Hypertrophic Cardiomyopathy
+Dilated Cardiomyopathy
+Restrictive Cardiomyopathy
+Arrhythmias
+Sinus Tachycardia
+Sinus Bradycardia
+Supraventricular Tachycardia
+Atrial Fibrillation
+Atrial Flutter
+Ventricular Tachycardia
+Ventricular Fibrillation
+Atrioventricular Block
+Sick Sinus Syndrome
+Asystole
+Atrial Standstill
+Mitral Regurgitation
+Tricuspid Regurgitation
+Aortic Regurgitation
+Mitral Valve Degeneration
+Tricuspid Valve Degeneration
+Mitral Dysplasia
+Pericardial Effusion
+Constrictive Pericarditis
+Cardiac Tamponade
+Cor Pulmonale
+Aortic Thrombosis
+Arterial thrombosis
+Venous thrombosis
+Pulmonary Artery Dilatation
+Subaortic Stenosis
+Infective Endocarditis
+Bacterial Myocarditis
+Viral Myocarditis
+Protozoal Myocarditis
+Megaoesophagus
+Esophageal Perforation
+Esophageal Diverticula
+Gastroesophageal Reflux
+Gastric Dilation-Volvulus
+Intestinal Lymphangiectasia
+Malabsorption Syndromes
+Acute Gastritis
+Chronic Gastritis
+Hemorrhagic Gastroenteritis
+Irritable Bowel Syndrome
+Exocrine Pancreatic Insufficiency
+Portal hypertension
+Congenital Portosystemic Shunt
+Hepatic Cirrhosis
+Acute Hepatitis
+Chronic Hepatitis
+Idiopathic Chronic Hepatitis
+Nodular Hyperplasia
+Hepatocellular Carcinoma
+Hepatocellular Adenoma
+Mesothelioma
+Pulmonary Neoplasia
+Renal Carcinoma
+Renal Lymphoma
+Renal Tumor
+Pyelonephritis
+Acute Kidney Injury
+Chronic Kidney Disease
+Glomerulonephritis
+Interstitial Nephritis
+Protein-Losing Nephropathy
+Uremia
+Renal Abscess
+Renal Infarction
+Nephrotic Syndrome
+Renal Atrophy
+Polycystic Kidney Disease
+Urolithiasis
+Calcium Oxalate Calculi
+Struvite Stone
+Urate Urolothiasis
+Nephrolith
+Obstructive Feline Idiopathic Cystitis
+Nonobstructive Feline Idiopathic Cystitis
+Bacterial Cystitis
+Urethral Obstruction
+Urethral Rupture
+Ureteral Obstruction
+Ureteral Rupture
+Bladder Rupture
+Bladder Trauma
+Ectopia Lentis
+Lens Luxation
+Lens Injury
+Congenital Cataract
+Hereditary Cataract
+Senile Cataract
+Nutritional Deficiency Cataract
+Posterior Capsular Opacification
+Corneal Ulcers
+Indolent-Type Ulcers
+Stromal Corneal Ulcers
+Complicated Corneal Ulcer
+Corneal Lacerations
+Corneal Perforation
+Descemetocele
+Bacterial Corneal Ulcer
+Fungal Keretitis
+Viral Keratitis
+Bacterial Keratitis
+Keratitis
+Corneal Degeneration
+Feline Acute Bullous Keratopathy
+Pigmentary Keratitis
+Lipid Keratopathy
+Corneal Dystrophy
+Corneal Abnormal Deposits
+Corneal Sequestrae
+Corneal Dermoid
+Corneal Lesions
+Exposure Keratitis
+Virus Keratitis
+Bacterial Keratitis
+Keratomalacia
+Dry Eye
+Immune-Mediated Dry Eye
+Neurogenic Keratoconjunctivitis Sicca
+Conjunctivitis
+Viral Conjunctivitis
+Bacterial Conjunctivitis
+Anaphylactic Conjunctivitis
+Chlamydial Conjunctivitis
+Parasitic Conjunctivitis
+Follicular Conjunctivitis
+Conjunctival Laceration
+Conjunctival Congestion
+Subconjunctival Hemorrhage
+Symblepharon
+Eyelid Laceration
+Eyelid Trauma
+Eyelid Mass
+Eyelid Defect
+Entropion
+Ectropion
+Lagophthalmos
+Ptosis
+Aplasia Papebrae
+Distichiasis
+Ectopic Cilia
+Trichiasis
+Medial Canthal Trichiasis
+Medial Canthal Pocket Syndrome
+Medial Canthal Laceration
+Blepharitis
+Horners Syndrome
+Glaucoma
+Primary Open-Angle Glaucoma
+Secondary Glaucoma
+Malignant Glaucoma
+Uveitis
+Anterior Uveitis
+Panuveitis
+Traumatic Uveitis
+Immune-Mediated Uveitis
+Uveal Melanoma
+Iris Atrophy
+Senile Iris Atrophy
+Iris Neoplasms
+Iris Cysts
+Anterior Synechia
+Hyphema
+Hypopyon
+Retinal Detachment
+Retinal Degeneration
+Progressive Retinal Degeneration
+Hereditary Retinal Dystrophy
+Retinal Pigment Epithelial
+Retinal Hemorrhages
+Spontaneous Retinal Dysplasia
+Retinopathies Of Nutritional
+Sudden Acquired Retinal Degeneration
+Diabetic Retinopathy
+Immune-Mediated Retinopathy
+Cancer-Associated Retinopathy 
+Hypertensive Retinopathy
+Retinal Toxicity
+Immune-Mediated Retinitis
+Taurine Deficiency Retinopathy
+Hereditary Tapetal Degeneration
+Induced Retinal Dysplasia
+Optic Nerve Hypoplasia
+Optic neuritis
+Papilledema
+Retinal Vascular Occlusion
+Retinal Pigment Epithelial Dystrophy
+Corneal Endothelial Dystrophy
+Corneal Degeneration
+Lipid Keratopathy
+Ocular Mucin Deficiency
+Eosinophilic Keratitis
+Pigmentary Keratitis
+Corneal Cloudiness
+Corneal Opacities
+Corneal Lesions
+Corneal Perforation
+Descemetocele
+Bacterial Corneal Ulcer
+Fungal Keretitis
+Viral Keratitis
+Bacterial Keratitis
+Keratomalacia
+Dry Eye
+Immune-Mediated Dry Eye
+Neurogenic Keratoconjunctivitis Sicca
+Conjunctivitis
+Viral Conjunctivitis
+Bacterial Conjunctivitis
+Anaphylactic Conjunctivitis
+Chlamydial Conjunctivitis
+Parasitic Conjunctivitis
+Follicular Conjunctivitis
+Conjunctival Laceration
+Conjunctival Congestion
+Subconjunctival Hemorrhage
+Symblepharon
+Eyelid Laceration
+Eyelid Trauma
+Eyelid Mass
+Eyelid Defect
+Entropion
+Ectropion
+Lagophthalmos
+Ptosis
+Aplasia Papebrae
+Distichiasis
+Ectopic Cilia
+Trichiasis
+Medial Canthal Trichiasis
+Medial Canthal Pocket Syndrome
+Medial Canthal Laceration
+Blepharitis
+Horners Syndrome
+Glaucoma
+Primary Open-Angle Glaucoma
+Secondary Glaucoma
+Malignant Glaucoma
+Uveitis
+Anterior Uveitis
+Panuveitis
+Traumatic Uveitis
+Immune-Mediated Uveitis
+Uveal Melanoma
+Iris Atrophy
+Senile Iris Atrophy
+Iris Neoplasms
+Iris Cysts
+Anterior Synechia
+Hyphema
+Hypopyon
+Retinal Detachment
+Retinal Degeneration
+Progressive Retinal Degeneration
+Hereditary Retinal Dystrophy
+Retinal Pigment Epithelial
+Retinal Hemorrhages
+Spontaneous Retinal Dysplasia
+Retinopathies Of Nutritional
+Sudden Acquired Retinal Degeneration
+Diabetic Retinopathy
+Immune-Mediated Retinopathy
+Cancer-Associated Retinopathy 
+Hypertensive Retinopathy
+Retinal Toxicity
+Immune-Mediated Retinitis
+Taurine Deficiency Retinopathy
+Hereditary Tapetal Degeneration
+Induced Retinal Dysplasia
+Optic Nerve Hypoplasia
+Optic neuritis
+Papilledema
+Retinal Vascular Occlusion
+Retinal Pigment Epithelial Dystrophy
+Corneal Endothelial Dystrophy
+Corneal Degeneration
+Lipid Keratopathy
+Ocular Mucin Deficiency
+Eosinophilic Keratitis
+Pigmentary Keratitis
+Corneal Cloudiness
+Corneal Opacities

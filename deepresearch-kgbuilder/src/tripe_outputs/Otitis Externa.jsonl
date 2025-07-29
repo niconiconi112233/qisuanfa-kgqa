@@ -1,0 +1,23 @@
+{"type": "entity", "entity_text": "Otitis externa", "entity_type": "Disease", "attr": {"type": "inflammatory", "reversibility": "reversible with treatment", "pathogenesis": "inflammation of external ear canal and pinna", "complications": "can progress to otitis media"}, "reference": "Canine otitis externa — Treatment and complications - https://pmc.ncbi.nlm.nih.gov/articles/PMC6294027/"}
+
+{"type": "entity", "entity_text": "Staphylococcus", "entity_type": "Pathogen", "attr": {"source": "bacterial", "mechanism of action": "biofilm formation"}, "reference": "Pseudomonas otitis externa in dogs - https://pmc.ncbi.nlm.nih.gov/articles/PMC6190182/"}
+
+{"type": "entity", "entity_text": "Malassezia pachydermatis", "entity_type": "Pathogen", "attr": {"source": "fungal", "mechanism of action": "overgrowth in ear canal"}, "reference": "Otitis Externa in Animals - Ear Disorders - Merck Veterinary Manual"}
+
+{"type": "entity", "entity_text": "head shaking", "entity_type": "Symptom", "attr": {"location": "head", "severity": "variable"}, "reference": "Canine otitis externa — Treatment and complications - https://pmc.ncbi.nlm.nih.gov/articles/PMC6294027/"}
+
+{"type": "entity", "entity_text": "ear canal cytology", "entity_type": "Diagnosis", "attr": {"principle": "microscopic examination", "applicable stage": "all cases", "limitations": "requires proper sampling"}, "reference": "Otitis Externa in Animals - Ear Disorders - Merck Veterinary Manual"}
+
+{"type": "entity", "entity_text": "medicated ear drops", "entity_type": "Treatment", "attr": {"method": "topical", "indication": "bacterial/fungal infections", "risks": "potential resistance"}, "reference": "Canine otitis externa — Treatment and complications - https://pmc.ncbi.nlm.nih.gov/articles/PMC6294027/"}
+
+{"type": "relation", "head": "Staphylococcus", "relation_type": "causes", "tail": "Otitis externa"}
+
+{"type": "relation", "head": "Otitis externa", "relation_type": "presents_as", "tail": "head shaking"}
+
+{"type": "relation", "head": "Otitis externa", "relation_type": "diagnosed_by", "tail": "ear canal cytology"}
+
+{"type": "relation", "head": "Otitis externa", "relation_type": "treated_by", "tail": "medicated ear drops"}
+
+{"type": "entity", "entity_text": "regular ear cleaning", "entity_type": "Prevention", "attr": {"implementation": "after water exposure", "target group": "swimming dogs", "expected effect": "prevent moisture accumulation"}, "reference": "Cornell University College of Veterinary Medicine - Canine Health Information"}
+
+{"type": "relation", "head": "Otitis externa", "relation_type": "prevented_by", "tail": "regular ear cleaning"}

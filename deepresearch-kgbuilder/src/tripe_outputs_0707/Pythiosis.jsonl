@@ -1,0 +1,81 @@
+{"type": "entity", "entity_text": "Pythiosis", "entity_type": "Disease", "attr": {"type": "infectious", "reversibility": "often irreversible", "pathogenesis": "invasion of tissues by water mold", "complications": "spread to other organs"}, "reference": "Pythiosis in Small Animals - MiraVista Vets"}
+{"type": "entity", "entity_text": "Pythium insidiosum", "entity_type": "Pathogen", "attr": {"source": "warm, swampy environments", "mechanism of action": "tissue invasion"}, "reference": "Pythiosis in Small Animals - MiraVista VETERINARY Diagnostics. https://miravistavets.com/fungal-diseases/pythiosis/pythiosis-in-small-animals/"}
+{"type": "entity", "entity_text": "cutaneous pythiosis", "entity_type": "Disease", "attr": {"type": "skin infection", "reversibility": "poor without treatment", "pathogenesis": "direct contact with contaminated water"}, "reference": "Pythiosis in Small Animals - MiraVista VETERINARY Diagnostics. https://miravistavets.com/fungal-diseases/pythiosis/pythiosis-in-small-animals/"}
+{"type": "entity", "entity_text": "gastrointestinal pythiosis", "entity_type": "Disease", "attr": {"type": "GI infection", "reversibility": "poor without treatment", "pathogenesis": "ingestion of infected plants or water"}, "reference": "Pythiosis in Small Animals - MiraVista VETERINARY Diagnostics. https://miravistavets.com/fungal-diseases/pythiosis/pythiosis-in-small-animals/"}
+{"type": "entity", "entity_text": "non-healing, ulcerated skin lesions", "entity_type": "Symptom", "attr": {"location": "limbs, ventral trunk, perineum", "severity": "severe"}, "reference": "Pythiosis in Small Animals - MiraVista Vets"}
+{"type": "entity", "entity_text": "draining tracts", "entity_type": "Symptom", "attr": {"location": "skin lesions"}, "reference": "Pythiosis in Small Animals - MiraVista Vets"}
+{"type": "entity", "entity_text": "vomiting", "entity_type": "Symptom", "attr": {"location": "gastrointestinal"}, "reference": "PDF: Pythiosis in Small Animals - MiraVista VETERINARY Diagnostics"}
+{"type": "entity", "entity_text": "diarrhea", "entity_type": "Symptom", "attr": {"location": "gastrointestinal"}, "reference": "PDF: Pythiosis in Small Animals - MiraVista VETERINARY Diagnostics"}
+{"type": "entity", "entity_text": "weight loss", "entity_type": "Symptom", "attr": {"severity": "progressive"}, "reference": "PDF: Pythiosis in Small Animals - MiraVista VETERINARY Diagnostics"}
+{"type": "entity", "entity_text": "abdominal mass", "entity_type": "Symptom", "attr": {"location": "abdomen"}, "reference": "PDF: Pythiosis in Small Animals - MiraVista VETERINARY Diagnostics"}
+{"type": "entity", "entity_text": "hematochezia", "entity_type": "Symptom", "attr": {"location": "stool", "severity": "moderate to severe"}, "reference": "PDF: Pythiosis in Small Animals - MiraVista VETERINARY Diagnostics"}
+{"type": "entity", "entity_text": "tenesmus", "entity_type": "Symptom", "attr": {"location": "rectum"}, "reference": "PDF: Pythiosis in Small Animals - MiraVista VETERINARY Diagnostics"}
+{"type": "entity", "entity_text": "decreased appetite", "entity_type": "Symptom", "attr": {"severity": "variable"}, "reference": "PDF: Pythiosis in Small Animals - MiraVista VETERINARY Diagnostics"}
+{"type": "entity", "entity_text": "poor body condition", "entity_type": "Symptom", "attr": {"severity": "progressive"}, "reference": "PDF: Pythiosis in Small Animals - MiraVista VETERINARY Diagnostics"}
+{"type": "entity", "entity_text": "tachypnea", "entity_type": "Symptom", "attr": {"location": "respiratory system"}, "reference": "PDF: Pythiosis in Small Animals - MiraVista VETERINARY Diagnostics"}
+{"type": "entity", "entity_text": "dyspnea", "entity_type": "Symptom", "attr": {"location": "respiratory system", "severity": "moderate to severe"}, "reference": "PDF: Pythiosis in Small Animals - MiraVista VETERINARY Diagnostics"}
+{"type": "entity", "entity_text": "cough", "entity_type": "Symptom", "attr": {"location": "respiratory system"}, "reference": "PDF: Pythiosis in Small Animals - MiraVista VETERINARY Diagnostics"}
+{"type": "entity", "entity_text": "stranguria", "entity_type": "Symptom", "attr": {"location": "urinary system"}, "reference": "PDF: Pythiosis in Small Animals - MiraVista VETERINARY Diagnostics"}
+{"type": "entity", "entity_text": "pollakiuria", "entity_type": "Symptom", "attr": {"location": "urinary system"}, "reference": "PDF: Pythiosis in Small Animals - MiraVista VETERINARY Diagnostics"}
+{"type": "entity", "entity_text": "hematuria", "entity_type": "Symptom", "attr": {"location": "urine"}, "reference": "PDF: Pythiosis in Small Animals - MiraVista VETERINARY Diagnostics"}
+{"type": "entity", "entity_text": "dogs", "entity_type": "Host", "attr": {}, "reference": "Pythiosis in Small Animals - MiraVista VETERINARY Diagnostics. https://miravistavets.com/fungal-diseases/pythiosis/pythiosis-in-small-animals/"}
+{"type": "entity", "entity_text": "cats", "entity_type": "Host", "attr": {}, "reference": "Pythiosis in Small Animals - MiraVista VETERINARY Diagnostics. https://miravistavets.com/fungal-diseases/pythiosis/pythiosis-in-small-animals/"}
+{"type": "entity", "entity_text": "skin", "entity_type": "Anatomy", "attr": {"anatomical location": "external body surface"}, "reference": "Pythiosis in Small Animals - MiraVista VETERINARY Diagnostics. https://miravistavets.com/fungal-diseases/pythiosis/pythiosis-in-small-animals/"}
+{"type": "entity", "entity_text": "gastrointestinal tract", "entity_type": "Anatomy", "attr": {"anatomical location": "digestive system", "physiological function": "digestion and absorption"}, "reference": "Pythiosis in Small Animals - MiraVista VETERINARY Diagnostics. https://miravistavets.com/fungal-diseases/pythiosis/pythiosis-in-small-animals/"}
+{"type": "entity", "entity_text": "lungs", "entity_type": "Anatomy", "attr": {"anatomical location": "thoracic cavity", "physiological function": "respiration"}, "reference": "Pythiosis in Small Animals - MiraVista Vets"}
+{"type": "entity", "entity_text": "urinary tract", "entity_type": "Anatomy", "attr": {"anatomical location": "urogenital system", "physiological function": "urine excretion"}, "reference": "Pythiosis in Small Animals - MiraVista Vets"}
+{"type": "entity", "entity_text": "MiraVista Pythium IgG enzyme immunoassay", "entity_type": "Diagnosis", "attr": {"principle": "antibody detection", "applicable stage": "all stages", "limitations": "may cross-react with other oomycetes"}, "reference": "Pythiosis in Small Animals - MiraVista Vets"}
+{"type": "entity", "entity_text": "cytology", "entity_type": "Diagnosis", "attr": {"principle": "microscopic examination", "limitations": "organism often difficult to visualize"}, "reference": "Pythiosis in Small Animals - MiraVista VETERINARY Diagnostics. https://miravistavets.com/fungal-diseases/pythiosis/pythiosis-in-small-animals/"}
+{"type": "entity", "entity_text": "histopathology", "entity_type": "Diagnosis", "attr": {"principle": "tissue examination", "limitations": "organism often difficult to identify"}, "reference": "Pythiosis in Small Animals - MiraVista VETERINARY Diagnostics. https://miravistavets.com/fungal-diseases/pythiosis/pythiosis-in-small-animals/"}
+{"type": "entity", "entity_text": "abdominal ultrasound", "entity_type": "Diagnosis", "attr": {"principle": "imaging", "applicable stage": "gastrointestinal pythiosis"}, "reference": "Pythiosis (Oomycosis, Lagenidiosis, Swamp Cancer, Bursatti, Leeches) in Dogs, Cats and Horses - Veterinary Partner - VIN"}
+{"type": "entity", "entity_text": "CT scan", "entity_type": "Diagnosis", "attr": {"principle": "imaging", "applicable stage": "advanced disease"}, "reference": "Pythiosis (Oomycosis, Lagenidiosis, Swamp Cancer, Bursatti, Leeches) in Dogs, Cats and Horses - Veterinary Partner - VIN"}
+{"type": "entity", "entity_text": "surgical excision", "entity_type": "Treatment", "attr": {"method": "surgical removal", "indication": "cutaneous pythiosis", "risks": "incomplete removal"}, "reference": "Pythiosis in Dogs - Veterinary Clinics: Small Animal Practice"}
+{"type": "entity", "entity_text": "itraconazole", "entity_type": "Treatment", "attr": {"method": "antifungal medication", "indication": "all forms of pythiosis"}, "reference": "Pythiosis in Small Animals - MiraVista VETERINARY Diagnostics"}
+{"type": "entity", "entity_text": "terbinafine", "entity_type": "Treatment", "attr": {"method": "antifungal medication", "indication": "all forms of pythiosis"}, "reference": "Pythiosis in Small Animals - MiraVista VETERINARY Diagnostics"}
+{"type": "entity", "entity_text": "prednisone", "entity_type": "Treatment", "attr": {"method": "immunosuppressant", "indication": "gastrointestinal pythiosis"}, "reference": "Successful management of 3 dogs with colonic pythiosis using itraconzaole, terbinafine, and prednisone. J Vet Intern Med. 2019; 33:1434-1439."}
+{"type": "entity", "entity_text": "pythiosis vaccine", "entity_type": "Prevention", "attr": {"implementation": "vaccination", "target group": "diagnosed dogs", "expected effect": "limit disease progression"}, "reference": "Water Mold Infection (Pythiosis) in Dogs - PetMD"}
+{"type": "entity", "entity_text": "limiting exposure to stagnant water", "entity_type": "Prevention", "attr": {"implementation": "environmental management", "target group": "all pets", "expected effect": "reduce infection risk"}, "reference": "Pythiosis in Small Animals - MiraVista VETERINARY Diagnostics"}
+{"type": "entity", "entity_text": "Histoplasmosis", "entity_type": "DiseaseAlt", "attr": {"type": "fungal infection"}, "reference": "Yolanda H, Krajaejun T. Global distribution and clinical features of pythiosis in humans and animals. J Fungi (Basel). 2022;8(5):458. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8879638/]"}
+{"type": "entity", "entity_text": "Lagenidiosis", "entity_type": "DiseaseAlt", "attr": {"type": "oomycete infection"}, "reference": "Yolanda H, Krajaejun T. Global distribution and clinical features of pythiosis in humans and animals. J Fungi (Basel). 2022;8(5):458. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8879638/]"}
+{"type": "entity", "entity_text": "Conidiobolomycosis", "entity_type": "DiseaseAlt", "attr": {"type": "fungal infection"}, "reference": "Yolanda H, Krajaejun T. Global distribution and clinical features of pythiosis in humans and animals. J Fungi (Basel). 2022;8(5):458. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8879638/]"}
+{"type": "entity", "entity_text": "Basidiobolomycosis", "entity_type": "DiseaseAlt", "attr": {"type": "fungal infection"}, "reference": "Yolanda H, Krajaejun T. Global distribution and clinical features of pythiosis in humans and animals. J Fungi (Basel). 2022;8(5):458. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8879638/]"}
+{"type": "entity", "entity_text": "Gastrointestinal cancers", "entity_type": "DiseaseAlt", "attr": {"type": "neoplasia"}, "reference": "Berryessa NA, Marks SL, Pesavento PA, et al. Gastrointestinal pythiosis in 10 dogs from California. J Vet Intern Med. 2008;22(5):1065-1069. [https://miravistavets.com/wp-content/uploads/2023/04/CR_VETS_Clinical-Review-Pythium-1.pdf]"}
+{"type": "relation", "head": "Pythium insidiosum", "relation_type": "causes", "tail": "Pythiosis"}
+{"type": "relation", "head": "Pythiosis", "relation_type": "presents_as", "tail": "non-healing, ulcerated skin lesions"}
+{"type": "relation", "head": "Pythiosis", "relation_type": "presents_as", "tail": "draining tracts"}
+{"type": "relation", "head": "gastrointestinal pythiosis", "relation_type": "presents_as", "tail": "vomiting"}
+{"type": "relation", "head": "gastrointestinal pythiosis", "relation_type": "presents_as", "tail": "diarrhea"}
+{"type": "relation", "head": "gastrointestinal pythiosis", "relation_type": "presents_as", "tail": "weight loss"}
+{"type": "relation", "head": "gastrointestinal pythiosis", "relation_type": "presents_as", "tail": "abdominal mass"}
+{"type": "relation", "head": "gastrointestinal pythiosis", "relation_type": "presents_as", "tail": "hematochezia"}
+{"type": "relation", "head": "gastrointestinal pythiosis", "relation_type": "presents_as", "tail": "tenesmus"}
+{"type": "relation", "head": "gastrointestinal pythiosis", "relation_type": "presents_as", "tail": "decreased appetite"}
+{"type": "relation", "head": "gastrointestinal pythiosis", "relation_type": "presents_as", "tail": "poor body condition"}
+{"type": "relation", "head": "Pythiosis", "relation_type": "presents_as", "tail": "tachypnea"}
+{"type": "relation", "head": "Pythiosis", "relation_type": "presents_as", "tail": "dyspnea"}
+{"type": "relation", "head": "Pythiosis", "relation_type": "presents_as", "tail": "cough"}
+{"type": "relation", "head": "Pythiosis", "relation_type": "presents_as", "tail": "stranguria"}
+{"type": "relation", "head": "Pythiosis", "relation_type": "presents_as", "tail": "pollakiuria"}
+{"type": "relation", "head": "Pythiosis", "relation_type": "presents_as", "tail": "hematuria"}
+{"type": "relation", "head": "Pythium insidiosum", "relation_type": "infects", "tail": "dogs"}
+{"type": "relation", "head": "Pythium insidiosum", "relation_type": "infects", "tail": "cats"}
+{"type": "relation", "head": "cutaneous pythiosis", "relation_type": "affects", "tail": "skin"}
+{"type": "relation", "head": "gastrointestinal pythiosis", "relation_type": "affects", "tail": "gastrointestinal tract"}
+{"type": "relation", "head": "Pythiosis", "relation_type": "affects", "tail": "lungs"}
+{"type": "relation", "head": "Pythiosis", "relation_type": "affects", "tail": "urinary tract"}
+{"type": "relation", "head": "Pythiosis", "relation_type": "diagnosed_by", "tail": "MiraVista Pythium IgG enzyme immunoassay"}
+{"type": "relation", "head": "Pythiosis", "relation_type": "diagnosed_by", "tail": "cytology"}
+{"type": "relation", "head": "Pythiosis", "relation_type": "diagnosed_by", "tail": "histopathology"}
+{"type": "relation", "head": "gastrointestinal pythiosis", "relation_type": "diagnosed_by", "tail": "abdominal ultrasound"}
+{"type": "relation", "head": "Pythiosis", "relation_type": "diagnosed_by", "tail": "CT scan"}
+{"type": "relation", "head": "cutaneous pythiosis", "relation_type": "treated_by", "tail": "surgical excision"}
+{"type": "relation", "head": "Pythiosis", "relation_type": "treated_by", "tail": "itraconazole"}
+{"type": "relation", "head": "Pythiosis", "relation_type": "treated_by", "tail": "terbinafine"}
+{"type": "relation", "head": "gastrointestinal pythiosis", "relation_type": "treated_by", "tail": "prednisone"}
+{"type": "relation", "head": "Pythiosis", "relation_type": "prevented_by", "tail": "pythiosis vaccine"}
+{"type": "relation", "head": "Pythiosis", "relation_type": "prevented_by", "tail": "limiting exposure to stagnant water"}
+{"type": "relation", "head": "Pythiosis", "relation_type": "differential_diagnosis", "tail": "Histoplasmosis"}
+{"type": "relation", "head": "Pythiosis", "relation_type": "differential_diagnosis", "tail": "Lagenidiosis"}
+{"type": "relation", "head": "Pythiosis", "relation_type": "differential_diagnosis", "tail": "Conidiobolomycosis"}
+{"type": "relation", "head": "Pythiosis", "relation_type": "differential_diagnosis", "tail": "Basidiobolomycosis"}
+{"type": "relation", "head": "gastrointestinal pythiosis", "relation_type": "differential_diagnosis", "tail": "Gastrointestinal cancers"}

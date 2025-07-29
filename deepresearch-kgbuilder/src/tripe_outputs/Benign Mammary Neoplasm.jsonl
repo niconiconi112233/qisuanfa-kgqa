@@ -1,0 +1,29 @@
+{"type": "entity", "entity_text": "Benign mammary neoplasm", "entity_type": "Disease", "attr": {"type": "non-cancerous tumor", "reversibility": "non-malignant", "pathogenesis": "hormonal influence", "complications": "increased risk of malignant tumors"}, "reference": "American College of Veterinary Surgeons (ACVS) - https://www.acvs.org/small-animal/mammary-tumors/"}
+
+{"type": "entity", "entity_text": "well-circumscribed firm nodules", "entity_type": "Symptom", "attr": {"location": "mammary tissue", "severity": "variable", "frequency": "common"}, "reference": "VCA Hospitals - https://vcahospitals.com/know-your-pet/mammary-tumors-in-dogs-benign"}
+
+{"type": "entity", "entity_text": "female dogs", "entity_type": "Host", "attr": {"breed": "poodles, dachshunds, spaniels", "age group": "middle-aged to older"}, "reference": "Merck Veterinary Manual - https://www.msdvetmanual.com/reproductive-system/mammary-tumors-in-dogs/mammary-tumors-in-dogs"}
+
+{"type": "entity", "entity_text": "mammary tissue", "entity_type": "Anatomy", "attr": {"anatomical location": "chest and abdomen", "physiological function": "milk production"}, "reference": "National Center for Biotechnology Information (NCBI) - https://www.ncbi.nlm.nih.gov/books/NBK9542/"}
+
+{"type": "entity", "entity_text": "Fine-needle aspiration cytology", "entity_type": "Diagnosis", "attr": {"principle": "cell examination", "limitations": "limited differentiation between benign and malignant", "applicable stage": "initial assessment"}, "reference": "Merck Veterinary Manual - https://www.msdvetmanual.com/reproductive-system/mammary-tumors-in-dogs/mammary-tumors-in-dogs"}
+
+{"type": "entity", "entity_text": "Surgery", "entity_type": "Treatment", "attr": {"method": "mastectomy", "indication": "tumor removal", "risks": "surgical complications"}, "reference": "American College of Veterinary Surgeons (ACVS) - https://www.acvs.org/small-animal/mammary-tumors/"}
+
+{"type": "entity", "entity_text": "Early spaying", "entity_type": "Prevention", "attr": {"implementation": "before first heat cycle", "target group": "young female dogs", "expected effect": "significant risk reduction"}, "reference": "Canine Mammary Tumors: Classification, Biomarkers, Traditional and Personalized Therapies - https://pmc.ncbi.nlm.nih.gov/articles/PMC10931591/"}
+
+{"type": "entity", "entity_text": "Malignant mammary tumors", "entity_type": "DiseaseAlt", "attr": {"type": "cancerous tumor", "reversibility": "malignant"}, "reference": "VCA Hospitals - https://vcahospitals.com/know-your-pet/mammary-tumors-in-dogs-malignant"}
+
+{"type": "relation", "head": "Benign mammary neoplasm", "relation_type": "infects", "tail": "female dogs"}
+
+{"type": "relation", "head": "Benign mammary neoplasm", "relation_type": "presents_as", "tail": "well-circumscribed firm nodules"}
+
+{"type": "relation", "head": "Benign mammary neoplasm", "relation_type": "affects", "tail": "mammary tissue"}
+
+{"type": "relation", "head": "Benign mammary neoplasm", "relation_type": "diagnosed_by", "tail": "Fine-needle aspiration cytology"}
+
+{"type": "relation", "head": "Benign mammary neoplasm", "relation_type": "treated_by", "tail": "Surgery"}
+
+{"type": "relation", "head": "Benign mammary neoplasm", "relation_type": "prevented_by", "tail": "Early spaying"}
+
+{"type": "relation", "head": "Benign mammary neoplasm", "relation_type": "differential_diagnosis", "tail": "Malignant mammary tumors"}

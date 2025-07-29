@@ -1,0 +1,19 @@
+{"type": "entity", "entity_text": "Hyperadrenocorticism", "entity_type": "Disease", "attr": {"type": "endocrine disorder", "pathogenesis": "excessive cortisol production", "reversibility": "manageable but usually not curable"}, "reference": "Veterinary Partner - https://veterinarypartner.vin.com/doc/?id=4951495&pid=19239"}
+
+{"type": "entity", "entity_text": "pituitary tumor", "entity_type": "Pathogen", "attr": {"source": "endogenous", "mechanism of action": "overproduction of ACTH hormone"}, "reference": "Morris Animal Foundation - https://www.morrisanimalfoundation.org/article/understanding-hyperadrenocorticism-cushings-syndrome-dogs"}
+
+{"type": "entity", "entity_text": "increased thirst and urination", "entity_type": "Symptom", "attr": {"location": "systemic", "frequency": "common", "severity": "moderate to severe"}, "reference": "Merck Veterinary Manual - https://www.merckvetmanual.com/endocrine-system/the-pituitary-gland/cushing-disease-pituitary-dependent-hyperadrenocorticism-in-animals"}
+
+{"type": "entity", "entity_text": "low-dose dexamethasone suppression test", "entity_type": "Diagnosis", "attr": {"principle": "cortisol measurement after dexamethasone administration", "applicable stage": "initial screening", "accuracy": "90% sensitivity"}, "reference": "VCA Hospitals - https://vcahospitals.com/know-your-pet/cushings-disease-testing"}
+
+{"type": "entity", "entity_text": "trilostane", "entity_type": "Treatment", "attr": {"method": "oral medication", "indication": "both pituitary and adrenal-dependent forms", "risks": "gastrointestinal issues, rare adrenal necrosis"}, "reference": "Today's Veterinary Practice - https://todaysveterinarypractice.com/endocrinology/treatment-of-pituitary-dependent-hyperadrenocorticism/"}
+
+{"type": "relation", "head": "pituitary tumor", "relation_type": "causes", "tail": "Hyperadrenocorticism"}
+
+{"type": "relation", "head": "Hyperadrenocorticism", "relation_type": "presents_as", "tail": "increased thirst and urination"}
+
+{"type": "relation", "head": "Hyperadrenocorticism", "relation_type": "diagnosed_by", "tail": "low-dose dexamethasone suppression test"}
+
+{"type": "relation", "head": "Hyperadrenocorticism", "relation_type": "treated_by", "tail": "trilostane"}
+
+{"type": "entity", "entity_text": "allergic disease", "entity_type": "DiseaseAlt", "attr": {"type": "immune-mediated", "age_onset": "younger than Cushing's"}, "reference": "DVM360 - www.dvm360.com/view/canine-cushings-case-files-ins-and-outs-detection-and-treatment-case-file-dogs-with-recurring-pyoder"}

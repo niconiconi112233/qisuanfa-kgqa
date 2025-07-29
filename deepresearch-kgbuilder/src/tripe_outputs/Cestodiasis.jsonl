@@ -1,0 +1,21 @@
+{"type": "entity", "entity_text": "Cestodiasis", "entity_type": "Disease", "attr": {"type": "parasitic infection", "reversibility": "treatable", "pathogenesis": "tapeworm infestation", "complications": "intestinal blockage"}, "reference": "Tapeworms of dogs and cats in North America - https://krex.k-state.edu/bitstreams/d0d66018-3558-429a-87ee-9792f263ce57/download"}
+
+{"type": "entity", "entity_text": "Dipylidium caninum", "entity_type": "Pathogen", "attr": {"source": "fleas", "mechanism of action": "intestinal parasitism"}, "reference": "Tapeworms of dogs and cats in North America - https://krex.k-state.edu/bitstreams/d0d66018-3558-429a-87ee-9792f263ce57/download"}
+
+{"type": "entity", "entity_text": "failure to grow", "entity_type": "Symptom", "attr": {"severity": "moderate", "frequency": "common", "location": "systemic"}, "reference": "Small Door Veterinary - https://www.smalldoorvet.com/learning-center/medical/tapeworms-in-dogs/"}
+
+{"type": "entity", "entity_text": "praziquantel", "entity_type": "Treatment", "attr": {"method": "oral medication", "indication": "cestode elimination", "risks": "resistance development"}, "reference": "Clinical forms of peritoneal larval cestodiasis by Mesocestoides spp. - https://pmc.ncbi.nlm.nih.gov/articles/PMC8084795/"}
+
+{"type": "entity", "entity_text": "PCR testing", "entity_type": "Diagnosis", "attr": {"principle": "molecular detection", "limitations": "false negatives possible", "applicable stage": "all stages"}, "reference": "Comparison of diagnostic methods for laboratory diagnosis of the zoonotic tapeworm Dipylidium caninum in cats - https://pubmed.ncbi.nlm.nih.gov/39116546/"}
+
+{"type": "entity", "entity_text": "strategic deworming", "entity_type": "Prevention", "attr": {"implementation": "regular schedule", "target group": "all pets", "expected effect": "infection prevention"}, "reference": "Parasite Control - Veterinary Preventive Medicine - https://pressbooks.umn.edu/vetprevmed/chapter/chapter-5-parasite-control/"}
+
+{"type": "relation", "head": "Dipylidium caninum", "relation_type": "causes", "tail": "Cestodiasis"}
+
+{"type": "relation", "head": "Cestodiasis", "relation_type": "presents_as", "tail": "failure to grow"}
+
+{"type": "relation", "head": "Cestodiasis", "relation_type": "treated_by", "tail": "praziquantel"}
+
+{"type": "relation", "head": "Cestodiasis", "relation_type": "diagnosed_by", "tail": "PCR testing"}
+
+{"type": "relation", "head": "Cestodiasis", "relation_type": "prevented_by", "tail": "strategic deworming"}

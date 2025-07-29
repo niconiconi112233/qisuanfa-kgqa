@@ -1,0 +1,63 @@
+{"type": "entity", "entity_text": "Schistosomiasis", "entity_type": "Disease", "attr": {"type": "neglected tropical disease", "pathogenesis": "caused by parasitic flatworms"}, "reference": "Schistosomiasis | Nature Reviews Disease Primers - https://www.nature.com/articles/s41572-018-0013-8"}
+{"type": "entity", "entity_text": "blood flukes", "entity_type": "Pathogen", "attr": {"source": "genus Schistosoma"}, "reference": "Schistosomiasis | Nature Reviews Disease Primers - https://www.nature.com/articles/s41572-018-0013-8"}
+{"type": "entity", "entity_text": "Heterobilharzia americana", "entity_type": "Pathogen", "attr": {"source": "trematode parasite endemic to Gulf states of US", "mechanism of action": "digenean trematode parasite"}, "reference": "Schistosomiasis in the United States - Veterinary Clinics: https://www.vetsmall.theclinics.com/article/S0195-5616(22)00084-5/abstract"}
+{"type": "entity", "entity_text": "persistent diarrhea", "entity_type": "Symptom", "attr": {"severity": "sometimes with blood"}, "reference": "Schistosomiasis - Companion Animal Parasite Council. https://capcvet.org/guidelines/schistosomiasis/"}
+{"type": "entity", "entity_text": "vomiting", "entity_type": "Symptom", "attr": {}, "reference": "Schistosomiasis - Companion Animal Parasite Council. https://capcvet.org/guidelines/schistosomiasis/"}
+{"type": "entity", "entity_text": "hepatopathy", "entity_type": "Symptom", "attr": {"location": "liver"}, "reference": "Schistosomiasis - Companion Animal Parasite Council. https://capcvet.org/guidelines/schistosomiasis/"}
+{"type": "entity", "entity_text": "hypercalcemia", "entity_type": "Symptom", "attr": {}, "reference": "Schistosomiasis - Companion Animal Parasite Council. https://capcvet.org/guidelines/schistosomiasis/"}
+{"type": "entity", "entity_text": "weight loss", "entity_type": "Symptom", "attr": {}, "reference": "Schistosomiasis - Companion Animal Parasite Council. https://capcvet.org/guidelines/schistosomiasis/"}
+{"type": "entity", "entity_text": "poor appetite", "entity_type": "Symptom", "attr": {}, "reference": "Liver Fluke in Dogs Schistosomiasis | VCA Animal Hospitals: https://vcahospitals.com/know-your-pet/liver-fluke-in-dogs-schistosomiasis"}
+{"type": "entity", "entity_text": "lethargy", "entity_type": "Symptom", "attr": {}, "reference": "Liver Fluke in Dogs Schistosomiasis | VCA Animal Hospitals: https://vcahospitals.com/know-your-pet/liver-fluke-in-dogs-schistosomiasis"}
+{"type": "entity", "entity_text": "dehydration", "entity_type": "Symptom", "attr": {}, "reference": "Liver Fluke in Dogs Schistosomiasis | VCA Animal Hospitals: https://vcahospitals.com/know-your-pet/liver-fluke-in-dogs-schistosomiasis"}
+{"type": "entity", "entity_text": "anemia", "entity_type": "Symptom", "attr": {}, "reference": "Heterobilharzia americana infection in dogs: A retrospective study of ...: https://pmc.ncbi.nlm.nih.gov/articles/PMC8162597/"}
+{"type": "entity", "entity_text": "hypoalbuminemia", "entity_type": "Symptom", "attr": {}, "reference": "Heterobilharzia americana infection in dogs: A retrospective study of ...: https://pmc.ncbi.nlm.nih.gov/articles/PMC8162597/"}
+{"type": "entity", "entity_text": "polyuria", "entity_type": "Symptom", "attr": {}, "reference": "Diagnosis and Treatment of Heterobilharzia americana in Dogs: https://todaysveterinarypractice.com/parasitology/diagnosis-and-treatment-of-heterobilharzia-americana-in-dogs/"}
+{"type": "entity", "entity_text": "polydipsia", "entity_type": "Symptom", "attr": {}, "reference": "Diagnosis and Treatment of Heterobilharzia americana in Dogs: https://todaysveterinarypractice.com/parasitology/diagnosis-and-treatment-of-heterobilharzia-americana-in-dogs/"}
+{"type": "entity", "entity_text": "dogs", "entity_type": "Host", "attr": {}, "reference": "Schistosomiasis in the United States - Veterinary Clinics: https://www.vetsmall.theclinics.com/article/S0195-5616(22)00084-5/abstract"}
+{"type": "entity", "entity_text": "cats", "entity_type": "Host", "attr": {}, "reference": "Insights into the epidemiology, pathogenesis, and differential diagnosis of schistosomiasis in dogs and cats. https://pmc.ncbi.nlm.nih.gov/articles/PMC11097794/"}
+{"type": "entity", "entity_text": "fecal sedimentation", "entity_type": "Diagnosis", "attr": {"principle": "detecting parasite eggs"}, "reference": "Canine Schistosomiasis in North America: - AWS"}
+{"type": "entity", "entity_text": "direct saline smears", "entity_type": "Diagnosis", "attr": {"principle": "detecting parasite eggs"}, "reference": "Canine Schistosomiasis in North America: - AWS"}
+{"type": "entity", "entity_text": "fecal PCR test", "entity_type": "Diagnosis", "attr": {"principle": "highly sensitive and specific"}, "reference": "Fecal PCR test for canine schistosomiasis - Texas A&M University"}
+{"type": "entity", "entity_text": "abdominal imaging", "entity_type": "Diagnosis", "attr": {"principle": "shows thickening of intestinal wall, enlargement of liver and spleen"}, "reference": "Liver Fluke in Dogs Schistosomiasis | VCA Animal Hospitals"}
+{"type": "entity", "entity_text": "praziquantel", "entity_type": "Treatment", "attr": {"method": "antiparasitic medication", "indication": "25 mg/kg every 8 hours for 2 days"}, "reference": "Fecal PCR test for canine schistosomiasis. https://vetmed.tamu.edu/gilab/service/assays/heterobilharzia-americana/"}
+{"type": "entity", "entity_text": "fenbendazole", "entity_type": "Treatment", "attr": {"method": "antiparasitic medication", "indication": "40 mg/kg once daily for 10 days"}, "reference": "Fecal PCR test for canine schistosomiasis. https://vetmed.tamu.edu/gilab/service/assays/heterobilharzia-americana/"}
+{"type": "entity", "entity_text": "supportive care", "entity_type": "Treatment", "attr": {"method": "nutritional and fluid support, pain medications, anti-nausea medications, antibiotics"}, "reference": "Liver Fluke in Dogs Schistosomiasis | VCA Animal Hospitals. https://vcahospitals.com/know-your-pet/liver-fluke-in-dogs-schistosomiasis"}
+{"type": "entity", "entity_text": "avoid exposure to contaminated freshwater", "entity_type": "Prevention", "attr": {"implementation": "not allowing pets to swim in contaminated water sources"}, "reference": "Schistosomiasis - Companion Animal Parasite Council. https://capcvet.org/guidelines/schistosomiasis/"}
+{"type": "entity", "entity_text": "environmental management", "entity_type": "Prevention", "attr": {"implementation": "fencing off dangerous water sources, herding animals in snail-free regions"}, "reference": "Schistosomiasis in Cattle - Circulatory System. https://www.merckvetmanual.com/circulatory-system/blood-parasites/schistosomiasis-in-cattle"}
+{"type": "entity", "entity_text": "proper treatment and disposal of animal feces", "entity_type": "Prevention", "attr": {}, "reference": "From the One Health Perspective: Schistosomiasis Japonica and ... https://pmc.ncbi.nlm.nih.gov/articles/PMC8709050/"}
+{"type": "entity", "entity_text": "giardiasis", "entity_type": "DiseaseAlt", "attr": {}, "reference": "Insights into the epidemiology, pathogenesis, and differential diagnosis of schistosomiasis in dogs and cats. https://pmc.ncbi.nlm.nih.gov/articles/PMC11097794/"}
+{"type": "entity", "entity_text": "cryptosporidiosis", "entity_type": "DiseaseAlt", "attr": {}, "reference": "Insights into the epidemiology, pathogenesis, and differential diagnosis of schistosomiasis in dogs and cats. https://pmc.ncbi.nlm.nih.gov/articles/PMC11097794/"}
+{"type": "entity", "entity_text": "coccidiosis", "entity_type": "DiseaseAlt", "attr": {}, "reference": "Insights into the epidemiology, pathogenesis, and differential diagnosis of schistosomiasis in dogs and cats. https://pmc.ncbi.nlm.nih.gov/articles/PMC11097794/"}
+{"type": "entity", "entity_text": "inflammatory bowel disease", "entity_type": "DiseaseAlt", "attr": {}, "reference": "Diagnosis and Treatment of Heterobilharzia americana in Dogs. https://todaysveterinarypractice.com/parasitology/diagnosis-and-treatment-of-heterobilharzia-americana-in-dogs/"}
+{"type": "entity", "entity_text": "food allergies", "entity_type": "DiseaseAlt", "attr": {}, "reference": "Diagnosis and Treatment of Heterobilharzia americana in Dogs. https://todaysveterinarypractice.com/parasitology/diagnosis-and-treatment-of-heterobilharzia-americana-in-dogs/"}
+{"type": "relation", "head": "Heterobilharzia americana", "relation_type": "causes", "tail": "Schistosomiasis"}
+{"type": "relation", "head": "blood flukes", "relation_type": "causes", "tail": "Schistosomiasis"}
+{"type": "relation", "head": "Schistosomiasis", "relation_type": "presents_as", "tail": "persistent diarrhea"}
+{"type": "relation", "head": "Schistosomiasis", "relation_type": "presents_as", "tail": "vomiting"}
+{"type": "relation", "head": "Schistosomiasis", "relation_type": "presents_as", "tail": "hepatopathy"}
+{"type": "relation", "head": "Schistosomiasis", "relation_type": "presents_as", "tail": "hypercalcemia"}
+{"type": "relation", "head": "Schistosomiasis", "relation_type": "presents_as", "tail": "weight loss"}
+{"type": "relation", "head": "Schistosomiasis", "relation_type": "presents_as", "tail": "poor appetite"}
+{"type": "relation", "head": "Schistosomiasis", "relation_type": "presents_as", "tail": "lethargy"}
+{"type": "relation", "head": "Schistosomiasis", "relation_type": "presents_as", "tail": "dehydration"}
+{"type": "relation", "head": "Schistosomiasis", "relation_type": "presents_as", "tail": "anemia"}
+{"type": "relation", "head": "Schistosomiasis", "relation_type": "presents_as", "tail": "hypoalbuminemia"}
+{"type": "relation", "head": "Schistosomiasis", "relation_type": "presents_as", "tail": "polyuria"}
+{"type": "relation", "head": "Schistosomiasis", "relation_type": "presents_as", "tail": "polydipsia"}
+{"type": "relation", "head": "Heterobilharzia americana", "relation_type": "infects", "tail": "dogs"}
+{"type": "relation", "head": "Heterobilharzia americana", "relation_type": "infects", "tail": "cats"}
+{"type": "relation", "head": "Schistosomiasis", "relation_type": "differential_diagnosis", "tail": "giardiasis"}
+{"type": "relation", "head": "Schistosomiasis", "relation_type": "differential_diagnosis", "tail": "cryptosporidiosis"}
+{"type": "relation", "head": "Schistosomiasis", "relation_type": "differential_diagnosis", "tail": "coccidiosis"}
+{"type": "relation", "head": "Schistosomiasis", "relation_type": "differential_diagnosis", "tail": "inflammatory bowel disease"}
+{"type": "relation", "head": "Schistosomiasis", "relation_type": "differential_diagnosis", "tail": "food allergies"}
+{"type": "relation", "head": "Schistosomiasis", "relation_type": "diagnosed_by", "tail": "fecal sedimentation"}
+{"type": "relation", "head": "Schistosomiasis", "relation_type": "diagnosed_by", "tail": "direct saline smears"}
+{"type": "relation", "head": "Schistosomiasis", "relation_type": "diagnosed_by", "tail": "fecal PCR test"}
+{"type": "relation", "head": "Schistosomiasis", "relation_type": "diagnosed_by", "tail": "abdominal imaging"}
+{"type": "relation", "head": "Schistosomiasis", "relation_type": "treated_by", "tail": "praziquantel"}
+{"type": "relation", "head": "Schistosomiasis", "relation_type": "treated_by", "tail": "fenbendazole"}
+{"type": "relation", "head": "Schistosomiasis", "relation_type": "treated_by", "tail": "supportive care"}
+{"type": "relation", "head": "Schistosomiasis", "relation_type": "prevented_by", "tail": "avoid exposure to contaminated freshwater"}
+{"type": "relation", "head": "Schistosomiasis", "relation_type": "prevented_by", "tail": "environmental management"}
+{"type": "relation", "head": "Schistosomiasis", "relation_type": "prevented_by", "tail": "proper treatment and disposal of animal feces"}

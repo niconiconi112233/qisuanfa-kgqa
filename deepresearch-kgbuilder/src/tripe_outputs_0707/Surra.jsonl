@@ -1,0 +1,95 @@
+{"type": "entity", "entity_text": "Surra", "entity_type": "Disease", "attr": {"type": "protozoal disease", "reversibility": "can be fatal if untreated", "pathogenesis": "blood-borne parasitic infection", "complications": "neurological issues, reproductive problems"}, "reference": "Surra - DAFF - https://www.agriculture.gov.au/biosecurity-trade/policy/australia/naqs/naqs-target-lists/surra"}
+{"type": "entity", "entity_text": "Trypanosoma evansi", "entity_type": "Pathogen", "attr": {"source": "blood-borne", "mechanism of action": "parasitic infection of blood"}, "reference": "TRYPANOSOMA EVANSI INFECTIONS (INCLUDING SURRA). OIE Technical Disease Cards. 2021. - https://www.woah.org/app/uploads/2021/03/trypano-evansi.pdf"}
+{"type": "entity", "entity_text": "fever", "entity_type": "Symptom", "attr": {"frequency": "intermittent", "severity": "varies"}, "reference": "Spickler, A.R. Surra. The Center for Food Security and Public Health. 2024. - https://www.cfsph.iastate.edu/Factsheets/pdfs/surra.pdf"}
+{"type": "entity", "entity_text": "anemia", "entity_type": "Symptom", "attr": {"type": "regenerative", "severity": "progressive"}, "reference": "Spickler, A.R. Surra. The Center for Food Security and Public Health. 2024. - https://www.cfsph.iastate.edu/Factsheets/pdfs/surra.pdf"}
+{"type": "entity", "entity_text": "weight loss", "entity_type": "Symptom", "attr": {"severity": "progressive", "frequency": "common"}, "reference": "Spickler, A.R. Surra. The Center for Food Security and Public Health. 2024. - https://www.cfsph.iastate.edu/Factsheets/pdfs/surra.pdf"}
+{"type": "entity", "entity_text": "edema", "entity_type": "Symptom", "attr": {"location": "legs, brisket, and abdomen", "severity": "varies"}, "reference": "Spickler, A.R. Surra. The Center for Food Security and Public Health. 2024. - https://www.cfsph.iastate.edu/Factsheets/pdfs/surra.pdf"}
+{"type": "entity", "entity_text": "neurological issues", "entity_type": "Symptom", "attr": {"severity": "severe", "frequency": "in advanced cases"}, "reference": "Surra - DAFF - https://www.agriculture.gov.au/biosecurity-trade/policy/australia/naqs/naqs-target-lists/surra"}
+{"type": "entity", "entity_text": "lethargy", "entity_type": "Symptom", "attr": {"severity": "varies"}, "reference": "Spickler, A.R. Surra. The Center for Food Security and Public Health. 2024. - https://www.cfsph.iastate.edu/Factsheets/pdfs/surra.pdf"}
+{"type": "entity", "entity_text": "weakness", "entity_type": "Symptom", "attr": {"severity": "progressive"}, "reference": "Spickler, A.R. Surra. The Center for Food Security and Public Health. 2024. - https://www.cfsph.iastate.edu/Factsheets/pdfs/surra.pdf"}
+{"type": "entity", "entity_text": "jaundice", "entity_type": "Symptom", "attr": {"location": "mucous membranes"}, "reference": "Spickler, A.R. Surra. The Center for Food Security and Public Health. 2024. - https://www.cfsph.iastate.edu/Factsheets/pdfs/surra.pdf"}
+{"type": "entity", "entity_text": "hemorrhage", "entity_type": "Symptom", "attr": {"location": "mucous membranes", "type": "petechial"}, "reference": "Spickler, A.R. Surra. The Center for Food Security and Public Health. 2024. - https://www.cfsph.iastate.edu/Factsheets/pdfs/surra.pdf"}
+{"type": "entity", "entity_text": "ataxia", "entity_type": "Symptom", "attr": {"location": "neurological", "severity": "varies"}, "reference": "Spickler, A.R. Surra. The Center for Food Security and Public Health. 2024. - https://www.cfsph.iastate.edu/Factsheets/pdfs/surra.pdf"}
+{"type": "entity", "entity_text": "paresis", "entity_type": "Symptom", "attr": {"location": "neurological", "severity": "varies"}, "reference": "Spickler, A.R. Surra. The Center for Food Security and Public Health. 2024. - https://www.cfsph.iastate.edu/Factsheets/pdfs/surra.pdf"}
+{"type": "entity", "entity_text": "abortion", "entity_type": "Symptom", "attr": {"frequency": "in pregnant animals"}, "reference": "Spickler, A.R. Surra. The Center for Food Security and Public Health. 2024. - https://www.cfsph.iastate.edu/Factsheets/pdfs/surra.pdf"}
+{"type": "entity", "entity_text": "horses", "entity_type": "Host", "attr": {"susceptibility": "highly susceptible"}, "reference": "Surra - DAFF - https://www.agriculture.gov.au/biosecurity-trade/policy/australia/naqs/naqs-target-lists/surra"}
+{"type": "entity", "entity_text": "donkeys", "entity_type": "Host", "attr": {}, "reference": "Surra - DAFF - https://www.agriculture.gov.au/biosecurity-trade/policy/australia/naqs/naqs-target-lists/surra"}
+{"type": "entity", "entity_text": "mules", "entity_type": "Host", "attr": {}, "reference": "Surra - DAFF - https://www.agriculture.gov.au/biosecurity-trade/policy/australia/naqs/naqs-target-lists/surra"}
+{"type": "entity", "entity_text": "deer", "entity_type": "Host", "attr": {}, "reference": "Surra - DAFF - https://www.agriculture.gov.au/biosecurity-trade/policy/australia/naqs/naqs-target-lists/surra"}
+{"type": "entity", "entity_text": "camels", "entity_type": "Host", "attr": {"susceptibility": "highly susceptible"}, "reference": "Surra - DAFF - https://www.agriculture.gov.au/biosecurity-trade/policy/australia/naqs/naqs-target-lists/surra"}
+{"type": "entity", "entity_text": "llamas", "entity_type": "Host", "attr": {}, "reference": "Surra - DAFF - https://www.agriculture.gov.au/biosecurity-trade/policy/australia/naqs/naqs-target-lists/surra"}
+{"type": "entity", "entity_text": "dogs", "entity_type": "Host", "attr": {"susceptibility": "highly susceptible"}, "reference": "First report of surra (Trypanosoma evansi infection) in a Tunisian dog. - https://pmc.ncbi.nlm.nih.gov/articles/PMC4318485/"}
+{"type": "entity", "entity_text": "cats", "entity_type": "Host", "attr": {}, "reference": "Surra - DAFF - https://www.agriculture.gov.au/biosecurity-trade/policy/australia/naqs/naqs-target-lists/surra"}
+{"type": "entity", "entity_text": "cattle", "entity_type": "Host", "attr": {"disease course": "more chronic, subclinical"}, "reference": "Surra. The Center for Food Security and Public Health. 2024. - https://www.cfsph.iastate.edu/Factsheets/pdfs/surra.pdf"}
+{"type": "entity", "entity_text": "water buffalo", "entity_type": "Host", "attr": {"disease course": "more chronic, subclinical"}, "reference": "Surra. The Center for Food Security and Public Health. 2024. - https://www.cfsph.iastate.edu/Factsheets/pdfs/surra.pdf"}
+{"type": "entity", "entity_text": "vampire bats", "entity_type": "Host", "attr": {"role": "reservoir"}, "reference": "Surra - DAFF - https://www.agriculture.gov.au/biosecurity-trade/policy/australia/naqs/naqs-target-lists/surra"}
+{"type": "entity", "entity_text": "capybara", "entity_type": "Host", "attr": {"role": "reservoir"}, "reference": "Surra. The Center for Food Security and Public Health. 2024. - https://www.cfsph.iastate.edu/Factsheets/pdfs/surra.pdf"}
+{"type": "entity", "entity_text": "humans", "entity_type": "Host", "attr": {"susceptibility": "rare, usually in individuals with genetic anomalies"}, "reference": "First report of surra (Trypanosoma evansi infection) in a Tunisian dog. - https://pmc.ncbi.nlm.nih.gov/articles/PMC4318485/"}
+{"type": "entity", "entity_text": "microscopic examination", "entity_type": "Diagnosis", "attr": {"principle": "direct observation of parasites", "limitations": "low sensitivity in chronic cases"}, "reference": "Surra - The Center for Food Security and Public Health. - https://www.cfsph.iastate.edu/Factsheets/pdfs/surra.pdf"}
+{"type": "entity", "entity_text": "PCR testing", "entity_type": "Diagnosis", "attr": {"principle": "detection of trypanosomal DNA", "sensitivity": "high, even with low parasitemia"}, "reference": "Surra - The Center for Food Security and Public Health. - https://www.cfsph.iastate.edu/Factsheets/pdfs/surra.pdf"}
+{"type": "entity", "entity_text": "serology", "entity_type": "Diagnosis", "attr": {"principle": "antibody detection", "limitations": "cross-reactivity with other trypanosomes"}, "reference": "Surra - The Center for Food Security and Public Health. - https://www.cfsph.iastate.edu/Factsheets/pdfs/surra.pdf"}
+{"type": "entity", "entity_text": "animal inoculation", "entity_type": "Diagnosis", "attr": {"principle": "amplification of parasites in laboratory rodents", "limitations": "animal welfare concerns"}, "reference": "Surra - The Center for Food Security and Public Health. - https://www.cfsph.iastate.edu/Factsheets/pdfs/surra.pdf"}
+{"type": "entity", "entity_text": "suramin", "entity_type": "Treatment", "attr": {"method": "intravenous administration at 10 mg/kg", "indication": "T. evansi infections in horses and camels"}, "reference": "Brun, R., Lun, Z. R. (1998). Trypanosoma evansi and T. equiperdum: distribution, biology, treatment and phylogenetic relationship (a review). Veterinary Parasitology, 79(2), 95-107. - Unknown"}
+{"type": "entity", "entity_text": "diminazene aceturate", "entity_type": "Treatment", "attr": {"method": "intramuscular or subcutaneous injection at 3.5-7 mg/kg", "indication": "T. vivax, T. congolense, and T. brucei infections"}, "reference": "Sellon, D. C. (2007). Miscellaneous Parasitic Diseases. In Equine Infectious Diseases (pp. 387-391). Saunders. - Unknown"}
+{"type": "entity", "entity_text": "quinapyramine", "entity_type": "Treatment", "attr": {"method": "subcutaneous injection at 3-5 mg/kg", "indication": "T. evansi, T. equiperdum, and T. simiae in horses, camels, pigs, and dogs"}, "reference": "Tabor, A. E. (2022). Trypanosomiasis in Animals. In Merck Veterinary Manual. Merck & Co., Inc. - Unknown"}
+{"type": "entity", "entity_text": "isometamidium chloride", "entity_type": "Treatment", "attr": {"method": "intramuscular injection at 0.25-1 mg/kg", "indication": "T. vivax and T. congolense"}, "reference": "Tabor, A. E. (2022). Trypanosomiasis in Animals. In Merck Veterinary Manual. Merck & Co., Inc. - Unknown"}
+{"type": "entity", "entity_text": "supportive care", "entity_type": "Treatment", "attr": {"method": "fluid therapy, blood transfusions, treatment of secondary infections"}, "reference": "Sellon, D. C. (2007). Miscellaneous Parasitic Diseases. In Equine Infectious Diseases (pp. 387-391). Saunders. - Unknown"}
+{"type": "entity", "entity_text": "vector control", "entity_type": "Prevention", "attr": {"method": "insecticides, traps to reduce fly numbers", "target": "biting flies, especially tabanids and Stomoxys"}, "reference": "Desquesnes, M., Dargantes, A., Lai, D. H., Lun, Z. R., Holzmuller, P., & Jittapalapong, S. (2013). Trypanosoma evansi and surra: a review and perspectives on transmission, epidemiology and control, impact, and zoonotic aspects. BioMed Research International, 2013. - Unknown"}
+{"type": "entity", "entity_text": "animal separation", "entity_type": "Prevention", "attr": {"method": "keeping susceptible animals away from reservoir hosts", "target": "horses and camels"}, "reference": "Sellon, D. C. (2007). Miscellaneous parasitic diseases. In D. C. Sellon (Ed.), Equine Infectious Diseases (pp. 425-444). Saunders. - Unknown"}
+{"type": "entity", "entity_text": "proper disinfection", "entity_type": "Prevention", "attr": {"method": "disinfection of needles, surgical instruments", "target": "veterinary equipment"}, "reference": "Desquesnes, M., Dargantes, A., Lai, D. H., Lun, Z. R., Holzmuller, P., & Jittapalapong, S. (2013). Trypanosoma evansi and surra: a review and perspectives on transmission, epidemiology and control, impact, and zoonotic aspects. BioMed Research International, 2013. - Unknown"}
+{"type": "entity", "entity_text": "quarantine", "entity_type": "Prevention", "attr": {"method": "isolation and testing of imported animals", "target": "animals from endemic areas"}, "reference": "Sellon, D. C. (2007). Miscellaneous parasitic diseases. In D. C. Sellon (Ed.), Equine Infectious Diseases (pp. 425-444). Saunders. - Unknown"}
+{"type": "entity", "entity_text": "chemoprophylaxis", "entity_type": "Prevention", "attr": {"method": "routine trypanocidal drug treatment", "limitations": "can contribute to drug resistance"}, "reference": "Desquesnes, M., Dargantes, A., Lai, D. H., Lun, Z. R., Holzmuller, P., & Jittapalapong, S. (2013). Trypanosoma evansi and surra: a review and perspectives on transmission, epidemiology and control, impact, and zoonotic aspects. BioMed Research International, 2013. - Unknown"}
+{"type": "entity", "entity_text": "African animal trypanosomiasis", "entity_type": "DiseaseAlt", "attr": {"causative agent": "T. congolense, T. vivax, T. brucei", "vector": "tsetse flies"}, "reference": "Desquesnes, M., et al. \"Trypanosoma evansi and surra: a review and perspectives on origin, history, distribution, taxonomy, morphology, hosts, and pathogenic effects.\" BioMed research international 2013 (2013). - Unknown"}
+{"type": "entity", "entity_text": "dourine", "entity_type": "DiseaseAlt", "attr": {"causative agent": "T. equiperdum", "transmission": "venereal"}, "reference": "Sellon, D. C. \"Miscellaneous Parasitic Diseases.\" Equine Infectious Diseases (2007): 661. - Unknown"}
+{"type": "entity", "entity_text": "Chagas disease", "entity_type": "DiseaseAlt", "attr": {"causative agent": "T. cruzi", "vector": "triatomine bugs"}, "reference": "Spickler, A. R. \"Surra.\" The Center for Food Security and Public Health (2024). - https://www.cfsph.iastate.edu/Factsheets/pdfs/surra.pdf"}
+{"type": "entity", "entity_text": "babesiosis", "entity_type": "DiseaseAlt", "attr": {"symptoms": "anemia, fever"}, "reference": "Spickler, A. R. \"Surra.\" The Center for Food Security and Public Health (2024). - https://www.cfsph.iastate.edu/Factsheets/pdfs/surra.pdf"}
+{"type": "entity", "entity_text": "anaplasmosis", "entity_type": "DiseaseAlt", "attr": {"symptoms": "anemia, fever"}, "reference": "Spickler, A. R. \"Surra.\" The Center for Food Security and Public Health (2024). - https://www.cfsph.iastate.edu/Factsheets/pdfs/surra.pdf"}
+{"type": "entity", "entity_text": "theileriosis", "entity_type": "DiseaseAlt", "attr": {"symptoms": "anemia, fever"}, "reference": "Spickler, A. R. \"Surra.\" The Center for Food Security and Public Health (2024). - https://www.cfsph.iastate.edu/Factsheets/pdfs/surra.pdf"}
+{"type": "entity", "entity_text": "haemonchosis", "entity_type": "DiseaseAlt", "attr": {"symptoms": "anemia, weight loss"}, "reference": "Spickler, A. R. \"Surra.\" The Center for Food Security and Public Health (2024). - https://www.cfsph.iastate.edu/Factsheets/pdfs/surra.pdf"}
+{"type": "relation", "head": "Trypanosoma evansi", "relation_type": "causes", "tail": "Surra"}
+{"type": "relation", "head": "Surra", "relation_type": "presents_as", "tail": "fever"}
+{"type": "relation", "head": "Surra", "relation_type": "presents_as", "tail": "anemia"}
+{"type": "relation", "head": "Surra", "relation_type": "presents_as", "tail": "weight loss"}
+{"type": "relation", "head": "Surra", "relation_type": "presents_as", "tail": "edema"}
+{"type": "relation", "head": "Surra", "relation_type": "presents_as", "tail": "neurological issues"}
+{"type": "relation", "head": "Surra", "relation_type": "presents_as", "tail": "lethargy"}
+{"type": "relation", "head": "Surra", "relation_type": "presents_as", "tail": "weakness"}
+{"type": "relation", "head": "Surra", "relation_type": "presents_as", "tail": "jaundice"}
+{"type": "relation", "head": "Surra", "relation_type": "presents_as", "tail": "hemorrhage"}
+{"type": "relation", "head": "Surra", "relation_type": "presents_as", "tail": "ataxia"}
+{"type": "relation", "head": "Surra", "relation_type": "presents_as", "tail": "paresis"}
+{"type": "relation", "head": "Surra", "relation_type": "presents_as", "tail": "abortion"}
+{"type": "relation", "head": "Trypanosoma evansi", "relation_type": "infects", "tail": "horses"}
+{"type": "relation", "head": "Trypanosoma evansi", "relation_type": "infects", "tail": "donkeys"}
+{"type": "relation", "head": "Trypanosoma evansi", "relation_type": "infects", "tail": "mules"}
+{"type": "relation", "head": "Trypanosoma evansi", "relation_type": "infects", "tail": "deer"}
+{"type": "relation", "head": "Trypanosoma evansi", "relation_type": "infects", "tail": "camels"}
+{"type": "relation", "head": "Trypanosoma evansi", "relation_type": "infects", "tail": "llamas"}
+{"type": "relation", "head": "Trypanosoma evansi", "relation_type": "infects", "tail": "dogs"}
+{"type": "relation", "head": "Trypanosoma evansi", "relation_type": "infects", "tail": "cats"}
+{"type": "relation", "head": "Trypanosoma evansi", "relation_type": "infects", "tail": "cattle"}
+{"type": "relation", "head": "Trypanosoma evansi", "relation_type": "infects", "tail": "water buffalo"}
+{"type": "relation", "head": "Trypanosoma evansi", "relation_type": "infects", "tail": "vampire bats"}
+{"type": "relation", "head": "Trypanosoma evansi", "relation_type": "infects", "tail": "capybara"}
+{"type": "relation", "head": "Trypanosoma evansi", "relation_type": "infects", "tail": "humans"}
+{"type": "relation", "head": "Surra", "relation_type": "diagnosed_by", "tail": "microscopic examination"}
+{"type": "relation", "head": "Surra", "relation_type": "diagnosed_by", "tail": "PCR testing"}
+{"type": "relation", "head": "Surra", "relation_type": "diagnosed_by", "tail": "serology"}
+{"type": "relation", "head": "Surra", "relation_type": "diagnosed_by", "tail": "animal inoculation"}
+{"type": "relation", "head": "Surra", "relation_type": "treated_by", "tail": "suramin"}
+{"type": "relation", "head": "Surra", "relation_type": "treated_by", "tail": "diminazene aceturate"}
+{"type": "relation", "head": "Surra", "relation_type": "treated_by", "tail": "quinapyramine"}
+{"type": "relation", "head": "Surra", "relation_type": "treated_by", "tail": "isometamidium chloride"}
+{"type": "relation", "head": "Surra", "relation_type": "treated_by", "tail": "supportive care"}
+{"type": "relation", "head": "Surra", "relation_type": "prevented_by", "tail": "vector control"}
+{"type": "relation", "head": "Surra", "relation_type": "prevented_by", "tail": "animal separation"}
+{"type": "relation", "head": "Surra", "relation_type": "prevented_by", "tail": "proper disinfection"}
+{"type": "relation", "head": "Surra", "relation_type": "prevented_by", "tail": "quarantine"}
+{"type": "relation", "head": "Surra", "relation_type": "prevented_by", "tail": "chemoprophylaxis"}
+{"type": "relation", "head": "Surra", "relation_type": "differential_diagnosis", "tail": "African animal trypanosomiasis"}
+{"type": "relation", "head": "Surra", "relation_type": "differential_diagnosis", "tail": "dourine"}
+{"type": "relation", "head": "Surra", "relation_type": "differential_diagnosis", "tail": "Chagas disease"}
+{"type": "relation", "head": "Surra", "relation_type": "differential_diagnosis", "tail": "babesiosis"}
+{"type": "relation", "head": "Surra", "relation_type": "differential_diagnosis", "tail": "anaplasmosis"}
+{"type": "relation", "head": "Surra", "relation_type": "differential_diagnosis", "tail": "theileriosis"}
+{"type": "relation", "head": "Surra", "relation_type": "differential_diagnosis", "tail": "haemonchosis"}

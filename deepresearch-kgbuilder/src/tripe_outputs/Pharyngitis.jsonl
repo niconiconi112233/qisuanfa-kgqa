@@ -1,0 +1,27 @@
+{"type": "entity", "entity_text": "Pharyngitis", "entity_type": "Disease", "attr": {"type": "inflammatory condition", "reversibility": "reversible", "pathogenesis": "secondary to infections or trauma", "complications": "airway obstruction"}, "reference": "Overview of Pharyngitis in Animals - https://www.msdvetmanual.com/respiratory-system/pharyngitis/overview-of-pharyngitis-in-animals"}
+
+{"type": "entity", "entity_text": "pharynx", "entity_type": "Anatomy", "attr": {"anatomical_location": "throat", "physiological_function": "part of respiratory and digestive tract"}, "reference": "Pharyngitis in Cats - Cat Owners - Merck Veterinary Manual"}
+
+{"type": "entity", "entity_text": "calicivirus", "entity_type": "Pathogen", "attr": {"source": "viral", "mechanism of action": "causes lesions in mucous membranes"}, "reference": "Pharyngitis in Cats - Cat Owners - Merck Veterinary Manual"}
+
+{"type": "entity", "entity_text": "canine distemper virus", "entity_type": "Pathogen", "attr": {"source": "viral", "mechanism of action": "upper respiratory infection"}, "reference": "Pharyngitis in Dogs - Dog Owners - Merck Veterinary Manual"}
+
+{"type": "entity", "entity_text": "difficulty swallowing", "entity_type": "Symptom", "attr": {"location": "throat", "severity": "moderate to severe", "frequency": "common"}, "reference": "Overview of Pharyngitis in Animals - https://www.msdvetmanual.com/respiratory-system/pharyngitis/overview-of-pharyngitis-in-animals"}
+
+{"type": "entity", "entity_text": "physical examination", "entity_type": "Diagnosis", "attr": {"principle": "direct observation", "applicable stage": "initial", "limitations": "requires cooperation"}, "reference": "Overview of Pharyngitis in Animals - https://www.msdvetmanual.com/respiratory-system/pharyngitis/overview-of-pharyngitis-in-animals"}
+
+{"type": "entity", "entity_text": "antibiotic therapy", "entity_type": "Treatment", "attr": {"method": "oral medication", "indication": "bacterial infection", "risks": "antibiotic resistance"}, "reference": "https://emedicine.medscape.com/article/225362-treatment"}
+
+{"type": "entity", "entity_text": "vaccination", "entity_type": "Prevention", "attr": {"implementation": "regular schedule", "target group": "all pets", "expected effect": "prevent viral infections"}, "reference": "WSAVA Vaccination Guidelines - https://wsava.org/wp-content/uploads/2020/01/WSAVA-Vaccination-Guidelines-2015.pdf"}
+
+{"type": "relation", "head": "calicivirus", "relation_type": "causes", "tail": "Pharyngitis"}
+
+{"type": "relation", "head": "Pharyngitis", "relation_type": "presents_as", "tail": "difficulty swallowing"}
+
+{"type": "relation", "head": "Pharyngitis", "relation_type": "affects", "tail": "pharynx"}
+
+{"type": "relation", "head": "Pharyngitis", "relation_type": "diagnosed_by", "tail": "physical examination"}
+
+{"type": "relation", "head": "Pharyngitis", "relation_type": "treated_by", "tail": "antibiotic therapy"}
+
+{"type": "relation", "head": "Pharyngitis", "relation_type": "prevented_by", "tail": "vaccination"}

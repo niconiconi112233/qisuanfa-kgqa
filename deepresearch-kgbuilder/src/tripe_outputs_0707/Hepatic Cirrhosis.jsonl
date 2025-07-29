@@ -1,0 +1,149 @@
+{"type": "entity", "entity_text": "Cirrhosis", "entity_type": "Disease", "attr": {"type": "chronic, end-stage liver disease", "reversibility": "irreversible", "pathogenesis": "normal liver tissue replaced by fibrous scar tissue", "complications": "bleeding disorders, neurological issues, kidney problems"}, "reference": "Cirrhosis in Dogs | PetMD"}
+
+{"type": "entity", "entity_text": "loss of appetite", "entity_type": "Symptom", "attr": {"severity": "variable"}, "reference": "Cirrhosis in Dogs | PetMD; Disorders of the Liver and Gallbladder in Dogs - Dog Owners; Canine Cirrhosis - liver disease in Dogs - Pet Health Network"}
+
+{"type": "entity", "entity_text": "vomiting", "entity_type": "Symptom", "attr": {}, "reference": "Cirrhosis in Dogs | PetMD; Disorders of the Liver and Gallbladder in Dogs - Dog Owners; Canine Cirrhosis - liver disease in Dogs - Pet Health Network"}
+
+{"type": "entity", "entity_text": "diarrhea", "entity_type": "Symptom", "attr": {}, "reference": "Cirrhosis in Dogs | PetMD; Disorders of the Liver and Gallbladder in Dogs - Dog Owners; Canine Cirrhosis - liver disease in Dogs - Pet Health Network"}
+
+{"type": "entity", "entity_text": "lethargy", "entity_type": "Symptom", "attr": {}, "reference": "Cirrhosis in Dogs | PetMD; Disorders of the Liver and Gallbladder in Dogs - Dog Owners; Canine Cirrhosis - liver disease in Dogs - Pet Health Network"}
+
+{"type": "entity", "entity_text": "weight loss", "entity_type": "Symptom", "attr": {}, "reference": "Cirrhosis in Dogs | PetMD; Disorders of the Liver and Gallbladder in Dogs - Dog Owners; Canine Cirrhosis - liver disease in Dogs - Pet Health Network; Liver Disease in Dogs: Symptoms and Causes - WebMD"}
+
+{"type": "entity", "entity_text": "increased thirst and urination", "entity_type": "Symptom", "attr": {}, "reference": "Cirrhosis in Dogs | PetMD; Disorders of the Liver and Gallbladder in Dogs - Dog Owners; Canine Cirrhosis - liver disease in Dogs - Pet Health Network; Liver Disease in Dogs: Symptoms and Causes - WebMD"}
+
+{"type": "entity", "entity_text": "fluid buildup in the abdomen", "entity_type": "Symptom", "attr": {"location": "abdomen", "medical term": "ascites"}, "reference": "Cirrhosis in Dogs | PetMD; Disorders of the Liver and Gallbladder in Dogs - Dog Owners; Canine Cirrhosis - liver disease in Dogs - Pet Health Network"}
+
+{"type": "entity", "entity_text": "jaundice", "entity_type": "Symptom", "attr": {"description": "yellowing of the skin, mucous membranes, and eyes"}, "reference": "Cirrhosis in Dogs | PetMD; Disorders of the Liver and Gallbladder in Dogs - Dog Owners; Canine Cirrhosis - liver disease in Dogs - Pet Health Network; Liver Disease in Dogs: Symptoms and Causes - WebMD"}
+
+{"type": "entity", "entity_text": "unstable or uncoordinated walk", "entity_type": "Symptom", "attr": {}, "reference": "Liver Disease in Dogs: Symptoms and Causes - WebMD"}
+
+{"type": "entity", "entity_text": "confusion or behavioral changes", "entity_type": "Symptom", "attr": {}, "reference": "Liver Disease in Dogs: Symptoms and Causes - WebMD"}
+
+{"type": "entity", "entity_text": "bleeding problems", "entity_type": "Symptom", "attr": {"cause": "clotting defects"}, "reference": "Disorders of the Liver and Gallbladder in Dogs - Dog Owners"}
+
+{"type": "entity", "entity_text": "hepatic encephalopathy", "entity_type": "Symptom", "attr": {"description": "neurological signs like seizures, aimless wandering, and coma", "cause": "liver's inability to remove toxins from bloodstream"}, "reference": "Disorders of the Liver and Gallbladder in Dogs - Dog Owners"}
+
+{"type": "entity", "entity_text": "cocker spaniels", "entity_type": "Host", "attr": {"breed": "cocker spaniel", "species": "dog"}, "reference": "Canine Cirrhosis - liver disease in Dogs - Pet Health Network"}
+
+{"type": "entity", "entity_text": "Doberman pinschers", "entity_type": "Host", "attr": {"breed": "Doberman pinscher", "species": "dog"}, "reference": "Canine Cirrhosis - liver disease in Dogs - Pet Health Network; Biliary Cirrhosis in Small Animals - Digestive System - Merck Veterinary Manual"}
+
+{"type": "entity", "entity_text": "Labrador retrievers", "entity_type": "Host", "attr": {"breed": "Labrador retriever", "species": "dog"}, "reference": "Canine Cirrhosis - liver disease in Dogs - Pet Health Network; Biliary Cirrhosis in Small Animals - Digestive System - Merck Veterinary Manual"}
+
+{"type": "entity", "entity_text": "Bedlington Terriers", "entity_type": "Host", "attr": {"breed": "Bedlington Terrier", "species": "dog"}, "reference": "Biliary Cirrhosis in Small Animals - Digestive System - Merck Veterinary Manual"}
+
+{"type": "entity", "entity_text": "cats", "entity_type": "Host", "attr": {"species": "cat"}, "reference": "Prevalence of Liver Diseases in Cats from Botucatu City, São Paulo"}
+
+{"type": "entity", "entity_text": "liver", "entity_type": "Anatomy", "attr": {"physiological function": "detoxification, protein synthesis, bile production"}, "reference": "Cirrhosis in Dogs | PetMD; Disorders of the Liver and Gallbladder in Dogs - Dog Owners"}
+
+{"type": "entity", "entity_text": "blood tests", "entity_type": "Diagnosis", "attr": {"includes": "chemistry panels, complete blood counts, liver enzymes, bilirubin"}, "reference": "Cirrhosis | Veterinary Specialty Center; https://www.pethealthnetwork.com/dog-health/dog-diseases-conditions-a-z/cirrhosis-dogs"}
+
+{"type": "entity", "entity_text": "imaging", "entity_type": "Diagnosis", "attr": {"includes": "abdominal radiographs, ultrasound, CT, MRI"}, "reference": "Cirrhosis | Veterinary Specialty Center; https://www.pethealthnetwork.com/dog-health/dog-diseases-conditions-a-z/cirrhosis-dogs"}
+
+{"type": "entity", "entity_text": "liver biopsy", "entity_type": "Diagnosis", "attr": {"principle": "gold standard for definitively diagnosing cirrhosis", "description": "examination of liver tissue sample under microscope"}, "reference": "Cirrhosis | Veterinary Specialty Center; https://www.pethealthnetwork.com/dog-health/dog-diseases-conditions-a-z/cirrhosis-dogs"}
+
+{"type": "entity", "entity_text": "bile acid testing", "entity_type": "Diagnosis", "attr": {}, "reference": "https://www.pethealthnetwork.com/dog-health/dog-diseases-conditions-a-z/cirrhosis-dogs"}
+
+{"type": "entity", "entity_text": "copper quantification", "entity_type": "Diagnosis", "attr": {}, "reference": "https://www.pethealthnetwork.com/dog-health/dog-diseases-conditions-a-z/cirrhosis-dogs"}
+
+{"type": "entity", "entity_text": "Ursodeoxycholic Acid", "entity_type": "Treatment", "attr": {"method": "medication", "indication": "improve bile flow and protect liver cells", "dosage": "10-15 mg/kg daily"}, "reference": "Canine Chronic Hepatitis - Merck Veterinary Manual"}
+
+{"type": "entity", "entity_text": "S-Adenosylmethionine", "entity_type": "Treatment", "attr": {"method": "medication", "indication": "antioxidant protection and liver cell regeneration", "dosage": "20 mg/kg daily"}, "reference": "Canine Chronic Hepatitis - Merck Veterinary Manual"}
+
+{"type": "entity", "entity_text": "Milk Thistle", "entity_type": "Treatment", "attr": {"method": "herbal supplement", "indication": "hepatoprotective, stabilize liver cell membranes", "dosage": "20-50 mg/kg daily"}, "reference": "Canine Chronic Hepatitis - Merck Veterinary Manual"}
+
+{"type": "entity", "entity_text": "antibiotics", "entity_type": "Treatment", "attr": {"method": "medication", "indication": "bacterial infections complicating liver disease", "examples": "amoxicillin, enrofloxacin, metronidazole"}, "reference": "Management of chronic liver disease in dogs (Proceedings) - dvm360"}
+
+{"type": "entity", "entity_text": "anti-nausea medications", "entity_type": "Treatment", "attr": {"method": "medication", "indication": "manage nausea and vomiting", "examples": "maropitant, ondansetron"}, "reference": "Management of chronic liver disease in dogs (Proceedings) - dvm360"}
+
+{"type": "entity", "entity_text": "Vitamin K supplements", "entity_type": "Treatment", "attr": {"method": "supplement", "indication": "prevent bleeding tendencies from impaired clotting factor production"}, "reference": "Management of chronic liver disease in dogs (Proceedings) - dvm360"}
+
+{"type": "entity", "entity_text": "Lactulose", "entity_type": "Treatment", "attr": {"method": "medication", "indication": "hepatic encephalopathy", "mechanism": "reduces ammonia absorption and production"}, "reference": "Management of chronic liver disease in dogs (Proceedings) - dvm360"}
+
+{"type": "entity", "entity_text": "maintaining healthy body weight", "entity_type": "Prevention", "attr": {"implementation": "diet control and exercise"}, "reference": "Hepatic Lipidosis - Cornell University College of Veterinary Medicine"}
+
+{"type": "entity", "entity_text": "high-quality diet", "entity_type": "Prevention", "attr": {"implementation": "proper nutrition"}, "reference": "Hepatic Lipidosis - Cornell University College of Veterinary Medicine"}
+
+{"type": "entity", "entity_text": "regular veterinary checkups", "entity_type": "Prevention", "attr": {"implementation": "routine health monitoring", "expected effect": "early detection of liver issues"}, "reference": "Hepatic Lipidosis - Cornell University College of Veterinary Medicine"}
+
+{"type": "entity", "entity_text": "chronic hepatitis", "entity_type": "DiseaseAlt", "attr": {"cause": "immune-mediated, infectious, metabolic, or toxic"}, "reference": "Canine Cirrhosis - liver disease in Dogs - Pet Health Network"}
+
+{"type": "entity", "entity_text": "copper toxicosis", "entity_type": "DiseaseAlt", "attr": {"cause": "genetic defects causing copper accumulation"}, "reference": "Biliary Cirrhosis in Small Animals - Digestive System - Merck Veterinary Manual"}
+
+{"type": "entity", "entity_text": "portosystemic shunts", "entity_type": "DiseaseAlt", "attr": {"type": "vascular disorder"}, "reference": "Biliary Cirrhosis in Small Animals - Digestive System - Merck Veterinary Manual"}
+
+{"type": "entity", "entity_text": "hepatic lipidosis", "entity_type": "DiseaseAlt", "attr": {"description": "common form of liver disease in cats"}, "reference": "Hepatic Lipidosis - Cornell University College of Veterinary Medicine"}
+
+{"type": "relation", "head": "Cirrhosis", "relation_type": "presents_as", "tail": "loss of appetite"}
+
+{"type": "relation", "head": "Cirrhosis", "relation_type": "presents_as", "tail": "vomiting"}
+
+{"type": "relation", "head": "Cirrhosis", "relation_type": "presents_as", "tail": "diarrhea"}
+
+{"type": "relation", "head": "Cirrhosis", "relation_type": "presents_as", "tail": "lethargy"}
+
+{"type": "relation", "head": "Cirrhosis", "relation_type": "presents_as", "tail": "weight loss"}
+
+{"type": "relation", "head": "Cirrhosis", "relation_type": "presents_as", "tail": "increased thirst and urination"}
+
+{"type": "relation", "head": "Cirrhosis", "relation_type": "presents_as", "tail": "fluid buildup in the abdomen"}
+
+{"type": "relation", "head": "Cirrhosis", "relation_type": "presents_as", "tail": "jaundice"}
+
+{"type": "relation", "head": "Cirrhosis", "relation_type": "presents_as", "tail": "unstable or uncoordinated walk"}
+
+{"type": "relation", "head": "Cirrhosis", "relation_type": "presents_as", "tail": "confusion or behavioral changes"}
+
+{"type": "relation", "head": "Cirrhosis", "relation_type": "presents_as", "tail": "bleeding problems"}
+
+{"type": "relation", "head": "Cirrhosis", "relation_type": "presents_as", "tail": "hepatic encephalopathy"}
+
+{"type": "relation", "head": "Cirrhosis", "relation_type": "infects", "tail": "cocker spaniels"}
+
+{"type": "relation", "head": "Cirrhosis", "relation_type": "infects", "tail": "Doberman pinschers"}
+
+{"type": "relation", "head": "Cirrhosis", "relation_type": "infects", "tail": "Labrador retrievers"}
+
+{"type": "relation", "head": "Cirrhosis", "relation_type": "infects", "tail": "Bedlington Terriers"}
+
+{"type": "relation", "head": "Cirrhosis", "relation_type": "infects", "tail": "cats"}
+
+{"type": "relation", "head": "Cirrhosis", "relation_type": "affects", "tail": "liver"}
+
+{"type": "relation", "head": "Cirrhosis", "relation_type": "diagnosed_by", "tail": "blood tests"}
+
+{"type": "relation", "head": "Cirrhosis", "relation_type": "diagnosed_by", "tail": "imaging"}
+
+{"type": "relation", "head": "Cirrhosis", "relation_type": "diagnosed_by", "tail": "liver biopsy"}
+
+{"type": "relation", "head": "Cirrhosis", "relation_type": "diagnosed_by", "tail": "bile acid testing"}
+
+{"type": "relation", "head": "Cirrhosis", "relation_type": "diagnosed_by", "tail": "copper quantification"}
+
+{"type": "relation", "head": "Cirrhosis", "relation_type": "treated_by", "tail": "Ursodeoxycholic Acid"}
+
+{"type": "relation", "head": "Cirrhosis", "relation_type": "treated_by", "tail": "S-Adenosylmethionine"}
+
+{"type": "relation", "head": "Cirrhosis", "relation_type": "treated_by", "tail": "Milk Thistle"}
+
+{"type": "relation", "head": "Cirrhosis", "relation_type": "treated_by", "tail": "antibiotics"}
+
+{"type": "relation", "head": "Cirrhosis", "relation_type": "treated_by", "tail": "anti-nausea medications"}
+
+{"type": "relation", "head": "Cirrhosis", "relation_type": "treated_by", "tail": "Vitamin K supplements"}
+
+{"type": "relation", "head": "Cirrhosis", "relation_type": "treated_by", "tail": "Lactulose"}
+
+{"type": "relation", "head": "Cirrhosis", "relation_type": "prevented_by", "tail": "maintaining healthy body weight"}
+
+{"type": "relation", "head": "Cirrhosis", "relation_type": "prevented_by", "tail": "high-quality diet"}
+
+{"type": "relation", "head": "Cirrhosis", "relation_type": "prevented_by", "tail": "regular veterinary checkups"}
+
+{"type": "relation", "head": "Cirrhosis", "relation_type": "differential_diagnosis", "tail": "chronic hepatitis"}
+
+{"type": "relation", "head": "Cirrhosis", "relation_type": "differential_diagnosis", "tail": "copper toxicosis"}
+
+{"type": "relation", "head": "Cirrhosis", "relation_type": "differential_diagnosis", "tail": "portosystemic shunts"}
+
+{"type": "relation", "head": "Cirrhosis", "relation_type": "differential_diagnosis", "tail": "hepatic lipidosis"}

@@ -1,0 +1,27 @@
+{"type": "entity", "entity_text": "Chocolate toxicosis", "entity_type": "Disease", "attr": {"type": "poisoning", "reversibility": "reversible with treatment", "pathogenesis": "methylxanthine toxicity"}, "reference": "Chocolate Toxicosis in Animals - https://www.merckvetmanual.com/toxicology/food-hazards/chocolate-toxicosis-in-animals"}
+
+{"type": "entity", "entity_text": "theobromine", "entity_type": "Pathogen", "attr": {"source": "chocolate", "mechanism of action": "competitive inhibition of adenosine receptors"}, "reference": "Chocolate Toxicosis in Animals - https://www.merckvetmanual.com/toxicology/food-hazards/chocolate-toxicosis-in-animals"}
+
+{"type": "entity", "entity_text": "caffeine", "entity_type": "Pathogen", "attr": {"source": "chocolate", "mechanism of action": "competitive inhibition of adenosine receptors"}, "reference": "Chocolate Toxicosis in Animals - https://www.merckvetmanual.com/toxicology/food-hazards/chocolate-toxicosis-in-animals"}
+
+{"type": "entity", "entity_text": "dogs", "entity_type": "Host", "attr": {"breed": "all breeds", "age group": "all ages"}, "reference": "Chocolate toxicity: What should I do if my dog eats chocolate? - https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-information/chocolate-toxicity-what-should-i-do-if-my-dog-eats-chocolate"}
+
+{"type": "entity", "entity_text": "vomiting", "entity_type": "Symptom", "attr": {"location": "gastrointestinal", "onset": "6-12 hours", "severity": "mild to moderate"}, "reference": "Chocolate Poisoning in Dogs - https://vcahospitals.com/know-your-pet/chocolate-poisoning-in-dogs"}
+
+{"type": "entity", "entity_text": "seizures", "entity_type": "Symptom", "attr": {"location": "neurological", "severity": "severe"}, "reference": "Chocolate Toxicosis in Animals - https://www.merckvetmanual.com/toxicology/food-hazards/chocolate-toxicosis-in-animals"}
+
+{"type": "entity", "entity_text": "chocolate toxicity calculator", "entity_type": "Diagnosis", "attr": {"principle": "weight-based calculation", "applicable stage": "initial assessment"}, "reference": "Chocolate Toxicosis in Animals - https://www.merckvetmanual.com/toxicology/food-hazards/chocolate-toxicosis-in-animals"}
+
+{"type": "entity", "entity_text": "decontamination and supportive care", "entity_type": "Treatment", "attr": {"method": "induced vomiting and IV fluids", "indication": "recent ingestion"}, "reference": "The Veterinary Nurse - https://www.theveterinarynurse.com/content/clinical/chocolate-toxicosis-in-pets/"}
+
+{"type": "entity", "entity_text": "secure storage", "entity_type": "Prevention", "attr": {"implementation": "keep chocolate products out of reach", "target group": "pet owners"}, "reference": "Pet Poison Prevention: Understanding Chocolate Toxicity in Pets - https://animalemergencycare.net/aecprevents/pet-poison-prevention-understanding-chocolate-toxicity-in-pets/"}
+
+{"type": "relation", "head": "theobromine", "relation_type": "causes", "tail": "Chocolate toxicosis"}
+
+{"type": "relation", "head": "Chocolate toxicosis", "relation_type": "presents_as", "tail": "vomiting"}
+
+{"type": "relation", "head": "Chocolate toxicosis", "relation_type": "diagnosed_by", "tail": "chocolate toxicity calculator"}
+
+{"type": "relation", "head": "Chocolate toxicosis", "relation_type": "treated_by", "tail": "decontamination and supportive care"}
+
+{"type": "relation", "head": "Chocolate toxicosis", "relation_type": "prevented_by", "tail": "secure storage"}

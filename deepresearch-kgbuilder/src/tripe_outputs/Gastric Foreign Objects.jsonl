@@ -1,0 +1,19 @@
+{"type": "entity", "entity_text": "Gastric foreign bodies", "entity_type": "Disease", "attr": {"type": "mechanical obstruction", "reversibility": "reversible with treatment", "complications": "perforation, peritonitis"}, "reference": "Gastrointestinal foreign bodies in dogs and cats: a retrospective study of 208 cases - https://pubmed.ncbi.nlm.nih.gov/19814770/"}
+
+{"type": "entity", "entity_text": "vomiting", "entity_type": "Symptom", "attr": {"frequency": "acute and repeated", "severity": "varies", "location": "gastrointestinal"}, "reference": "Gastrointestinal Foreign Bodies in Dogs and Cats - Zoetis UK - https://www2.zoetis.co.uk/products-solutions/dogs/gastrointestinal-foreign-bodies"}
+
+{"type": "entity", "entity_text": "Escherichia coli", "entity_type": "Pathogen", "attr": {"source": "intestinal flora", "mechanism of action": "bacterial translocation"}, "reference": "MedVet Gastrointestinal Foreign Bodies - https://www.medvet.com/gastrointestinal-foreign-bodies/"}
+
+{"type": "entity", "entity_text": "English bull terriers", "entity_type": "Host", "attr": {"breed": "specific", "predisposition": "high"}, "reference": "Gastrointestinal foreign bodies in dogs and cats: a retrospective study of 208 cases - https://pubmed.ncbi.nlm.nih.gov/19814770/"}
+
+{"type": "entity", "entity_text": "radiographs", "entity_type": "Diagnosis", "attr": {"principle": "imaging", "limitations": "may miss radiolucent objects"}, "reference": "Cornell University Gastrointestinal Foreign Body Guide - https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-information/gastrointestinal-foreign-body-obstruction-dogs"}
+
+{"type": "entity", "entity_text": "surgical removal", "entity_type": "Treatment", "attr": {"method": "gastrotomy or enterotomy", "indication": "non-passable objects"}, "reference": "Merck Veterinary Manual - https://www.merckvetmanual.com/digestive-system/diseases-of-the-stomach-and-intestines-in-small-animals/gastrointestinal-obstruction-in-small-animals"}
+
+{"type": "relation", "head": "Gastric foreign bodies", "relation_type": "presents_as", "tail": "vomiting"}
+
+{"type": "relation", "head": "Gastric foreign bodies", "relation_type": "diagnosed_by", "tail": "radiographs"}
+
+{"type": "relation", "head": "Gastric foreign bodies", "relation_type": "treated_by", "tail": "surgical removal"}
+
+{"type": "relation", "head": "Gastric foreign bodies", "relation_type": "infects", "tail": "English bull terriers"}

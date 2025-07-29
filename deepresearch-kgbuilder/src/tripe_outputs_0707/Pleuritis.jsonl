@@ -1,0 +1,155 @@
+{"type": "entity", "entity_text": "Pleuritis", "entity_type": "Disease", "attr": {"type": "inflammatory", "reversibility": "treatable", "pathogenesis": "inflammation of pleural membranes", "complications": "respiratory distress"}, "reference": "Assessment of listing and categorisation of animal diseases within the framework of the Animal Health Law. EFSA Journal. 2022;20(2):7311"}
+
+{"type": "entity", "entity_text": "bacterial infections", "entity_type": "Pathogen", "attr": {"source": "various", "mechanism of action": "invasion of pleural space"}, "reference": "Assessment of listing and categorisation of animal diseases within the framework of the Animal Health Law. EFSA Journal. 2022;20(2):7311"}
+
+{"type": "entity", "entity_text": "viral infections", "entity_type": "Pathogen", "attr": {"source": "respiratory", "mechanism of action": "impair normal defense mechanisms"}, "reference": "Causes of Respiratory Disease in Animals - Merck Veterinary Manual"}
+
+{"type": "entity", "entity_text": "immune-mediated disorders", "entity_type": "Disease", "attr": {"type": "autoimmune", "pathogenesis": "immune system attacks pleural tissues"}, "reference": "Assessment of listing and categorisation of animal diseases within the framework of the Animal Health Law. EFSA Journal. 2022;20(2):7311"}
+
+{"type": "entity", "entity_text": "companion animals", "entity_type": "Host", "attr": {"breed": "various", "age group": "all"}, "reference": "Assessment of listing and categorisation of animal diseases within the framework of the Animal Health Law. EFSA Journal. 2022;20(2):7311"}
+
+{"type": "entity", "entity_text": "pleural membranes", "entity_type": "Anatomy", "attr": {"anatomical location": "chest cavity", "physiological function": "line lungs and chest cavity"}, "reference": "Assessment of listing and categorisation of animal diseases within the framework of the Animal Health Law. EFSA Journal. 2022;20(2):7311"}
+
+{"type": "entity", "entity_text": "methicillin-resistant Staphylococcus", "entity_type": "Pathogen", "attr": {"source": "bacterial", "mechanism of action": "antibiotic resistant infection"}, "reference": "Molecular Epidemiology of Clinical and Colonizing Methicillin-Resistant Staphylococcus Isolates in Companion Animals. Frontiers in Veterinary Science. 2021;8:620491"}
+
+{"type": "entity", "entity_text": "Bacteroides", "entity_type": "Pathogen", "attr": {"source": "anaerobic bacteria", "mechanism of action": "infection of pleural cavity"}, "reference": "Causes of Respiratory Disease in Animals - Merck Veterinary Manual"}
+
+{"type": "entity", "entity_text": "Fusobacterium", "entity_type": "Pathogen", "attr": {"source": "anaerobic bacteria", "mechanism of action": "infection of pleural cavity"}, "reference": "Causes of Respiratory Disease in Animals - Merck Veterinary Manual"}
+
+{"type": "entity", "entity_text": "Nocardia", "entity_type": "Pathogen", "attr": {"source": "aerobic-facultative bacteria", "mechanism of action": "infection of pleural cavity"}, "reference": "Causes of Respiratory Disease in Animals - Merck Veterinary Manual"}
+
+{"type": "entity", "entity_text": "Actinomyces", "entity_type": "Pathogen", "attr": {"source": "aerobic-facultative bacteria", "mechanism of action": "infection of pleural cavity"}, "reference": "Causes of Respiratory Disease in Animals - Merck Veterinary Manual"}
+
+{"type": "entity", "entity_text": "Pasteurella multocida", "entity_type": "Pathogen", "attr": {"source": "bacterial", "mechanism of action": "infection of pleural cavity"}, "reference": "Pyothorax - WSAVA2005 - VIN"}
+
+{"type": "entity", "entity_text": "dogs", "entity_type": "Host", "attr": {"breed": "various", "age group": "all"}, "reference": "Causes of Respiratory Disease in Animals - Merck Veterinary Manual"}
+
+{"type": "entity", "entity_text": "cats", "entity_type": "Host", "attr": {"breed": "various", "age group": "all"}, "reference": "Pyothorax - WSAVA2005 - VIN"}
+
+{"type": "entity", "entity_text": "pyothorax", "entity_type": "Disease", "attr": {"type": "infectious", "pathogenesis": "purulent pleuritis", "complications": "severe respiratory distress"}, "reference": "Pyothorax - WSAVA2005 - VIN"}
+
+{"type": "entity", "entity_text": "increased respiratory rate", "entity_type": "Symptom", "attr": {"severity": "moderate to severe", "frequency": "common"}, "reference": "Pleural Effusion in Dogs | PetMD"}
+
+{"type": "entity", "entity_text": "difficulty breathing", "entity_type": "Symptom", "attr": {"severity": "moderate to severe", "frequency": "common"}, "reference": "Pleural Effusion in Dogs | PetMD"}
+
+{"type": "entity", "entity_text": "coughing", "entity_type": "Symptom", "attr": {"severity": "mild to moderate", "frequency": "common"}, "reference": "Pleural Effusion in Dogs | PetMD"}
+
+{"type": "entity", "entity_text": "restlessness", "entity_type": "Symptom", "attr": {"severity": "mild to moderate", "frequency": "common"}, "reference": "Pleural Effusion in Dogs | PetMD"}
+
+{"type": "entity", "entity_text": "exercise intolerance", "entity_type": "Symptom", "attr": {"severity": "moderate", "frequency": "common"}, "reference": "Pleural Effusion in Dogs | PetMD"}
+
+{"type": "entity", "entity_text": "cyanotic mucous membranes", "entity_type": "Symptom", "attr": {"location": "gums, lips", "severity": "severe", "frequency": "in advanced cases"}, "reference": "Pleural Effusion in Dogs | PetMD"}
+
+{"type": "entity", "entity_text": "lethargy", "entity_type": "Symptom", "attr": {"severity": "moderate", "frequency": "common"}, "reference": "Pleural Effusion in Dogs | PetMD"}
+
+{"type": "entity", "entity_text": "decreased appetite", "entity_type": "Symptom", "attr": {"severity": "mild to moderate", "frequency": "common"}, "reference": "Pleural Effusion in Dogs | PetMD"}
+
+{"type": "entity", "entity_text": "auscultation", "entity_type": "Diagnosis", "attr": {"principle": "detection of muffled heart tones", "applicable stage": "initial"}, "reference": "Monnet, E. Pyothorax. WSAVA 2005"}
+
+{"type": "entity", "entity_text": "percussion", "entity_type": "Diagnosis", "attr": {"principle": "detection of dull percussive notes", "applicable stage": "initial"}, "reference": "Monnet, E. Pyothorax. WSAVA 2005"}
+
+{"type": "entity", "entity_text": "thoracocentesis", "entity_type": "Diagnosis", "attr": {"principle": "aspiration of pleural fluid", "applicable stage": "confirmatory", "limitations": "loculated fluid may be difficult to aspirate"}, "reference": "Monnet, E. Pyothorax. WSAVA 2005"}
+
+{"type": "entity", "entity_text": "cytologic evaluation", "entity_type": "Diagnosis", "attr": {"principle": "analysis of pleural fluid", "applicable stage": "confirmatory"}, "reference": "Monnet, E. Pyothorax. WSAVA 2005"}
+
+{"type": "entity", "entity_text": "radiographic imaging", "entity_type": "Diagnosis", "attr": {"principle": "visualization of pleural effusion", "applicable stage": "confirmatory"}, "reference": "Berry, C.R., Huguet, E.E., Cole, R.C. Radiographic Diagnosis of Pleural Effusion and Pulmonary Edema in Dogs and Cats. Today's Veterinary Practice. 2023 Jan/Feb;44:44-51"}
+
+{"type": "entity", "entity_text": "therapeutic thoracocentesis", "entity_type": "Treatment", "attr": {"method": "removal of fluid from pleural space", "indication": "relief of respiratory distress", "risks": "pneumothorax, organ puncture"}, "reference": "Pleurisy in Cats (Felis) - Vetlexicon"}
+
+{"type": "entity", "entity_text": "antimicrobial therapy", "entity_type": "Treatment", "attr": {"method": "administration of antibiotics", "indication": "bacterial infections", "risks": "antibiotic resistance"}, "reference": "Management of the feline pyothorax patient | VETgirl Veterinary"}
+
+{"type": "entity", "entity_text": "pleural drainage", "entity_type": "Treatment", "attr": {"method": "placement of thoracostomy tube", "indication": "continuous drainage of pleural space", "risks": "infection, tube displacement"}, "reference": "Management of the feline pyothorax patient | VETgirl Veterinary"}
+
+{"type": "entity", "entity_text": "pleural lavage", "entity_type": "Treatment", "attr": {"method": "flushing pleural space with sterile solution", "indication": "removal of exudates and debris", "risks": "fluid overload"}, "reference": "Management of the feline pyothorax patient | VETgirl Veterinary"}
+
+{"type": "entity", "entity_text": "surgical intervention", "entity_type": "Treatment", "attr": {"method": "thoracotomy, mediastinectomy, decortication", "indication": "loculated fluid, abscesses, lung lobe consolidation", "risks": "anesthetic complications, bleeding"}, "reference": "Management of the feline pyothorax patient | VETgirl Veterinary"}
+
+{"type": "entity", "entity_text": "vaccination", "entity_type": "Prevention", "attr": {"implementation": "regular immunization", "target group": "all dogs and cats", "expected effect": "reduced risk of respiratory infections"}, "reference": "Pleural Effusion in Dogs | PetMD"}
+
+{"type": "entity", "entity_text": "hygiene and sanitation", "entity_type": "Prevention", "attr": {"implementation": "regular disinfection of surfaces", "target group": "pet environments", "expected effect": "limit spread of pathogens"}, "reference": "Pleural Effusion in Dogs | VCA Animal Hospitals"}
+
+{"type": "entity", "entity_text": "prompt treatment", "entity_type": "Prevention", "attr": {"implementation": "early intervention for respiratory infections", "target group": "infected animals", "expected effect": "prevent progression to pleuritis"}, "reference": "Pleural Effusion in Dogs | VCA Animal Hospitals"}
+
+{"type": "entity", "entity_text": "pneumothorax", "entity_type": "DiseaseAlt", "attr": {"type": "respiratory", "pathogenesis": "air in pleural space"}, "reference": "Radiographic Diagnosis of Pleural Effusion and Pulmonary Edema in Dogs and Cats. Today's Veterinary Practice"}
+
+{"type": "entity", "entity_text": "pulmonary edema", "entity_type": "DiseaseAlt", "attr": {"type": "respiratory", "pathogenesis": "fluid in lung parenchyma"}, "reference": "Radiographic Diagnosis of Pleural Effusion and Pulmonary Edema in Dogs and Cats. Today's Veterinary Practice"}
+
+{"type": "entity", "entity_text": "mediastinal masses", "entity_type": "DiseaseAlt", "attr": {"type": "neoplastic", "pathogenesis": "abnormal growth in mediastinum"}, "reference": "Radiographic Diagnosis of Pleural Effusion and Pulmonary Edema in Dogs and Cats. Today's Veterinary Practice"}
+
+{"type": "entity", "entity_text": "diaphragmatic hernia", "entity_type": "DiseaseAlt", "attr": {"type": "traumatic", "pathogenesis": "abdominal contents in thoracic cavity"}, "reference": "Radiographic Diagnosis of Pleural Effusion and Pulmonary Edema in Dogs and Cats. Today's Veterinary Practice"}
+
+{"type": "relation", "head": "bacterial infections", "relation_type": "causes", "tail": "Pleuritis"}
+
+{"type": "relation", "head": "viral infections", "relation_type": "causes", "tail": "Pleuritis"}
+
+{"type": "relation", "head": "immune-mediated disorders", "relation_type": "causes", "tail": "Pleuritis"}
+
+{"type": "relation", "head": "methicillin-resistant Staphylococcus", "relation_type": "causes", "tail": "Pleuritis"}
+
+{"type": "relation", "head": "Bacteroides", "relation_type": "causes", "tail": "pyothorax"}
+
+{"type": "relation", "head": "Fusobacterium", "relation_type": "causes", "tail": "pyothorax"}
+
+{"type": "relation", "head": "Nocardia", "relation_type": "causes", "tail": "pyothorax"}
+
+{"type": "relation", "head": "Actinomyces", "relation_type": "causes", "tail": "pyothorax"}
+
+{"type": "relation", "head": "Pasteurella multocida", "relation_type": "causes", "tail": "pyothorax"}
+
+{"type": "relation", "head": "Pleuritis", "relation_type": "presents_as", "tail": "increased respiratory rate"}
+
+{"type": "relation", "head": "Pleuritis", "relation_type": "presents_as", "tail": "difficulty breathing"}
+
+{"type": "relation", "head": "Pleuritis", "relation_type": "presents_as", "tail": "coughing"}
+
+{"type": "relation", "head": "Pleuritis", "relation_type": "presents_as", "tail": "restlessness"}
+
+{"type": "relation", "head": "Pleuritis", "relation_type": "presents_as", "tail": "exercise intolerance"}
+
+{"type": "relation", "head": "Pleuritis", "relation_type": "presents_as", "tail": "cyanotic mucous membranes"}
+
+{"type": "relation", "head": "Pleuritis", "relation_type": "presents_as", "tail": "lethargy"}
+
+{"type": "relation", "head": "Pleuritis", "relation_type": "presents_as", "tail": "decreased appetite"}
+
+{"type": "relation", "head": "Pleuritis", "relation_type": "infects", "tail": "companion animals"}
+
+{"type": "relation", "head": "Pleuritis", "relation_type": "infects", "tail": "dogs"}
+
+{"type": "relation", "head": "Pleuritis", "relation_type": "infects", "tail": "cats"}
+
+{"type": "relation", "head": "Pleuritis", "relation_type": "affects", "tail": "pleural membranes"}
+
+{"type": "relation", "head": "Pleuritis", "relation_type": "diagnosed_by", "tail": "auscultation"}
+
+{"type": "relation", "head": "Pleuritis", "relation_type": "diagnosed_by", "tail": "percussion"}
+
+{"type": "relation", "head": "Pleuritis", "relation_type": "diagnosed_by", "tail": "thoracocentesis"}
+
+{"type": "relation", "head": "Pleuritis", "relation_type": "diagnosed_by", "tail": "cytologic evaluation"}
+
+{"type": "relation", "head": "Pleuritis", "relation_type": "diagnosed_by", "tail": "radiographic imaging"}
+
+{"type": "relation", "head": "Pleuritis", "relation_type": "treated_by", "tail": "therapeutic thoracocentesis"}
+
+{"type": "relation", "head": "Pleuritis", "relation_type": "treated_by", "tail": "antimicrobial therapy"}
+
+{"type": "relation", "head": "Pleuritis", "relation_type": "treated_by", "tail": "pleural drainage"}
+
+{"type": "relation", "head": "Pleuritis", "relation_type": "treated_by", "tail": "pleural lavage"}
+
+{"type": "relation", "head": "Pleuritis", "relation_type": "treated_by", "tail": "surgical intervention"}
+
+{"type": "relation", "head": "Pleuritis", "relation_type": "prevented_by", "tail": "vaccination"}
+
+{"type": "relation", "head": "Pleuritis", "relation_type": "prevented_by", "tail": "hygiene and sanitation"}
+
+{"type": "relation", "head": "Pleuritis", "relation_type": "prevented_by", "tail": "prompt treatment"}
+
+{"type": "relation", "head": "Pleuritis", "relation_type": "differential_diagnosis", "tail": "pneumothorax"}
+
+{"type": "relation", "head": "Pleuritis", "relation_type": "differential_diagnosis", "tail": "pulmonary edema"}
+
+{"type": "relation", "head": "Pleuritis", "relation_type": "differential_diagnosis", "tail": "mediastinal masses"}
+
+{"type": "relation", "head": "Pleuritis", "relation_type": "differential_diagnosis", "tail": "diaphragmatic hernia"}

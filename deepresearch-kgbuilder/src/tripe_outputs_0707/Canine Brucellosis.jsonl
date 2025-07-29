@@ -1,0 +1,53 @@
+{"type": "entity", "entity_text": "Canine brucellosis", "entity_type": "Disease", "attr": {"type": "infectious", "reversibility": "chronic", "pathogenesis": "bacterial infection", "complications": "reproductive failure"}, "reference": "Santos RL, et al. Canine Brucellosis: An Update. Front Vet Sci. 2021;8;594291."}
+{"type": "entity", "entity_text": "Brucella canis", "entity_type": "Pathogen", "attr": {"source": "infected dogs", "mechanism of action": "intracellular bacterial infection"}, "reference": "Santos RL, et al. Canine Brucellosis: An Update. Front Vet Sci. 2021;8;594291."}
+{"type": "entity", "entity_text": "Brucella melitensis", "entity_type": "Pathogen", "attr": {"source": "livestock", "mechanism of action": "intracellular bacterial infection"}, "reference": "Santos RL, et al. Canine Brucellosis: An Update. Front Vet Sci. 2021;8;594291."}
+{"type": "entity", "entity_text": "Brucella abortus", "entity_type": "Pathogen", "attr": {"source": "livestock", "mechanism of action": "intracellular bacterial infection"}, "reference": "Santos RL, et al. Canine Brucellosis: An Update. Front Vet Sci. 2021;8;594291."}
+{"type": "entity", "entity_text": "Brucella suis", "entity_type": "Pathogen", "attr": {"source": "livestock", "mechanism of action": "intracellular bacterial infection"}, "reference": "Santos RL, et al. Canine Brucellosis: An Update. Front Vet Sci. 2021;8;594291."}
+{"type": "entity", "entity_text": "Dogs", "entity_type": "Host", "attr": {"breed": "all breeds", "age group": "all ages"}, "reference": "Santos RL, et al. Canine Brucellosis: An Update. Front Vet Sci. 2021;8;594291."}
+{"type": "entity", "entity_text": "Humans", "entity_type": "Host", "attr": {"breed": "not applicable", "age group": "all ages"}, "reference": "Santos RL, et al. Canine Brucellosis: An Update. Front Vet Sci. 2021;8;594291."}
+{"type": "entity", "entity_text": "Late-term abortion", "entity_type": "Symptom", "attr": {"location": "reproductive system", "frequency": "common", "severity": "severe"}, "reference": "Canine Brucellosis: Facts for Dog Owners - NJ.gov"}
+{"type": "entity", "entity_text": "Stillborn puppies", "entity_type": "Symptom", "attr": {"location": "reproductive system", "frequency": "common", "severity": "severe"}, "reference": "Canine Brucellosis: Facts for Dog Owners - NJ.gov"}
+{"type": "entity", "entity_text": "Abnormally sized testicles", "entity_type": "Symptom", "attr": {"location": "reproductive system", "frequency": "common", "severity": "moderate"}, "reference": "Canine Brucellosis: Facts for Dog Owners - NJ.gov"}
+{"type": "entity", "entity_text": "Infertility", "entity_type": "Symptom", "attr": {"location": "reproductive system", "frequency": "common", "severity": "moderate"}, "reference": "Canine Brucellosis: Facts for Dog Owners - NJ.gov"}
+{"type": "entity", "entity_text": "Anorexia", "entity_type": "Symptom", "attr": {"location": "systemic", "frequency": "occasional", "severity": "mild to moderate"}, "reference": "Canine Brucellosis: Facts for Dog Owners - NJ.gov"}
+{"type": "entity", "entity_text": "Weight loss", "entity_type": "Symptom", "attr": {"location": "systemic", "frequency": "occasional", "severity": "mild to moderate"}, "reference": "Canine Brucellosis: Facts for Dog Owners - NJ.gov"}
+{"type": "entity", "entity_text": "Lameness", "entity_type": "Symptom", "attr": {"location": "musculoskeletal", "frequency": "occasional", "severity": "moderate"}, "reference": "Canine Brucellosis: Facts for Dog Owners - NJ.gov"}
+{"type": "entity", "entity_text": "Uveitis", "entity_type": "Symptom", "attr": {"location": "ocular", "frequency": "rare", "severity": "moderate"}, "reference": "Canine brucellosis | Cornell University College of Veterinary Medicine"}
+{"type": "entity", "entity_text": "Diskospondylitis", "entity_type": "Symptom", "attr": {"location": "spine", "frequency": "rare", "severity": "severe"}, "reference": "Canine brucellosis | Cornell University College of Veterinary Medicine"}
+{"type": "entity", "entity_text": "Reproductive system", "entity_type": "Anatomy", "attr": {"anatomical location": "genital tract", "physiological function": "reproduction"}, "reference": "Santos RL, et al. Canine Brucellosis: An Update. Front Vet Sci. 2021;8;594291."}
+{"type": "entity", "entity_text": "Bacterial culture", "entity_type": "Diagnosis", "attr": {"principle": "isolation of bacteria", "applicable stage": "all stages", "limitations": "intermittent shedding"}, "reference": "Canine brucellosis | Cornell University College of Veterinary Medicine"}
+{"type": "entity", "entity_text": "PCR assay", "entity_type": "Diagnosis", "attr": {"principle": "detection of bacterial DNA", "applicable stage": "all stages", "limitations": "intermittent shedding"}, "reference": "Canine brucellosis | Cornell University College of Veterinary Medicine"}
+{"type": "entity", "entity_text": "Canine Brucella Multiplex test", "entity_type": "Diagnosis", "attr": {"principle": "serological detection", "applicable stage": "post-antibody development", "limitations": "false negatives early in infection"}, "reference": "Canine brucellosis | Cornell University College of Veterinary Medicine"}
+{"type": "entity", "entity_text": "Agar gel immunodiffusion test", "entity_type": "Diagnosis", "attr": {"principle": "antibody detection", "applicable stage": "post-antibody development", "limitations": "variable sensitivity"}, "reference": "Brucellosis in Dogs - Reproductive System - Merck Veterinary Manual"}
+{"type": "entity", "entity_text": "Spaying/Neutering", "entity_type": "Treatment", "attr": {"method": "surgical", "indication": "reduce bacterial shedding", "risks": "does not eliminate infection"}, "reference": "Canine brucellosis | Cornell University College of Veterinary Medicine"}
+{"type": "entity", "entity_text": "Antibiotic therapy", "entity_type": "Treatment", "attr": {"method": "pharmacological", "indication": "attempt to clear infection", "risks": "relapses common"}, "reference": "Brucellosis in Dogs: 7 Essential Medication Options for Treatment"}
+{"type": "entity", "entity_text": "Euthanasia", "entity_type": "Treatment", "attr": {"method": "terminal", "indication": "prevent transmission", "risks": "loss of animal"}, "reference": "Brucellosis in Dogs - Veterinary Partner - VIN"}
+{"type": "entity", "entity_text": "Disinfection", "entity_type": "Prevention", "attr": {"implementation": "chemical", "target group": "contaminated environments", "expected effect": "kill bacteria"}, "reference": "Veterinary Guidance for Brucellosis - CDC"}
+{"type": "entity", "entity_text": "Biosecurity measures", "entity_type": "Prevention", "attr": {"implementation": "management", "target group": "kennels and breeding facilities", "expected effect": "prevent spread"}, "reference": "Veterinary Guidance for Brucellosis - CDC"}
+{"type": "entity", "entity_text": "Testing new dogs", "entity_type": "Prevention", "attr": {"implementation": "diagnostic", "target group": "dogs entering kennels", "expected effect": "prevent introduction"}, "reference": "Veterinary Guidance for Brucellosis - CDC"}
+{"type": "relation", "head": "Brucella canis", "relation_type": "causes", "tail": "Canine brucellosis"}
+{"type": "relation", "head": "Brucella melitensis", "relation_type": "causes", "tail": "Canine brucellosis"}
+{"type": "relation", "head": "Brucella abortus", "relation_type": "causes", "tail": "Canine brucellosis"}
+{"type": "relation", "head": "Brucella suis", "relation_type": "causes", "tail": "Canine brucellosis"}
+{"type": "relation", "head": "Canine brucellosis", "relation_type": "presents_as", "tail": "Late-term abortion"}
+{"type": "relation", "head": "Canine brucellosis", "relation_type": "presents_as", "tail": "Stillborn puppies"}
+{"type": "relation", "head": "Canine brucellosis", "relation_type": "presents_as", "tail": "Abnormally sized testicles"}
+{"type": "relation", "head": "Canine brucellosis", "relation_type": "presents_as", "tail": "Infertility"}
+{"type": "relation", "head": "Canine brucellosis", "relation_type": "presents_as", "tail": "Anorexia"}
+{"type": "relation", "head": "Canine brucellosis", "relation_type": "presents_as", "tail": "Weight loss"}
+{"type": "relation", "head": "Canine brucellosis", "relation_type": "presents_as", "tail": "Lameness"}
+{"type": "relation", "head": "Canine brucellosis", "relation_type": "presents_as", "tail": "Uveitis"}
+{"type": "relation", "head": "Canine brucellosis", "relation_type": "presents_as", "tail": "Diskospondylitis"}
+{"type": "relation", "head": "Brucella canis", "relation_type": "infects", "tail": "Dogs"}
+{"type": "relation", "head": "Brucella canis", "relation_type": "infects", "tail": "Humans"}
+{"type": "relation", "head": "Canine brucellosis", "relation_type": "affects", "tail": "Reproductive system"}
+{"type": "relation", "head": "Canine brucellosis", "relation_type": "diagnosed_by", "tail": "Bacterial culture"}
+{"type": "relation", "head": "Canine brucellosis", "relation_type": "diagnosed_by", "tail": "PCR assay"}
+{"type": "relation", "head": "Canine brucellosis", "relation_type": "diagnosed_by", "tail": "Canine Brucella Multiplex test"}
+{"type": "relation", "head": "Canine brucellosis", "relation_type": "diagnosed_by", "tail": "Agar gel immunodiffusion test"}
+{"type": "relation", "head": "Canine brucellosis", "relation_type": "treated_by", "tail": "Spaying/Neutering"}
+{"type": "relation", "head": "Canine brucellosis", "relation_type": "treated_by", "tail": "Antibiotic therapy"}
+{"type": "relation", "head": "Canine brucellosis", "relation_type": "treated_by", "tail": "Euthanasia"}
+{"type": "relation", "head": "Canine brucellosis", "relation_type": "prevented_by", "tail": "Disinfection"}
+{"type": "relation", "head": "Canine brucellosis", "relation_type": "prevented_by", "tail": "Biosecurity measures"}
+{"type": "relation", "head": "Canine brucellosis", "relation_type": "prevented_by", "tail": "Testing new dogs"}

@@ -1,0 +1,29 @@
+{"type": "entity", "entity_text": "Grape and raisin toxicosis", "entity_type": "Disease", "attr": {"type": "acute toxicity", "reversibility": "potentially reversible if treated early", "pathogenesis": "unknown exact mechanism", "complications": "acute kidney injury"}, "reference": "Grape, Raisin, and Tamarind Toxicosis - https://www.merckvetmanual.com/toxicology/food-hazards/grape-raisin-and-tamarind-vitis-spp-tamarindus-spp-toxicosis-in-dogs"}
+
+{"type": "entity", "entity_text": "tartaric acid", "entity_type": "Pathogen", "attr": {"source": "naturally occurring in grapes", "mechanism of action": "accumulation in proximal renal tubular cells"}, "reference": "Grape, Raisin, and Tamarind Toxicosis - https://www.merckvetmanual.com/toxicology/food-hazards/grape-raisin-and-tamarind-vitis-spp-tamarindus-spp-toxicosis-in-dogs"}
+
+{"type": "entity", "entity_text": "dogs", "entity_type": "Host", "attr": {"breed": "all breeds", "age group": "all ages"}, "reference": "Grape, Raisin, and Tamarind Toxicosis - https://www.merckvetmanual.com/toxicology/food-hazards/grape-raisin-and-tamarind-vitis-spp-tamarindus-spp-toxicosis-in-dogs"}
+
+{"type": "entity", "entity_text": "vomiting", "entity_type": "Symptom", "attr": {"location": "gastrointestinal", "frequency": "within 24-48 hours", "severity": "consistent early sign"}, "reference": "VCA Animal Hospitals - https://vcahospitals.com/know-your-pet/grape-raisin-and-currant-poisoning-in-dogs"}
+
+{"type": "entity", "entity_text": "acute kidney injury", "entity_type": "Symptom", "attr": {"location": "renal", "frequency": "within 72 hours", "severity": "severe"}, "reference": "Grape, Raisin, and Tamarind Toxicosis - https://www.merckvetmanual.com/toxicology/food-hazards/grape-raisin-and-tamarind-vitis-spp-tamarindus-spp-toxicosis-in-dogs"}
+
+{"type": "entity", "entity_text": "serum chemistry", "entity_type": "Diagnosis", "attr": {"principle": "blood test", "applicable stage": "early to late", "limitations": "nonspecific findings"}, "reference": "Grape, Raisin, and Tamarind Toxicosis - https://www.merckvetmanual.com/toxicology/food-hazards/grape-raisin-and-tamarind-vitis-spp-tamarindus-spp-toxicosis-in-dogs"}
+
+{"type": "entity", "entity_text": "intravenous fluid therapy", "entity_type": "Treatment", "attr": {"method": "aggressive IV fluids", "indication": "primary treatment", "risks": "fluid overload"}, "reference": "VCA Animal Hospitals - https://vcahospitals.com/know-your-pet/grape-raisin-and-currant-poisoning-in-dogs"}
+
+{"type": "entity", "entity_text": "dietary restriction", "entity_type": "Prevention", "attr": {"implementation": "complete avoidance of grapes and raisins", "target group": "all dogs", "expected effect": "prevention of toxicity"}, "reference": "VCA Animal Hospitals - https://vcahospitals.com/know-your-pet/grape-raisin-and-currant-poisoning-in-dogs"}
+
+{"type": "relation", "head": "tartaric acid", "relation_type": "causes", "tail": "Grape and raisin toxicosis"}
+
+{"type": "relation", "head": "Grape and raisin toxicosis", "relation_type": "presents_as", "tail": "vomiting"}
+
+{"type": "relation", "head": "Grape and raisin toxicosis", "relation_type": "presents_as", "tail": "acute kidney injury"}
+
+{"type": "relation", "head": "Grape and raisin toxicosis", "relation_type": "infects", "tail": "dogs"}
+
+{"type": "relation", "head": "Grape and raisin toxicosis", "relation_type": "diagnosed_by", "tail": "serum chemistry"}
+
+{"type": "relation", "head": "Grape and raisin toxicosis", "relation_type": "treated_by", "tail": "intravenous fluid therapy"}
+
+{"type": "relation", "head": "Grape and raisin toxicosis", "relation_type": "prevented_by", "tail": "dietary restriction"}

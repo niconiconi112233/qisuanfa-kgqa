@@ -1,0 +1,276 @@
+Laryngeal Foreign Body
+Nasal Foreign Body
+Feline Nasopharyngeal Polyps
+Tracheal Obstruction
+Obstructive Laryngitis
+Acute Respiratory Distress Syndrome
+Aspiration Pneumonia
+Bacterial Pneumonia
+Mycotic Pneumonia
+Viral Pneumonia
+Pleuropneumonia
+Pulmonary Abscess
+Pulmonary Edema
+Cardiogenic Pulmonary Edema
+Noncardiogenic Pulmonary Edema
+Pulmonary Thromboembolism
+Pulmonary Hypertension
+Acute Congestive Heart Failure
+Chronic Heart Failure
+Hypertrophic Cardiomyopathy
+Dilated Cardiomyopathy
+Restrictive Cardiomyopathy
+Arrhythmias
+Sinus Tachycardia
+Sinus Bradycardia
+Atrial Fibrillation
+Atrial Flutter
+Ventricular Tachycardia
+Ventricular Fibrillation
+Sick Sinus Syndrome
+Asystole
+Atrial Standstill
+Mitral Regurgitation
+Tricuspid Regurgitation
+Aortic Regurgitation
+Mitral Valve Degeneration
+Tricuspid Valve Degeneration
+Mitral Dysplasia
+Pericardial Effusion
+Constrictive Pericarditis
+Cardiac Tamponade
+Cor Pulmonale
+Aortic Thrombosis
+Arterial thrombosis
+Venous thrombosis
+Pulmonary Artery Dilatation
+Subaortic Stenosis
+Infective Endocarditis
+Bacterial Myocarditis
+Viral Myocarditis
+Protozoal Myocarditis
+Megaoesophagus
+Esophageal Perforation
+Esophageal Diverticula
+Intestinal Lymphangiectasia
+Malabsorption Syndromes
+Acute Gastritis
+Chronic Gastritis
+Irritable Bowel Syndrome
+Exocrine Pancreatic Insufficiency
+Portal hypertension
+Congenital Portosystemic Shunt
+Acute Hepatitis
+Idiopathic Chronic Hepatitis
+Nodular Hyperplasia
+Hepatocellular Carcinoma
+Hepatocellular Adenoma
+Mesothelioma
+Pulmonary Neoplasia
+Renal Carcinoma
+Renal Lymphoma
+Renal Tumor
+Pyelonephritis
+Acute Kidney Injury
+Chronic Kidney Disease
+Glomerulonephritis
+Interstitial Nephritis
+Protein-Losing Nephropathy
+Uremia
+Renal Abscess
+Renal Infarction
+Nephrotic Syndrome
+Renal Atrophy
+Polycystic Kidney Disease
+Calcium Oxalate Calculi
+Struvite Stone
+Urate Urolothiasis
+Nephrolith
+Obstructive Feline Idiopathic Cystitis
+Nonobstructive Feline Idiopathic Cystitis
+Bacterial Cystitis
+Urethral Rupture
+Ureteral Obstruction
+Ureteral Rupture
+Bladder Rupture
+Bladder Trauma
+Ectopia Lentis
+Lens Injury
+Congenital Cataract
+Hereditary Cataract
+Senile Cataract
+Nutritional Deficiency Cataract
+Posterior Capsular Opacification
+Corneal Ulcers
+Indolent-Type Ulcers
+Stromal Corneal Ulcers
+Complicated Corneal Ulcer
+Corneal Lacerations
+Corneal Perforation
+Descemetocele
+Fungal Keretitis
+Bacterial Keratitis
+Keratitis
+Corneal Degeneration
+Feline Acute Bullous Keratopathy
+Pigmentary Keratitis
+Lipid Keratopathy
+Corneal Dystrophy
+Corneal Abnormal Deposits
+Corneal Sequestrae
+Corneal Dermoid
+Corneal Lesions
+Exposure Keratitis
+Virus Keratitis
+Bacterial Keratitis
+Keratomalacia
+Dry Eye
+Neurogenic Keratoconjunctivitis Sicca
+Conjunctivitis
+Viral Conjunctivitis
+Bacterial Conjunctivitis
+Anaphylactic Conjunctivitis
+Chlamydial Conjunctivitis
+Parasitic Conjunctivitis
+Follicular Conjunctivitis
+Conjunctival Laceration
+Conjunctival Congestion
+Subconjunctival Hemorrhage
+Symblepharon
+Eyelid Laceration
+Eyelid Trauma
+Eyelid Mass
+Entropion
+Ectropion
+Lagophthalmos
+Ptosis
+Aplasia Papebrae
+Distichiasis
+Ectopic Cilia
+Trichiasis
+Medial Canthal Trichiasis
+Medial Canthal Pocket Syndrome
+Medial Canthal Laceration
+Blepharitis
+Horners Syndrome
+Glaucoma
+Primary Open-Angle Glaucoma
+Secondary Glaucoma
+Malignant Glaucoma
+Anterior Uveitis
+Panuveitis
+Traumatic Uveitis
+Uveal Melanoma
+Iris Atrophy
+Senile Iris Atrophy
+Iris Neoplasms
+Iris Cysts
+Anterior Synechia
+Hyphema
+Hypopyon
+Retinal Detachment
+Retinal Degeneration
+Progressive Retinal Degeneration
+Hereditary Retinal Dystrophy
+Retinal Pigment Epithelial
+Retinal Hemorrhages
+Spontaneous Retinal Dysplasia
+Retinopathies Of Nutritional
+Sudden Acquired Retinal Degeneration
+Diabetic Retinopathy
+Immune-Mediated Retinopathy
+Hypertensive Retinopathy
+Retinal Toxicity
+Immune-Mediated Retinitis
+Taurine Deficiency Retinopathy
+Hereditary Tapetal Degeneration
+Induced Retinal Dysplasia
+Optic Nerve Hypoplasia
+Optic neuritis
+Papilledema
+Corneal Endothelial Dystrophy
+Corneal Degeneration
+Lipid Keratopathy
+Ocular Mucin Deficiency
+Eosinophilic Keratitis
+Pigmentary Keratitis
+Corneal Cloudiness
+Corneal Opacities
+Corneal Lesions
+Corneal Perforation
+Descemetocele
+Fungal Keretitis
+Bacterial Keratitis
+Keratomalacia
+Dry Eye
+Neurogenic Keratoconjunctivitis Sicca
+Conjunctivitis
+Viral Conjunctivitis
+Bacterial Conjunctivitis
+Anaphylactic Conjunctivitis
+Chlamydial Conjunctivitis
+Parasitic Conjunctivitis
+Follicular Conjunctivitis
+Conjunctival Laceration
+Conjunctival Congestion
+Subconjunctival Hemorrhage
+Symblepharon
+Eyelid Laceration
+Eyelid Trauma
+Eyelid Mass
+Entropion
+Ectropion
+Lagophthalmos
+Ptosis
+Aplasia Papebrae
+Distichiasis
+Ectopic Cilia
+Trichiasis
+Medial Canthal Trichiasis
+Medial Canthal Pocket Syndrome
+Medial Canthal Laceration
+Blepharitis
+Horners Syndrome
+Glaucoma
+Primary Open-Angle Glaucoma
+Secondary Glaucoma
+Malignant Glaucoma
+Anterior Uveitis
+Panuveitis
+Traumatic Uveitis
+Uveal Melanoma
+Iris Atrophy
+Senile Iris Atrophy
+Iris Neoplasms
+Iris Cysts
+Anterior Synechia
+Hyphema
+Hypopyon
+Retinal Detachment
+Retinal Degeneration
+Progressive Retinal Degeneration
+Hereditary Retinal Dystrophy
+Retinal Pigment Epithelial
+Retinal Hemorrhages
+Spontaneous Retinal Dysplasia
+Retinopathies Of Nutritional
+Sudden Acquired Retinal Degeneration
+Diabetic Retinopathy
+Immune-Mediated Retinopathy
+Hypertensive Retinopathy
+Retinal Toxicity
+Immune-Mediated Retinitis
+Taurine Deficiency Retinopathy
+Hereditary Tapetal Degeneration
+Induced Retinal Dysplasia
+Optic Nerve Hypoplasia
+Optic neuritis
+Papilledema
+Corneal Endothelial Dystrophy
+Corneal Degeneration
+Lipid Keratopathy
+Ocular Mucin Deficiency
+Eosinophilic Keratitis
+Pigmentary Keratitis
+Corneal Cloudiness
+Corneal Opacities

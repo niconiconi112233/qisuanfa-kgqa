@@ -1,0 +1,91 @@
+{"type": "entity", "entity_text": "Esophageal regurgitation", "entity_type": "Disease", "attr": {"type": "gastrointestinal disorder", "reversibility": "often chronic", "pathogenesis": "passive return of food or liquid from esophagus", "complications": "aspiration pneumonia, weight loss"}, "reference": "Megaesophagus - VCA Animal Hospitals"}
+{"type": "entity", "entity_text": "Megaesophagus", "entity_type": "Disease", "attr": {"type": "congenital abnormality", "pathogenesis": "abnormal dilation of the esophagus"}, "reference": "Megaesophagus - VCA Animal Hospitals"}
+{"type": "entity", "entity_text": "Vascular ring anomalies", "entity_type": "Disease", "attr": {"type": "congenital abnormality", "pathogenesis": "abnormal blood vessels compressing the esophagus"}, "reference": "Megaesophagus - VCA Animal Hospitals"}
+{"type": "entity", "entity_text": "Myasthenia gravis", "entity_type": "Disease", "attr": {"type": "neuromuscular disorder"}, "reference": "Megaesophagus - VCA Animal Hospitals"}
+{"type": "entity", "entity_text": "Systemic lupus", "entity_type": "Disease", "attr": {"type": "autoimmune disorder"}, "reference": "Megaesophagus - VCA Animal Hospitals"}
+{"type": "entity", "entity_text": "Esophagitis", "entity_type": "Disease", "attr": {"type": "inflammatory condition", "pathogenesis": "inflammation of the esophagus"}, "reference": "Megaesophagus - VCA Animal Hospitals"}
+{"type": "entity", "entity_text": "Aspiration pneumonia", "entity_type": "Disease", "attr": {"type": "respiratory infection", "pathogenesis": "inhalation of food or liquid into lungs"}, "reference": "Megaesophagus - VCA Animal Hospitals"}
+{"type": "entity", "entity_text": "Calicivirus", "entity_type": "Pathogen", "attr": {"source": "viral"}, "reference": "Cat Regurgitation - PetMD. https://www.petmd.com/cat/symptoms/cat-regurgitation"}
+{"type": "entity", "entity_text": "Spirocerca lupi", "entity_type": "Pathogen", "attr": {"source": "parasitic nematode"}, "reference": "Cat Regurgitation - PetMD. https://www.petmd.com/cat/symptoms/cat-regurgitation"}
+{"type": "entity", "entity_text": "Hiatal hernias", "entity_type": "Disease", "attr": {"type": "structural abnormality"}, "reference": "Recognizing and treating esophageal disorders in dogs and cats - DVM360. https://www.dvm360.com/view/recognizing-and-treating-esophageal-disorders-dogs-and-cats"}
+{"type": "entity", "entity_text": "Drooling", "entity_type": "Symptom", "attr": {"severity": "more than usual"}, "reference": "Gastroesophageal Reflux Disease in Dogs - Symptoms, Causes ..., https://wagwalking.com/condition/gastroesophageal-reflux-disease"}
+{"type": "entity", "entity_text": "Wheezing", "entity_type": "Symptom", "attr": {}, "reference": "Gastroesophageal Reflux Disease in Dogs - Symptoms, Causes ..., https://wagwalking.com/condition/gastroesophageal-reflux-disease"}
+{"type": "entity", "entity_text": "Regurgitation", "entity_type": "Symptom", "attr": {"severity": "passive process"}, "reference": "Gastroesophageal Reflux Disease in Dogs - Symptoms, Causes ..., https://wagwalking.com/condition/gastroesophageal-reflux-disease"}
+{"type": "entity", "entity_text": "Burping or gurgling after eating", "entity_type": "Symptom", "attr": {"timing": "after eating"}, "reference": "Gastroesophageal Reflux Disease in Dogs - Symptoms, Causes ..., https://wagwalking.com/condition/gastroesophageal-reflux-disease"}
+{"type": "entity", "entity_text": "Bad smelling breath", "entity_type": "Symptom", "attr": {}, "reference": "Gastroesophageal Reflux Disease in Dogs - Symptoms, Causes ..., https://wagwalking.com/condition/gastroesophageal-reflux-disease"}
+{"type": "entity", "entity_text": "Coughing up small amounts of vomit", "entity_type": "Symptom", "attr": {"severity": "small amounts"}, "reference": "Gastroesophageal Reflux Disease in Dogs - Symptoms, Causes ..., https://wagwalking.com/condition/gastroesophageal-reflux-disease"}
+{"type": "entity", "entity_text": "Pain", "entity_type": "Symptom", "attr": {}, "reference": "Gastroesophageal Reflux Disease in Dogs - Symptoms, Causes ..., https://wagwalking.com/condition/gastroesophageal-reflux-disease"}
+{"type": "entity", "entity_text": "Weight loss", "entity_type": "Symptom", "attr": {}, "reference": "Megaesophagus - VCA Animal Hospitals"}
+{"type": "entity", "entity_text": "Difficulty swallowing", "entity_type": "Symptom", "attr": {}, "reference": "Megaesophagus - VCA Animal Hospitals"}
+{"type": "entity", "entity_text": "Esophagus", "entity_type": "Anatomy", "attr": {"anatomical location": "between throat and stomach", "physiological function": "transports food to stomach"}, "reference": "Megaesophagus - VCA Animal Hospitals"}
+{"type": "entity", "entity_text": "Clinical history-taking", "entity_type": "Diagnosis", "attr": {"principle": "differentiate regurgitation from vomiting", "applicable stage": "initial"}, "reference": "Regurgitation in dogs: diagnostic approach | Vets & Clinics"}
+{"type": "entity", "entity_text": "Laboratory testing", "entity_type": "Diagnosis", "attr": {"principle": "rule out systemic or metabolic diseases", "applicable stage": "initial"}, "reference": "Regurgitation in dogs: diagnostic approach | Vets & Clinics"}
+{"type": "entity", "entity_text": "Radiographs", "entity_type": "Diagnosis", "attr": {"principle": "reveal structural abnormalities", "applicable stage": "secondary"}, "reference": "Regurgitation - Blackwell's Five‐Minute Veterinary Consult Clinical ..."}
+{"type": "entity", "entity_text": "Fluoroscopy", "entity_type": "Diagnosis", "attr": {"principle": "assess esophageal motility", "applicable stage": "advanced"}, "reference": "Esophageal Diseases: Diagnostic and Therapeutic Approach"}
+{"type": "entity", "entity_text": "Endoscopy", "entity_type": "Diagnosis", "attr": {"principle": "direct visualization of esophageal mucosa", "applicable stage": "definitive"}, "reference": "Oesophageal disease: correct interpretation of clinical signs | Vet Times"}
+{"type": "entity", "entity_text": "Proton pump inhibitors", "entity_type": "Treatment", "attr": {"method": "medication", "indication": "decrease gastric acid production"}, "reference": "Sellon, R.K.; Willard, M.D.: Esophagitis and esophageal strictures. *Vet. Clin. North Am. (Small Anim. Pract.)33* (5):945-967; 2003."}
+{"type": "entity", "entity_text": "Prokinetic drugs", "entity_type": "Treatment", "attr": {"method": "medication", "indication": "improve esophageal motility"}, "reference": "Sellon, R.K.; Willard, M.D.: Esophagitis and esophageal strictures. *Vet. Clin. North Am. (Small Anim. Pract.)33* (5):945-967; 2003."}
+{"type": "entity", "entity_text": "Gastrostomy tube", "entity_type": "Treatment", "attr": {"method": "surgical intervention", "indication": "bypass esophagus in severe cases"}, "reference": "Sellon, R.K.; Willard, M.D.: Esophagitis and esophageal strictures. *Vet. Clin. North Am. (Small Anim. Pract.)33* (5):945-967; 2003."}
+{"type": "entity", "entity_text": "Dietary modification", "entity_type": "Treatment", "attr": {"method": "supportive care", "indication": "small, frequent, soft, low-fat, low-fiber meals"}, "reference": "Sellon, R.K.; Willard, M.D.: Esophagitis and esophageal strictures. *Vet. Clin. North Am. (Small Anim. Pract.)33* (5):945-967; 2003."}
+{"type": "entity", "entity_text": "Elevated feeding", "entity_type": "Treatment", "attr": {"method": "supportive care", "indication": "reduce reflux"}, "reference": "Megaesophagus - VCA Animal Hospitals. https://vcahospitals.com/know-your-pet/megaesophagus"}
+{"type": "entity", "entity_text": "Antibiotics", "entity_type": "Treatment", "attr": {"method": "medication", "indication": "treat aspiration pneumonia"}, "reference": "Sellon, R.K.; Willard, M.D.: Esophagitis and esophageal strictures. *Vet. Clin. North Am. (Small Anim. Pract.)33* (5):945-967; 2003."}
+{"type": "entity", "entity_text": "Surgical correction", "entity_type": "Treatment", "attr": {"method": "surgical intervention", "indication": "correct underlying structural abnormalities"}, "reference": "Recognizing and treating esophageal disorders in dogs and cats. *DVM360*. https://www.dvm360.com/view/recognizing-and-treating-esophageal-disorders-dogs-and-cats"}
+{"type": "entity", "entity_text": "Smaller, frequent meals", "entity_type": "Prevention", "attr": {"implementation": "feeding management", "expected effect": "less pressure on esophagus and stomach"}, "reference": "How to Prevent Dog Regurgitation - Wag!: https://wagwalking.com/wellness/how-to-prevent-dog-regurgitation"}
+{"type": "entity", "entity_text": "Upright position after eating", "entity_type": "Prevention", "attr": {"implementation": "posture management", "expected effect": "help food move down esophagus"}, "reference": "Disorders of the Esophagus in Dogs - Merck Veterinary Manual: https://www.merckvetmanual.com/dog-owners/digestive-disorders-of-dogs/disorders-of-the-esophagus-in-dogs"}
+{"type": "entity", "entity_text": "Specialized diet", "entity_type": "Prevention", "attr": {"implementation": "dietary management", "expected effect": "facilitate proper digestion"}, "reference": "Disorders of the Esophagus in Dogs - Merck Veterinary Manual: https://www.merckvetmanual.com/dog-owners/digestive-disorders-of-dogs/disorders-of-the-esophagus-in-dogs"}
+{"type": "entity", "entity_text": "Elevated feeding platform", "entity_type": "Prevention", "attr": {"implementation": "feeding management", "expected effect": "facilitate proper digestion"}, "reference": "Disorders of the Esophagus in Dogs - Merck Veterinary Manual: https://www.merckvetmanual.com/dog-owners/digestive-disorders-of-dogs/disorders-of-the-esophagus-in-dogs"}
+{"type": "entity", "entity_text": "Preventive medications", "entity_type": "Prevention", "attr": {"implementation": "pharmacological management", "expected effect": "reduce stomach acid or relax esophageal sphincter"}, "reference": "GER and regurgitation - AAHA - American Animal Hospital Association: https://www.aaha.org/resources/2020-aaha-anesthesia-and-monitoring-guidelines-for-dogs-and-cats/troubleshooting-anesthetic-complications/regurgitation/"}
+{"type": "entity", "entity_text": "Esophageal stricture", "entity_type": "DiseaseAlt", "attr": {"type": "structural abnormality", "pathogenesis": "narrowing of esophagus after injury or inflammation"}, "reference": "Regurgitation in dogs: diagnostic approach | Vets & Clinics"}
+{"type": "entity", "entity_text": "Hypothyroidism", "entity_type": "DiseaseAlt", "attr": {"type": "endocrine disorder"}, "reference": "Differential Diagnosis: Regurgitation - Clinician's Brief"}
+{"type": "entity", "entity_text": "Polyradiculitis", "entity_type": "DiseaseAlt", "attr": {"type": "neurological disorder"}, "reference": "Differential Diagnosis: Regurgitation - Clinician's Brief"}
+{"type": "entity", "entity_text": "Foreign bodies", "entity_type": "DiseaseAlt", "attr": {"type": "structural obstruction"}, "reference": "Recognizing and treating esophageal disorders in dogs and cats - DVM360"}
+{"type": "entity", "entity_text": "Esophageal tumors", "entity_type": "DiseaseAlt", "attr": {"type": "neoplastic disease"}, "reference": "Recognizing and treating esophageal disorders in dogs and cats - DVM360"}
+{"type": "entity", "entity_text": "Esophageal diverticula", "entity_type": "DiseaseAlt", "attr": {"type": "structural abnormality"}, "reference": "Recognizing and treating esophageal disorders in dogs and cats - DVM360"}
+{"type": "entity", "entity_text": "Esophageal granulomas", "entity_type": "DiseaseAlt", "attr": {"type": "inflammatory lesion"}, "reference": "Recognizing and treating esophageal disorders in dogs and cats - DVM360"}
+{"type": "entity", "entity_text": "Dogs", "entity_type": "Host", "attr": {}, "reference": "Megaesophagus - VCA Animal Hospitals"}
+{"type": "entity", "entity_text": "Cats", "entity_type": "Host", "attr": {}, "reference": "Cat Regurgitation - PetMD. https://www.petmd.com/cat/symptoms/cat-regurgitation"}
+{"type": "relation", "head": "Esophageal regurgitation", "relation_type": "presents_as", "tail": "Regurgitation"}
+{"type": "relation", "head": "Esophageal regurgitation", "relation_type": "presents_as", "tail": "Weight loss"}
+{"type": "relation", "head": "Esophageal regurgitation", "relation_type": "presents_as", "tail": "Difficulty swallowing"}
+{"type": "relation", "head": "Esophageal regurgitation", "relation_type": "presents_as", "tail": "Drooling"}
+{"type": "relation", "head": "Esophageal regurgitation", "relation_type": "presents_as", "tail": "Wheezing"}
+{"type": "relation", "head": "Esophageal regurgitation", "relation_type": "presents_as", "tail": "Burping or gurgling after eating"}
+{"type": "relation", "head": "Esophageal regurgitation", "relation_type": "presents_as", "tail": "Bad smelling breath"}
+{"type": "relation", "head": "Esophageal regurgitation", "relation_type": "presents_as", "tail": "Coughing up small amounts of vomit"}
+{"type": "relation", "head": "Esophageal regurgitation", "relation_type": "presents_as", "tail": "Pain"}
+{"type": "relation", "head": "Esophageal regurgitation", "relation_type": "affects", "tail": "Esophagus"}
+{"type": "relation", "head": "Megaesophagus", "relation_type": "causes", "tail": "Esophageal regurgitation"}
+{"type": "relation", "head": "Vascular ring anomalies", "relation_type": "causes", "tail": "Esophageal regurgitation"}
+{"type": "relation", "head": "Myasthenia gravis", "relation_type": "causes", "tail": "Esophageal regurgitation"}
+{"type": "relation", "head": "Systemic lupus", "relation_type": "causes", "tail": "Esophageal regurgitation"}
+{"type": "relation", "head": "Esophagitis", "relation_type": "causes", "tail": "Esophageal regurgitation"}
+{"type": "relation", "head": "Esophageal regurgitation", "relation_type": "causes", "tail": "Aspiration pneumonia"}
+{"type": "relation", "head": "Calicivirus", "relation_type": "causes", "tail": "Esophagitis"}
+{"type": "relation", "head": "Spirocerca lupi", "relation_type": "causes", "tail": "Esophagitis"}
+{"type": "relation", "head": "Hiatal hernias", "relation_type": "causes", "tail": "Esophageal regurgitation"}
+{"type": "relation", "head": "Calicivirus", "relation_type": "infects", "tail": "Cats"}
+{"type": "relation", "head": "Spirocerca lupi", "relation_type": "infects", "tail": "Dogs"}
+{"type": "relation", "head": "Esophageal regurgitation", "relation_type": "diagnosed_by", "tail": "Clinical history-taking"}
+{"type": "relation", "head": "Esophageal regurgitation", "relation_type": "diagnosed_by", "tail": "Laboratory testing"}
+{"type": "relation", "head": "Esophageal regurgitation", "relation_type": "diagnosed_by", "tail": "Radiographs"}
+{"type": "relation", "head": "Esophageal regurgitation", "relation_type": "diagnosed_by", "tail": "Fluoroscopy"}
+{"type": "relation", "head": "Esophageal regurgitation", "relation_type": "diagnosed_by", "tail": "Endoscopy"}
+{"type": "relation", "head": "Esophageal regurgitation", "relation_type": "treated_by", "tail": "Proton pump inhibitors"}
+{"type": "relation", "head": "Esophageal regurgitation", "relation_type": "treated_by", "tail": "Prokinetic drugs"}
+{"type": "relation", "head": "Esophageal regurgitation", "relation_type": "treated_by", "tail": "Gastrostomy tube"}
+{"type": "relation", "head": "Esophageal regurgitation", "relation_type": "treated_by", "tail": "Dietary modification"}
+{"type": "relation", "head": "Esophageal regurgitation", "relation_type": "treated_by", "tail": "Elevated feeding"}
+{"type": "relation", "head": "Aspiration pneumonia", "relation_type": "treated_by", "tail": "Antibiotics"}
+{"type": "relation", "head": "Vascular ring anomalies", "relation_type": "treated_by", "tail": "Surgical correction"}
+{"type": "relation", "head": "Esophageal regurgitation", "relation_type": "prevented_by", "tail": "Smaller, frequent meals"}
+{"type": "relation", "head": "Esophageal regurgitation", "relation_type": "prevented_by", "tail": "Upright position after eating"}
+{"type": "relation", "head": "Esophageal regurgitation", "relation_type": "prevented_by", "tail": "Specialized diet"}
+{"type": "relation", "head": "Esophageal regurgitation", "relation_type": "prevented_by", "tail": "Elevated feeding platform"}
+{"type": "relation", "head": "Esophageal regurgitation", "relation_type": "prevented_by", "tail": "Preventive medications"}
+{"type": "relation", "head": "Esophageal regurgitation", "relation_type": "differential_diagnosis", "tail": "Esophageal stricture"}
+{"type": "relation", "head": "Esophageal regurgitation", "relation_type": "differential_diagnosis", "tail": "Hypothyroidism"}
+{"type": "relation", "head": "Esophageal regurgitation", "relation_type": "differential_diagnosis", "tail": "Polyradiculitis"}
+{"type": "relation", "head": "Esophageal regurgitation", "relation_type": "differential_diagnosis", "tail": "Foreign bodies"}
+{"type": "relation", "head": "Esophageal regurgitation", "relation_type": "differential_diagnosis", "tail": "Esophageal tumors"}
+{"type": "relation", "head": "Esophageal regurgitation", "relation_type": "differential_diagnosis", "tail": "Esophageal diverticula"}
+{"type": "relation", "head": "Esophageal regurgitation", "relation_type": "differential_diagnosis", "tail": "Esophageal granulomas"}

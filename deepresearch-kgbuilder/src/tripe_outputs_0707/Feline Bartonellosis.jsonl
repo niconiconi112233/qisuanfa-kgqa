@@ -1,0 +1,85 @@
+{"type": "entity", "entity_text": "Feline bartonellosis", "entity_type": "Disease", "attr": {"type": "vector-borne zoonotic disease", "reversibility": "can become chronic", "pathogenesis": "bacterial infection", "complications": "cardiovascular diseases"}, "reference": "Epidemiology of feline bartonellosis and molecular characteristics of Bartonella henselae isolates in cats - https://pmc.ncbi.nlm.nih.gov/articles/PMC10730849/"}
+{"type": "entity", "entity_text": "Bartonella henselae", "entity_type": "Pathogen", "attr": {"source": "flea bites", "mechanism of action": "intracellular infection of red blood cells"}, "reference": "Bartonellosis - StatPearls - NCBI Bookshelf - https://www.ncbi.nlm.nih.gov/books/NBK430874/"}
+{"type": "entity", "entity_text": "B. bacilliformis", "entity_type": "Pathogen", "attr": {"source": "flea bites", "mechanism of action": "bacterial infection"}, "reference": "Bartonellosis - StatPearls - NCBI Bookshelf - https://www.ncbi.nlm.nih.gov/books/NBK430874/"}
+{"type": "entity", "entity_text": "cats", "entity_type": "Host", "attr": {"breed": "pet and stray cats", "age group": "all"}, "reference": "Epidemiology of Bartonella henselae infection in pet and stray cats in China - https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-024-06117-8"}
+{"type": "entity", "entity_text": "lethargy", "entity_type": "Symptom", "attr": {"severity": "mild to moderate"}, "reference": "Feline Bartonella Disease | Veterinarian in East Hanover, NJ - https://www.vetcentermorriscounty.com/feline-bartonella-disease"}
+{"type": "entity", "entity_text": "decreased appetite", "entity_type": "Symptom", "attr": {}, "reference": "Feline Bartonella Disease | Veterinarian in East Hanover, NJ - https://www.vetcentermorriscounty.com/feline-bartonella-disease"}
+{"type": "entity", "entity_text": "fever", "entity_type": "Symptom", "attr": {"severity": "self-limiting"}, "reference": "Feline Bartonella Disease | Veterinarian in East Hanover, NJ - https://www.vetcentermorriscounty.com/feline-bartonella-disease"}
+{"type": "entity", "entity_text": "vomiting", "entity_type": "Symptom", "attr": {}, "reference": "Feline Bartonella Disease | Veterinarian in East Hanover, NJ - https://www.vetcentermorriscounty.com/feline-bartonella-disease"}
+{"type": "entity", "entity_text": "red eyes", "entity_type": "Symptom", "attr": {"location": "eyes"}, "reference": "Feline Bartonella Disease | Veterinarian in East Hanover, NJ - https://www.vetcentermorriscounty.com/feline-bartonella-disease"}
+{"type": "entity", "entity_text": "swollen lymph nodes", "entity_type": "Symptom", "attr": {"location": "lymphatic system"}, "reference": "Feline Bartonella Disease | Veterinarian in East Hanover, NJ - https://www.vetcentermorriscounty.com/feline-bartonella-disease"}
+{"type": "entity", "entity_text": "neurological dysfunction", "entity_type": "Symptom", "attr": {"severity": "serious", "frequency": "rare"}, "reference": "Veterinary Guidance for Bartonella - CDC - https://www.cdc.gov/bartonella/hcp/veterinarians/index.html"}
+{"type": "entity", "entity_text": "cardiovascular diseases", "entity_type": "Symptom", "attr": {"severity": "life-threatening", "frequency": "rare"}, "reference": "Veterinary Guidance for Bartonella - CDC - https://www.cdc.gov/bartonella/hcp/veterinarians/index.html"}
+{"type": "entity", "entity_text": "muscle pain", "entity_type": "Symptom", "attr": {"location": "muscles"}, "reference": "Bartonella and Cat Scratch Fever - Veterinary Partner - VIN - https://veterinarypartner.vin.com/default.aspx?pid=19239&catId=102903&id=4952003"}
+{"type": "entity", "entity_text": "joint pain", "entity_type": "Symptom", "attr": {"location": "joints"}, "reference": "Bartonella and Cat Scratch Fever - Veterinary Partner - VIN - https://veterinarypartner.vin.com/default.aspx?pid=19239&catId=102903&id=4952003"}
+{"type": "entity", "entity_text": "eye inflammation", "entity_type": "Symptom", "attr": {"location": "eyes"}, "reference": "Bartonella and Cat Scratch Fever - Veterinary Partner - VIN - https://veterinarypartner.vin.com/default.aspx?pid=19239&catId=102903&id=4952003"}
+{"type": "entity", "entity_text": "skin lesions", "entity_type": "Symptom", "attr": {"location": "skin"}, "reference": "Bartonella and Cat Scratch Fever - Veterinary Partner - VIN - https://veterinarypartner.vin.com/default.aspx?pid=19239&catId=102903&id=4952003"}
+{"type": "entity", "entity_text": "endocarditis", "entity_type": "Symptom", "attr": {"location": "heart", "severity": "life-threatening"}, "reference": "GUIDELINE for Feline bartonellosis - ABCD cats & vets - https://www.abcdcatsvets.org/guideline-for-feline-bartonellosis/"}
+{"type": "entity", "entity_text": "myocarditis", "entity_type": "Symptom", "attr": {"location": "heart", "severity": "life-threatening"}, "reference": "GUIDELINE for Feline bartonellosis - ABCD cats & vets - https://www.abcdcatsvets.org/guideline-for-feline-bartonellosis/"}
+{"type": "entity", "entity_text": "polymerase chain reaction (PCR) testing", "entity_type": "Diagnosis", "attr": {"principle": "detection of bacterial DNA", "limitations": "may miss low-level bacteremia"}, "reference": "Bartonellosis (Bartonella Infection) Workup - Medscape Reference - https://emedicine.medscape.com/article/213169-workup"}
+{"type": "entity", "entity_text": "bacterial culture", "entity_type": "Diagnosis", "attr": {"principle": "isolation of bacteria", "limitations": "time-consuming"}, "reference": "Improvement of Bartonella henselae DNA Detection in Cat Blood - https://pmc.ncbi.nlm.nih.gov/articles/PMC5925714/"}
+{"type": "entity", "entity_text": "serology", "entity_type": "Diagnosis", "attr": {"principle": "detection of antibodies", "limitations": "cross-reactivity between Bartonella species"}, "reference": "BARRP - Overview: Bartonella, Molecular Detection, PCR, Varies - https://www.mayocliniclabs.com/test-catalog/overview/84440"}
+{"type": "entity", "entity_text": "liquid blood culture", "entity_type": "Diagnosis", "attr": {"principle": "improved sensitivity for PCR detection"}, "reference": "Improvement of Bartonella henselae DNA Detection in Cat Blood - https://pmc.ncbi.nlm.nih.gov/articles/PMC5925714/"}
+{"type": "entity", "entity_text": "doxycycline", "entity_type": "Treatment", "attr": {"method": "antibiotic therapy", "indication": "Bartonella infection", "risks": "gastrointestinal side effects"}, "reference": "ABCD cats & vets. (n.d.). Guideline for Feline bartonellosis - https://www.abcdcatsvets.org/guideline-for-feline-bartonellosis/"}
+{"type": "entity", "entity_text": "pradofloxacin", "entity_type": "Treatment", "attr": {"method": "antibiotic therapy", "indication": "Bartonella infection"}, "reference": "MDPI. (2022). Pradofloxacin for Treatment of Bartonella henselae in Cats - https://www.mdpi.com/2076-0817/13/4/336"}
+{"type": "entity", "entity_text": "amoxicillin", "entity_type": "Treatment", "attr": {"method": "antibiotic therapy", "indication": "Bartonella infection"}, "reference": "VIN. (n.d.). Understanding Bartonella--Risk Factors, Diagnosis and Management - https://www.vin.com/apputil/content/defaultadv1.aspx?id=3860814&pid=11242"}
+{"type": "entity", "entity_text": "amoxicillin-clavulanate", "entity_type": "Treatment", "attr": {"method": "antibiotic therapy", "indication": "Bartonella infection"}, "reference": "VIN. (n.d.). Understanding Bartonella--Risk Factors, Diagnosis and Management - https://www.vin.com/apputil/content/defaultadv1.aspx?id=3860814&pid=11242"}
+{"type": "entity", "entity_text": "enrofloxacin", "entity_type": "Treatment", "attr": {"method": "antibiotic therapy", "indication": "Bartonella infection"}, "reference": "VIN. (n.d.). Understanding Bartonella--Risk Factors, Diagnosis and Management - https://www.vin.com/apputil/content/defaultadv1.aspx?id=3860814&pid=11242"}
+{"type": "entity", "entity_text": "rifampin", "entity_type": "Treatment", "attr": {"method": "antibiotic therapy", "indication": "Bartonella infection"}, "reference": "VIN. (n.d.). Understanding Bartonella--Risk Factors, Diagnosis and Management - https://www.vin.com/apputil/content/defaultadv1.aspx?id=3860814&pid=11242"}
+{"type": "entity", "entity_text": "supportive care", "entity_type": "Treatment", "attr": {"method": "fluids, pain management", "indication": "management of symptoms"}, "reference": "CDC. (n.d.). Veterinary Guidance for Bartonella - https://www.cdc.gov/bartonella/hcp/veterinarians/index.html"}
+{"type": "entity", "entity_text": "flea control", "entity_type": "Prevention", "attr": {"implementation": "regular application of flea preventatives", "target group": "all cats", "expected effect": "reduce vector transmission"}, "reference": "Veterinary Guidance for Bartonella - CDC - https://www.cdc.gov/bartonella/hcp/veterinarians/index.html"}
+{"type": "entity", "entity_text": "isolation of infected cats", "entity_type": "Prevention", "attr": {"implementation": "separate sick cats from healthy ones", "expected effect": "prevent spread of infection"}, "reference": "Bartonella Species Infection in Cats: ABCD guidelines on prevention and management - https://pmc.ncbi.nlm.nih.gov/articles/PMC11148970/"}
+{"type": "entity", "entity_text": "environmental disinfection", "entity_type": "Prevention", "attr": {"implementation": "cleaning of scratching posts, bedding, surfaces", "expected effect": "reduce environmental contamination"}, "reference": "Viability and Desiccation Resistance of Bartonella henselae in the Environment - https://pmc.ncbi.nlm.nih.gov/articles/PMC10383451/"}
+{"type": "entity", "entity_text": "lymphoma", "entity_type": "DiseaseAlt", "attr": {"type": "neoplastic disease"}, "reference": "Bartonellosis - StatPearls - NCBI Bookshelf - https://www.ncbi.nlm.nih.gov/books/NBK430874/"}
+{"type": "entity", "entity_text": "leukemia", "entity_type": "DiseaseAlt", "attr": {"type": "neoplastic disease"}, "reference": "Bartonellosis - StatPearls - NCBI Bookshelf - https://www.ncbi.nlm.nih.gov/books/NBK430874/"}
+{"type": "entity", "entity_text": "fungal infections", "entity_type": "DiseaseAlt", "attr": {}, "reference": "Bartonellosis - PMC - PubMed Central - https://pmc.ncbi.nlm.nih.gov/articles/PMC7150079/"}
+{"type": "entity", "entity_text": "tularemia", "entity_type": "DiseaseAlt", "attr": {"type": "bacterial infection"}, "reference": "Bartonellosis - PMC - PubMed Central - https://pmc.ncbi.nlm.nih.gov/articles/PMC7150079/"}
+{"type": "entity", "entity_text": "tuberculosis", "entity_type": "DiseaseAlt", "attr": {"type": "bacterial infection"}, "reference": "Bartonellosis - PMC - PubMed Central - https://pmc.ncbi.nlm.nih.gov/articles/PMC7150079/"}
+{"type": "entity", "entity_text": "plague", "entity_type": "DiseaseAlt", "attr": {"type": "bacterial infection"}, "reference": "Bartonellosis - PMC - PubMed Central - https://pmc.ncbi.nlm.nih.gov/articles/PMC7150079/"}
+{"type": "entity", "entity_text": "feline immunodeficiency virus (FIV)", "entity_type": "DiseaseAlt", "attr": {"type": "viral infection", "pathogenesis": "immunodeficiency"}, "reference": "Understanding Bartonella--Risk Factors, Diagnosis and Management - https://www.vin.com/apputil/content/defaultadv1.aspx?id=3860814&pid=11242"}
+{"type": "entity", "entity_text": "feline leukemia virus (FeLV)", "entity_type": "DiseaseAlt", "attr": {"type": "viral infection", "pathogenesis": "immunodeficiency"}, "reference": "Understanding Bartonella--Risk Factors, Diagnosis and Management - https://www.vin.com/apputil/content/defaultadv1.aspx?id=3860814&pid=11242"}
+{"type": "entity", "entity_text": "red blood cells", "entity_type": "Anatomy", "attr": {"physiological function": "oxygen transport"}, "reference": "Chronic Bartonellosis in Cats: What are the potential implications? - https://pmc.ncbi.nlm.nih.gov/articles/PMC10822232/"}
+{"type": "entity", "entity_text": "lymph nodes", "entity_type": "Anatomy", "attr": {"physiological function": "immune response"}, "reference": "Feline Bartonella Disease | Veterinarian in East Hanover, NJ - https://www.vetcentermorriscounty.com/feline-bartonella-disease"}
+{"type": "entity", "entity_text": "heart", "entity_type": "Anatomy", "attr": {"physiological function": "blood circulation"}, "reference": "GUIDELINE for Feline bartonellosis - ABCD cats & vets - https://www.abcdcatsvets.org/guideline-for-feline-bartonellosis/"}
+{"type": "relation", "head": "Bartonella henselae", "relation_type": "causes", "tail": "Feline bartonellosis"}
+{"type": "relation", "head": "B. bacilliformis", "relation_type": "causes", "tail": "Feline bartonellosis"}
+{"type": "relation", "head": "Feline bartonellosis", "relation_type": "presents_as", "tail": "lethargy"}
+{"type": "relation", "head": "Feline bartonellosis", "relation_type": "presents_as", "tail": "decreased appetite"}
+{"type": "relation", "head": "Feline bartonellosis", "relation_type": "presents_as", "tail": "fever"}
+{"type": "relation", "head": "Feline bartonellosis", "relation_type": "presents_as", "tail": "vomiting"}
+{"type": "relation", "head": "Feline bartonellosis", "relation_type": "presents_as", "tail": "red eyes"}
+{"type": "relation", "head": "Feline bartonellosis", "relation_type": "presents_as", "tail": "swollen lymph nodes"}
+{"type": "relation", "head": "Feline bartonellosis", "relation_type": "presents_as", "tail": "neurological dysfunction"}
+{"type": "relation", "head": "Feline bartonellosis", "relation_type": "presents_as", "tail": "cardiovascular diseases"}
+{"type": "relation", "head": "Feline bartonellosis", "relation_type": "presents_as", "tail": "muscle pain"}
+{"type": "relation", "head": "Feline bartonellosis", "relation_type": "presents_as", "tail": "joint pain"}
+{"type": "relation", "head": "Feline bartonellosis", "relation_type": "presents_as", "tail": "eye inflammation"}
+{"type": "relation", "head": "Feline bartonellosis", "relation_type": "presents_as", "tail": "skin lesions"}
+{"type": "relation", "head": "Feline bartonellosis", "relation_type": "presents_as", "tail": "endocarditis"}
+{"type": "relation", "head": "Feline bartonellosis", "relation_type": "presents_as", "tail": "myocarditis"}
+{"type": "relation", "head": "Bartonella henselae", "relation_type": "infects", "tail": "cats"}
+{"type": "relation", "head": "Bartonella henselae", "relation_type": "affects", "tail": "red blood cells"}
+{"type": "relation", "head": "Feline bartonellosis", "relation_type": "affects", "tail": "lymph nodes"}
+{"type": "relation", "head": "Feline bartonellosis", "relation_type": "affects", "tail": "heart"}
+{"type": "relation", "head": "Feline bartonellosis", "relation_type": "diagnosed_by", "tail": "polymerase chain reaction (PCR) testing"}
+{"type": "relation", "head": "Feline bartonellosis", "relation_type": "diagnosed_by", "tail": "bacterial culture"}
+{"type": "relation", "head": "Feline bartonellosis", "relation_type": "diagnosed_by", "tail": "serology"}
+{"type": "relation", "head": "Feline bartonellosis", "relation_type": "diagnosed_by", "tail": "liquid blood culture"}
+{"type": "relation", "head": "Feline bartonellosis", "relation_type": "treated_by", "tail": "doxycycline"}
+{"type": "relation", "head": "Feline bartonellosis", "relation_type": "treated_by", "tail": "pradofloxacin"}
+{"type": "relation", "head": "Feline bartonellosis", "relation_type": "treated_by", "tail": "amoxicillin"}
+{"type": "relation", "head": "Feline bartonellosis", "relation_type": "treated_by", "tail": "amoxicillin-clavulanate"}
+{"type": "relation", "head": "Feline bartonellosis", "relation_type": "treated_by", "tail": "enrofloxacin"}
+{"type": "relation", "head": "Feline bartonellosis", "relation_type": "treated_by", "tail": "rifampin"}
+{"type": "relation", "head": "Feline bartonellosis", "relation_type": "treated_by", "tail": "supportive care"}
+{"type": "relation", "head": "Feline bartonellosis", "relation_type": "prevented_by", "tail": "flea control"}
+{"type": "relation", "head": "Feline bartonellosis", "relation_type": "prevented_by", "tail": "isolation of infected cats"}
+{"type": "relation", "head": "Feline bartonellosis", "relation_type": "prevented_by", "tail": "environmental disinfection"}
+{"type": "relation", "head": "Feline bartonellosis", "relation_type": "differential_diagnosis", "tail": "lymphoma"}
+{"type": "relation", "head": "Feline bartonellosis", "relation_type": "differential_diagnosis", "tail": "leukemia"}
+{"type": "relation", "head": "Feline bartonellosis", "relation_type": "differential_diagnosis", "tail": "fungal infections"}
+{"type": "relation", "head": "Feline bartonellosis", "relation_type": "differential_diagnosis", "tail": "tularemia"}
+{"type": "relation", "head": "Feline bartonellosis", "relation_type": "differential_diagnosis", "tail": "tuberculosis"}
+{"type": "relation", "head": "Feline bartonellosis", "relation_type": "differential_diagnosis", "tail": "plague"}
+{"type": "relation", "head": "Feline bartonellosis", "relation_type": "differential_diagnosis", "tail": "feline immunodeficiency virus (FIV)"}
+{"type": "relation", "head": "Feline bartonellosis", "relation_type": "differential_diagnosis", "tail": "feline leukemia virus (FeLV)"}

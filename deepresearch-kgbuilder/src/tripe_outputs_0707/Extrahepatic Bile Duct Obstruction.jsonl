@@ -1,0 +1,110 @@
+{"type": "entity", "entity_text": "Extrahepatic bile duct obstruction", "entity_type": "Disease", "attr": {"type": "mechanical obstruction", "reversibility": "potentially reversible with treatment", "pathogenesis": "blockage in the normal flow of bile from the liver to the intestinal tract", "complications": "biliary cirrhosis, acquired portosystemic shunts"}, "reference": "Merck Vet Manual. (n.d.). Extrahepatic Bile Duct Obstruction in Small Animals."}
+{"type": "entity", "entity_text": "pancreatitis", "entity_type": "Disease", "attr": {"type": "inflammatory", "reversibility": "potentially reversible", "pathogenesis": "inflammation of the pancreas", "complications": "bile duct obstruction"}, "reference": "PMC. (2020). Bile duct obstruction associated with pancreatitis in 46 dogs."}
+{"type": "entity", "entity_text": "duodenitis", "entity_type": "Disease", "attr": {"type": "inflammatory", "pathogenesis": "inflammation of the duodenum"}, "reference": "AVMA Journals. (2015-2021). 41 dogs with extrahepatic biliary tract obstruction."}
+{"type": "entity", "entity_text": "neoplasia", "entity_type": "Disease", "attr": {"type": "neoplastic", "reversibility": "often irreversible"}, "reference": "Merck Vet Manual. (n.d.). Extrahepatic Bile Duct Obstruction in Small Animals."}
+{"type": "entity", "entity_text": "cholelithiasis", "entity_type": "Disease", "attr": {"type": "mechanical", "pathogenesis": "formation of stones within the biliary system"}, "reference": "Pathogenesis and outcome of extrahepatic biliary obstruction in cats - PubMed"}
+{"type": "entity", "entity_text": "gallbladder mucoceles", "entity_type": "Disease", "attr": {"type": "mechanical"}, "reference": "Merck Vet Manual. (n.d.). Extrahepatic Bile Duct Obstruction in Small Animals."}
+{"type": "entity", "entity_text": "choledochitis", "entity_type": "Disease", "attr": {"type": "inflammatory", "pathogenesis": "inflammation of the bile duct"}, "reference": "Merck Vet Manual. (n.d.). Extrahepatic Bile Duct Obstruction in Small Animals."}
+{"type": "entity", "entity_text": "cholecystitis", "entity_type": "Disease", "attr": {"type": "inflammatory", "pathogenesis": "inflammation of the gallbladder"}, "reference": "Merck Vet Manual. (n.d.). Extrahepatic Bile Duct Obstruction in Small Animals."}
+{"type": "entity", "entity_text": "bile duct malformations", "entity_type": "Disease", "attr": {"type": "congenital", "reversibility": "irreversible"}, "reference": "Merck Vet Manual. (n.d.). Extrahepatic Bile Duct Obstruction in Small Animals."}
+{"type": "entity", "entity_text": "parasitic infection", "entity_type": "Disease", "attr": {"type": "infectious"}, "reference": "Merck Vet Manual. (n.d.). Extrahepatic Bile Duct Obstruction in Small Animals."}
+{"type": "entity", "entity_text": "bile duct strictures", "entity_type": "Disease", "attr": {"type": "mechanical", "pathogenesis": "narrowing of the bile duct"}, "reference": "Merck Vet Manual. (n.d.). Extrahepatic Bile Duct Obstruction in Small Animals."}
+{"type": "entity", "entity_text": "jaundice", "entity_type": "Symptom", "attr": {"severity": "moderate to severe"}, "reference": "Merck Vet Manual. (n.d.). Extrahepatic Bile Duct Obstruction in Small Animals."}
+{"type": "entity", "entity_text": "lethargy", "entity_type": "Symptom", "attr": {"severity": "variable"}, "reference": "Merck Vet Manual. (n.d.). Extrahepatic Bile Duct Obstruction in Small Animals."}
+{"type": "entity", "entity_text": "cyclic fever", "entity_type": "Symptom", "attr": {"frequency": "intermittent"}, "reference": "Merck Vet Manual. (n.d.). Extrahepatic Bile Duct Obstruction in Small Animals."}
+{"type": "entity", "entity_text": "vomiting", "entity_type": "Symptom", "attr": {"frequency": "common"}, "reference": "Merck Vet Manual. (n.d.). Extrahepatic Bile Duct Obstruction in Small Animals."}
+{"type": "entity", "entity_text": "hepatomegaly", "entity_type": "Symptom", "attr": {"location": "liver"}, "reference": "Merck Vet Manual. (n.d.). Extrahepatic Bile Duct Obstruction in Small Animals."}
+{"type": "entity", "entity_text": "acholic feces", "entity_type": "Symptom", "attr": {"location": "digestive tract"}, "reference": "Merck Vet Manual. (n.d.). Extrahepatic Bile Duct Obstruction in Small Animals."}
+{"type": "entity", "entity_text": "bleeding tendencies", "entity_type": "Symptom", "attr": {"severity": "potentially severe", "frequency": "more common in cats"}, "reference": "Merck Vet Manual. (n.d.). Extrahepatic Bile Duct Obstruction in Small Animals."}
+{"type": "entity", "entity_text": "vitamin K deficiency", "entity_type": "Symptom", "attr": {"pathogenesis": "impaired absorption of fat-soluble vitamins"}, "reference": "Merck Vet Manual. (n.d.). Extrahepatic Bile Duct Obstruction in Small Animals."}
+{"type": "entity", "entity_text": "decreased appetite", "entity_type": "Symptom", "attr": {"frequency": "common"}, "reference": "Extrahepatic Biliary Tract Obstruction - American College of Veterinary Surgeons"}
+{"type": "entity", "entity_text": "diarrhea", "entity_type": "Symptom", "attr": {"location": "digestive tract"}, "reference": "Extrahepatic Biliary Tract Obstruction - American College of Veterinary Surgeons"}
+{"type": "entity", "entity_text": "icterus", "entity_type": "Symptom", "attr": {"severity": "moderate to severe"}, "reference": "Extrahepatic Biliary Tract Obstruction - American College of Veterinary Surgeons"}
+{"type": "entity", "entity_text": "GI ulceration", "entity_type": "Symptom", "attr": {"location": "pyloric-duodenal junction", "complications": "blood loss"}, "reference": "Extrahepatic Biliary Tract Obstruction - American College of Veterinary Surgeons"}
+{"type": "entity", "entity_text": "Platynosomum concinnum", "entity_type": "Pathogen", "attr": {"source": "parasitic", "mechanism of action": "liver fluke infection"}, "reference": "Bile Duct Obstruction (Extrahepatic) - Wiley Online Library"}
+{"type": "entity", "entity_text": "dogs", "entity_type": "Host", "attr": {}, "reference": "Merck Vet Manual. (n.d.). Extrahepatic Bile Duct Obstruction in Small Animals."}
+{"type": "entity", "entity_text": "cats", "entity_type": "Host", "attr": {}, "reference": "Merck Vet Manual. (n.d.). Extrahepatic Bile Duct Obstruction in Small Animals."}
+{"type": "entity", "entity_text": "liver", "entity_type": "Anatomy", "attr": {"physiological function": "bile production"}, "reference": "Merck Vet Manual. (n.d.). Extrahepatic Bile Duct Obstruction in Small Animals."}
+{"type": "entity", "entity_text": "bile duct", "entity_type": "Anatomy", "attr": {"physiological function": "bile transport"}, "reference": "Merck Vet Manual. (n.d.). Extrahepatic Bile Duct Obstruction in Small Animals."}
+{"type": "entity", "entity_text": "gallbladder", "entity_type": "Anatomy", "attr": {"physiological function": "bile storage"}, "reference": "Merck Vet Manual. (n.d.). Extrahepatic Bile Duct Obstruction in Small Animals."}
+{"type": "entity", "entity_text": "pancreas", "entity_type": "Anatomy", "attr": {"anatomical location": "adjacent to duodenum"}, "reference": "PMC. (2020). Bile duct obstruction associated with pancreatitis in 46 dogs."}
+{"type": "entity", "entity_text": "duodenum", "entity_type": "Anatomy", "attr": {"anatomical location": "first part of small intestine"}, "reference": "AVMA Journals. (2015-2021). 41 dogs with extrahepatic biliary tract obstruction."}
+{"type": "entity", "entity_text": "ultrasonography", "entity_type": "Diagnosis", "attr": {"principle": "imaging of dilated bile ducts", "limitations": "operator dependent"}, "reference": "Merck Vet Manual. (n.d.). Extrahepatic Bile Duct Obstruction in Small Animals."}
+{"type": "entity", "entity_text": "laparotomy", "entity_type": "Diagnosis", "attr": {"principle": "direct visualization", "limitations": "invasive"}, "reference": "Merck Vet Manual. (n.d.). Extrahepatic Bile Duct Obstruction in Small Animals."}
+{"type": "entity", "entity_text": "liver enzymes monitoring", "entity_type": "Diagnosis", "attr": {"principle": "detection of elevated ALT, AST, ALP, GGT"}, "reference": "Merck Vet Manual. (n.d.). Extrahepatic Bile Duct Obstruction in Small Animals."}
+{"type": "entity", "entity_text": "serum bilirubin monitoring", "entity_type": "Diagnosis", "attr": {"principle": "detection of hyperbilirubinemia"}, "reference": "Merck Vet Manual. (n.d.). Extrahepatic Bile Duct Obstruction in Small Animals."}
+{"type": "entity", "entity_text": "radiographs", "entity_type": "Diagnosis", "attr": {"principle": "identification of radiopaque gallstones", "limitations": "limited soft tissue contrast"}, "reference": "Extrahepatic Biliary Tract Obstruction - American College of Veterinary Surgeons"}
+{"type": "entity", "entity_text": "biliary decompression", "entity_type": "Treatment", "attr": {"method": "surgical", "indication": "relieve obstruction"}, "reference": "Merck Vet Manual. (n.d.). Extrahepatic Bile Duct Obstruction in Small Animals."}
+{"type": "entity", "entity_text": "surgical intervention", "entity_type": "Treatment", "attr": {"method": "invasive", "indication": "remove obstructions", "risks": "high, especially in cats"}, "reference": "Merck Vet Manual. (n.d.). Extrahepatic Bile Duct Obstruction in Small Animals."}
+{"type": "entity", "entity_text": "cholecystoenterostomy", "entity_type": "Treatment", "attr": {"method": "surgical bypass", "indication": "create alternative bile drainage"}, "reference": "Extrahepatic Bile Duct Obstruction - an overview - ScienceDirect.com"}
+{"type": "entity", "entity_text": "choledochoduodenostomy", "entity_type": "Treatment", "attr": {"method": "surgical bypass", "indication": "create alternative bile drainage"}, "reference": "Extrahepatic Bile Duct Obstruction - an overview - ScienceDirect.com"}
+{"type": "entity", "entity_text": "percutaneous cholecystostomy", "entity_type": "Treatment", "attr": {"method": "temporary drainage", "indication": "stabilize patient before surgery"}, "reference": "Management of Extrahepatic Biliary Obstruction: A Role for Temporary Percutaneous Biliary Drainage - AWS"}
+{"type": "entity", "entity_text": "bile duct stenting", "entity_type": "Treatment", "attr": {"method": "temporary drainage", "indication": "stabilize patient before surgery"}, "reference": "Biliary Tract Abnormalities of Dogs and Cats - WSAVA2011 - VIN"}
+{"type": "entity", "entity_text": "fluid therapy", "entity_type": "Treatment", "attr": {"method": "supportive care"}, "reference": "Extrahepatic Bile Duct Obstruction in Small Animals - Digestive System - Merck Veterinary Manual"}
+{"type": "entity", "entity_text": "nutritional support", "entity_type": "Treatment", "attr": {"method": "supportive care"}, "reference": "Extrahepatic Bile Duct Obstruction in Small Animals - Digestive System - Merck Veterinary Manual"}
+{"type": "entity", "entity_text": "antibiotics", "entity_type": "Treatment", "attr": {"method": "medical", "indication": "prevent/treat infection"}, "reference": "Extrahepatic Bile Duct Obstruction in Small Animals - Digestive System - Merck Veterinary Manual"}
+{"type": "entity", "entity_text": "vitamin K supplementation", "entity_type": "Treatment", "attr": {"method": "medical", "indication": "correct coagulation deficits"}, "reference": "Extrahepatic Bile Duct Obstruction in Small Animals - Digestive System - Merck Veterinary Manual"}
+{"type": "entity", "entity_text": "dietary management", "entity_type": "Prevention", "attr": {"implementation": "control pancreatitis", "target group": "at-risk animals"}, "reference": "Extrahepatic Biliary Tract Obstruction - American College of Veterinary Surgeons"}
+{"type": "entity", "entity_text": "avoidance of dietary indiscretions", "entity_type": "Prevention", "attr": {"implementation": "control pancreatitis", "target group": "at-risk animals"}, "reference": "Extrahepatic Biliary Tract Obstruction - American College of Veterinary Surgeons"}
+{"type": "entity", "entity_text": "prompt treatment of pancreatitis", "entity_type": "Prevention", "attr": {"implementation": "prevent bile duct obstruction", "target group": "animals with pancreatitis"}, "reference": "Extrahepatic Biliary Tract Obstruction - American College of Veterinary Surgeons"}
+{"type": "entity", "entity_text": "early detection of neoplastic processes", "entity_type": "Prevention", "attr": {"implementation": "screening", "target group": "at-risk animals"}, "reference": "Canine Biliary Tract Diseases: How to Reveal and Treat Them - VIN"}
+{"type": "entity", "entity_text": "cholangiohepatitis", "entity_type": "DiseaseAlt", "attr": {"type": "inflammatory"}, "reference": "Extrahepatic Bile Duct Obstruction in Small Animals - Digestive System - Merck Veterinary Manual"}
+{"type": "entity", "entity_text": "pancreatic cancer", "entity_type": "DiseaseAlt", "attr": {"type": "neoplastic"}, "reference": "Extrahepatic Biliary Tract Obstruction - American College of Veterinary Surgeons"}
+{"type": "entity", "entity_text": "bile duct cancer", "entity_type": "DiseaseAlt", "attr": {"type": "neoplastic"}, "reference": "Extrahepatic Biliary Tract Obstruction - American College of Veterinary Surgeons"}
+{"type": "entity", "entity_text": "intestinal tumors", "entity_type": "DiseaseAlt", "attr": {"type": "neoplastic"}, "reference": "Extrahepatic Biliary Tract Obstruction - American College of Veterinary Surgeons"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "presents_as", "tail": "jaundice"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "presents_as", "tail": "lethargy"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "presents_as", "tail": "cyclic fever"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "presents_as", "tail": "vomiting"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "presents_as", "tail": "hepatomegaly"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "presents_as", "tail": "acholic feces"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "presents_as", "tail": "bleeding tendencies"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "presents_as", "tail": "vitamin K deficiency"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "presents_as", "tail": "decreased appetite"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "presents_as", "tail": "diarrhea"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "presents_as", "tail": "icterus"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "presents_as", "tail": "GI ulceration"}
+{"type": "relation", "head": "pancreatitis", "relation_type": "causes", "tail": "Extrahepatic bile duct obstruction"}
+{"type": "relation", "head": "duodenitis", "relation_type": "causes", "tail": "Extrahepatic bile duct obstruction"}
+{"type": "relation", "head": "neoplasia", "relation_type": "causes", "tail": "Extrahepatic bile duct obstruction"}
+{"type": "relation", "head": "cholelithiasis", "relation_type": "causes", "tail": "Extrahepatic bile duct obstruction"}
+{"type": "relation", "head": "gallbladder mucoceles", "relation_type": "causes", "tail": "Extrahepatic bile duct obstruction"}
+{"type": "relation", "head": "choledochitis", "relation_type": "causes", "tail": "Extrahepatic bile duct obstruction"}
+{"type": "relation", "head": "cholecystitis", "relation_type": "causes", "tail": "Extrahepatic bile duct obstruction"}
+{"type": "relation", "head": "bile duct malformations", "relation_type": "causes", "tail": "Extrahepatic bile duct obstruction"}
+{"type": "relation", "head": "parasitic infection", "relation_type": "causes", "tail": "Extrahepatic bile duct obstruction"}
+{"type": "relation", "head": "bile duct strictures", "relation_type": "causes", "tail": "Extrahepatic bile duct obstruction"}
+{"type": "relation", "head": "Platynosomum concinnum", "relation_type": "causes", "tail": "Extrahepatic bile duct obstruction"}
+{"type": "relation", "head": "Platynosomum concinnum", "relation_type": "infects", "tail": "cats"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "infects", "tail": "dogs"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "infects", "tail": "cats"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "affects", "tail": "liver"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "affects", "tail": "bile duct"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "affects", "tail": "gallbladder"}
+{"type": "relation", "head": "pancreatitis", "relation_type": "affects", "tail": "pancreas"}
+{"type": "relation", "head": "duodenitis", "relation_type": "affects", "tail": "duodenum"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "diagnosed_by", "tail": "ultrasonography"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "diagnosed_by", "tail": "laparotomy"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "diagnosed_by", "tail": "liver enzymes monitoring"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "diagnosed_by", "tail": "serum bilirubin monitoring"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "diagnosed_by", "tail": "radiographs"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "treated_by", "tail": "biliary decompression"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "treated_by", "tail": "surgical intervention"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "treated_by", "tail": "cholecystoenterostomy"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "treated_by", "tail": "choledochoduodenostomy"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "treated_by", "tail": "percutaneous cholecystostomy"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "treated_by", "tail": "bile duct stenting"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "treated_by", "tail": "fluid therapy"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "treated_by", "tail": "nutritional support"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "treated_by", "tail": "antibiotics"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "treated_by", "tail": "vitamin K supplementation"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "prevented_by", "tail": "dietary management"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "prevented_by", "tail": "avoidance of dietary indiscretions"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "prevented_by", "tail": "prompt treatment of pancreatitis"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "prevented_by", "tail": "early detection of neoplastic processes"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "differential_diagnosis", "tail": "pancreatitis"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "differential_diagnosis", "tail": "cholelithiasis"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "differential_diagnosis", "tail": "cholangiohepatitis"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "differential_diagnosis", "tail": "pancreatic cancer"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "differential_diagnosis", "tail": "bile duct cancer"}
+{"type": "relation", "head": "Extrahepatic bile duct obstruction", "relation_type": "differential_diagnosis", "tail": "intestinal tumors"}

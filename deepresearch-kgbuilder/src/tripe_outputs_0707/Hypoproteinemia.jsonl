@@ -1,0 +1,98 @@
+{"type": "entity", "entity_text": "Hypoproteinemia", "entity_type": "Disease", "attr": {"type": "metabolic disorder", "reversibility": "reversible with treatment", "pathogenesis": "decrease in total serum protein levels", "complications": "edema, ascites, pleural effusions"}, "reference": "Diagnosis of Small Intestinal Disorders in Dogs and Cats - PMC"}
+{"type": "entity", "entity_text": "Protein-losing enteropathy", "entity_type": "Disease", "attr": {"type": "gastrointestinal disorder", "reversibility": "depends on underlying cause", "pathogenesis": "loss of proteins from bloodstream into GI tract", "complications": "hypoalbuminemia, edema"}, "reference": "Protein-Losing Enteropathy in Dogs And Cats - WSAVA2005 - VIN"}
+{"type": "entity", "entity_text": "Intestinal lymphangiectasia", "entity_type": "Disease", "attr": {"type": "lymphatic disorder", "pathogenesis": "dilation and leakage of intestinal lymphatics"}, "reference": "Protein-Losing Enteropathy (PLE) in Dogs - VCA Animal Hospitals"}
+{"type": "entity", "entity_text": "Inflammatory bowel disease", "entity_type": "Disease", "attr": {"type": "inflammatory disorder", "pathogenesis": "chronic intestinal inflammation"}, "reference": "Protein-Losing Enteropathy (PLE) in Dogs - VCA Animal Hospitals"}
+{"type": "entity", "entity_text": "Alimentary tract lymphoma", "entity_type": "Disease", "attr": {"type": "neoplastic disorder", "pathogenesis": "malignant transformation of lymphocytes in GI tract"}, "reference": "Protein-Losing Enteropathy (PLE) in Dogs - VCA Animal Hospitals"}
+{"type": "entity", "entity_text": "Histoplasmosis", "entity_type": "Disease", "attr": {"type": "fungal infection", "pathogenesis": "granulomatous inflammation of intestines"}, "reference": "Granulomatous enteritis (histoplasmosis, pythiosis)"}
+{"type": "entity", "entity_text": "Pythiosis", "entity_type": "Disease", "attr": {"type": "fungal infection", "pathogenesis": "granulomatous inflammation of intestines"}, "reference": "Granulomatous enteritis (histoplasmosis, pythiosis)"}
+{"type": "entity", "entity_text": "Chronic intussusception", "entity_type": "Disease", "attr": {"type": "mechanical obstruction", "pathogenesis": "telescoping of intestine into itself"}, "reference": "Protein-Losing Enteropathy (PLE) in Dogs - VCA Animal Hospitals"}
+{"type": "entity", "entity_text": "Immunoproliferative enteropathy", "entity_type": "Disease", "attr": {"type": "immune-mediated disorder", "pathogenesis": "chronic intestinal inflammation and protein loss"}, "reference": "Immunoproliferative enteropathy of Basenjis"}
+{"type": "entity", "entity_text": "Intestinal carcinoma", "entity_type": "Disease", "attr": {"type": "neoplastic disorder", "pathogenesis": "malignant transformation of intestinal epithelial cells"}, "reference": "Intestinal neoplasia, (lymphoma, carcinoma)"}
+{"type": "entity", "entity_text": "Severe hypoalbuminemia", "entity_type": "Symptom", "attr": {"severity": "severe", "frequency": "consistent"}, "reference": "Willard, M.D. \"Protein-Losing Enteropathy In Dogs And Cats.\" WSAVA 2005."}
+{"type": "entity", "entity_text": "Edema", "entity_type": "Symptom", "attr": {"location": "peripheral tissues", "pathogenesis": "decreased oncotic pressure"}, "reference": "Stewart, R.H. \"Interstitial edema.\" Small Animal Critical Care Medicine (Third Edition), 2023."}
+{"type": "entity", "entity_text": "Ascites", "entity_type": "Symptom", "attr": {"location": "abdominal cavity", "pathogenesis": "decreased oncotic pressure"}, "reference": "Stewart, R.H. \"Interstitial edema.\" Small Animal Critical Care Medicine (Third Edition), 2023."}
+{"type": "entity", "entity_text": "Pleural effusions", "entity_type": "Symptom", "attr": {"location": "pleural cavity", "pathogenesis": "decreased oncotic pressure"}, "reference": "Stewart, R.H. \"Interstitial edema.\" Small Animal Critical Care Medicine (Third Edition), 2023."}
+{"type": "entity", "entity_text": "Weight loss", "entity_type": "Symptom", "attr": {"frequency": "common"}, "reference": "VCA Animal Hospitals. \"Protein-Losing Enteropathy (PLE) in Dogs.\""}
+{"type": "entity", "entity_text": "Diarrhea", "entity_type": "Symptom", "attr": {"location": "gastrointestinal tract", "frequency": "common"}, "reference": "VCA Animal Hospitals. \"Protein-Losing Enteropathy (PLE) in Dogs.\""}
+{"type": "entity", "entity_text": "Anorexia", "entity_type": "Symptom", "attr": {"frequency": "common"}, "reference": "VCA Animal Hospitals. \"Protein-Losing Enteropathy (PLE) in Dogs.\""}
+{"type": "entity", "entity_text": "Lethargy", "entity_type": "Symptom", "attr": {"frequency": "common"}, "reference": "VCA Animal Hospitals. \"Protein-Losing Enteropathy (PLE) in Dogs.\""}
+{"type": "entity", "entity_text": "Vomiting", "entity_type": "Symptom", "attr": {"location": "gastrointestinal tract", "frequency": "variable"}, "reference": "VCA Animal Hospitals. \"Protein-Losing Enteropathy (PLE) in Cats.\""}
+{"type": "entity", "entity_text": "Abdominal pain", "entity_type": "Symptom", "attr": {"location": "abdomen", "frequency": "variable"}, "reference": "VCA Animal Hospitals. \"Protein-Losing Enteropathy (PLE) in Cats.\""}
+{"type": "entity", "entity_text": "Neurological signs", "entity_type": "Symptom", "attr": {"location": "nervous system", "frequency": "variable"}, "reference": "VCA Animal Hospitals. \"Protein-Losing Enteropathy (PLE) in Cats.\""}
+{"type": "entity", "entity_text": "Coagulopathies", "entity_type": "Symptom", "attr": {"pathogenesis": "secondary to hypoproteinemia"}, "reference": "Willard, M.D. \"Protein-Losing Enteropathy In Dogs And Cats.\" WSAVA 2005."}
+{"type": "entity", "entity_text": "Histoplasma", "entity_type": "Pathogen", "attr": {"source": "fungal", "mechanism of action": "granulomatous inflammation"}, "reference": "Granulomatous enteritis (histoplasmosis, pythiosis)"}
+{"type": "entity", "entity_text": "Pythium", "entity_type": "Pathogen", "attr": {"source": "fungal", "mechanism of action": "granulomatous inflammation"}, "reference": "Granulomatous enteritis (histoplasmosis, pythiosis)"}
+{"type": "entity", "entity_text": "Hookworms", "entity_type": "Pathogen", "attr": {"source": "parasitic", "mechanism of action": "intestinal blood loss"}, "reference": "Gastrointestinal Blood Loss: Intestinal parasites (Hookworms)"}
+{"type": "entity", "entity_text": "Parvovirus", "entity_type": "Pathogen", "attr": {"source": "viral", "mechanism of action": "intestinal epithelial damage"}, "reference": "Villous atrophy, gluten enteropathy, certain viral and bacterial enteritides"}
+{"type": "entity", "entity_text": "Dogs", "entity_type": "Host", "attr": {"breed": "Basenjis, Lundehunds, Soft-Coated Wheaten Terriers, Chinese Shar Peis, Rottweilers, German Shepherds, Yorkshire Terriers"}, "reference": "Protein-losing enteropathies (Proceedings) - DVM360"}
+{"type": "entity", "entity_text": "Cats", "entity_type": "Host", "attr": {}, "reference": "Protein-losing enteropathies (Proceedings) - DVM360"}
+{"type": "entity", "entity_text": "Juvenile dogs", "entity_type": "Host", "attr": {"age group": "young"}, "reference": "Protein-Losing Enteropathy (PLE) in Dogs - VCA Animal Hospitals"}
+{"type": "entity", "entity_text": "Gastrointestinal tract", "entity_type": "Anatomy", "attr": {"physiological function": "digestion and absorption of nutrients"}, "reference": "Diagnosis of Small Intestinal Disorders in Dogs and Cats - PMC"}
+{"type": "entity", "entity_text": "Intestinal lacteals", "entity_type": "Anatomy", "attr": {"anatomical location": "intestinal villi", "physiological function": "lymphatic drainage"}, "reference": "Dossin O, Lavoué R. Protein-losing enteropathies in dogs. Vet Clin North Am Small Anim Pract. 2011;41(2):399-418. doi:10.1016/j.cvsm.2011.02.002"}
+{"type": "entity", "entity_text": "Intestinal mucosa", "entity_type": "Anatomy", "attr": {"anatomical location": "inner lining of intestine", "physiological function": "absorption and barrier function"}, "reference": "Dossin O, Lavoué R. Protein-losing enteropathies in dogs. Vet Clin North Am Small Anim Pract. 2011;41(2):399-418. doi:10.1016/j.cvsm.2011.02.002"}
+{"type": "entity", "entity_text": "Protein-losing nephropathy", "entity_type": "DiseaseAlt", "attr": {"type": "renal disorder", "pathogenesis": "excessive protein loss through kidneys"}, "reference": "Petersen PB, Willard MD. Protein-losing enteropathies in dogs. Vet Clin North Am Small Anim Pract. 2003;33(5):1061-82."}
+{"type": "entity", "entity_text": "Hepatic insufficiency", "entity_type": "DiseaseAlt", "attr": {"type": "liver disorder", "pathogenesis": "decreased albumin production by liver"}, "reference": "Petersen PB, Willard MD. Protein-losing enteropathies in dogs. Vet Clin North Am Small Anim Pract. 2003;33(5):1061-82."}
+{"type": "entity", "entity_text": "Serum biochemistry profile", "entity_type": "Diagnosis", "attr": {"principle": "evaluate serum albumin and total protein levels"}, "reference": "Dossin O, Lavoué R. Protein-losing enteropathies in dogs. Vet Clin North Am Small Anim Pract. 2011;41(2):399-418. doi:10.1016/j.cvsm.2011.02.002"}
+{"type": "entity", "entity_text": "Fecal α1-proteinase inhibitor measurement", "entity_type": "Diagnosis", "attr": {"principle": "confirm enteric protein loss"}, "reference": "Dossin O, Lavoué R. Protein-losing enteropathies in dogs. Vet Clin North Am Small Anim Pract. 2011;41(2):399-418. doi:10.1016/j.cvsm.2011.02.002"}
+{"type": "entity", "entity_text": "Abdominal ultrasonography", "entity_type": "Diagnosis", "attr": {"principle": "identify intestinal abnormalities"}, "reference": "Dossin O, Lavoué R. Protein-losing enteropathies in dogs. Vet Clin North Am Small Anim Pract. 2011;41(2):399-418. doi:10.1016/j.cvsm.2011.02.002"}
+{"type": "entity", "entity_text": "Intestinal biopsy", "entity_type": "Diagnosis", "attr": {"principle": "definitively diagnose underlying cause", "limitations": "invasive procedure"}, "reference": "Dossin O, Lavoué R. Protein-losing enteropathies in dogs. Vet Clin North Am Small Anim Pract. 2011;41(2):399-418. doi:10.1016/j.cvsm.2011.02.002"}
+{"type": "entity", "entity_text": "Ultra-low fat diet", "entity_type": "Treatment", "attr": {"method": "dietary management", "indication": "reduce protein loss from GI tract"}, "reference": "Protein-Losing Enteropathy (PLE) in Cats - VCA Animal Hospitals"}
+{"type": "entity", "entity_text": "Prednisone", "entity_type": "Treatment", "attr": {"method": "anti-inflammatory medication", "indication": "reduce intestinal inflammation"}, "reference": "Protein-Losing Enteropathy (PLE) in Cats - VCA Animal Hospitals"}
+{"type": "entity", "entity_text": "Azathioprine", "entity_type": "Treatment", "attr": {"method": "immunosuppressive medication", "indication": "reduce intestinal inflammation"}, "reference": "Protein-Losing Enteropathy (PLE) in Cats - VCA Animal Hospitals"}
+{"type": "entity", "entity_text": "Cyclosporine", "entity_type": "Treatment", "attr": {"method": "immunosuppressive medication", "indication": "reduce intestinal inflammation"}, "reference": "Protein-Losing Enteropathy (PLE) in Cats - VCA Animal Hospitals"}
+{"type": "entity", "entity_text": "Intravenous fluids and colloids", "entity_type": "Treatment", "attr": {"method": "supportive care", "indication": "maintain intravascular volume and oncotic pressure"}, "reference": "Care of dogs with protein-losing enteropathy (Proceedings) - DVM360"}
+{"type": "entity", "entity_text": "Vitamin B12 supplementation", "entity_type": "Treatment", "attr": {"method": "nutritional support", "indication": "address deficiency"}, "reference": "Care of dogs with protein-losing enteropathy (Proceedings) - DVM360"}
+{"type": "entity", "entity_text": "Magnesium supplementation", "entity_type": "Treatment", "attr": {"method": "nutritional support", "indication": "address deficiency"}, "reference": "Care of dogs with protein-losing enteropathy (Proceedings) - DVM360"}
+{"type": "entity", "entity_text": "Vaccination", "entity_type": "Prevention", "attr": {"implementation": "regular core vaccinations", "target group": "all dogs and cats", "expected effect": "prevent infectious diseases that may lead to PLE"}, "reference": "Willard MD, Helman G, Fradkin JM, et al. Intestinal crypt lesions associated with protein-losing enteropathy in the dog. J Vet Intern Med. 2000;14(3):298-307."}
+{"type": "entity", "entity_text": "Regular deworming", "entity_type": "Prevention", "attr": {"implementation": "scheduled parasite control", "target group": "all dogs and cats", "expected effect": "eliminate intestinal parasites that can cause protein loss"}, "reference": "Peterson PB, Willard MD. Protein-losing Enteropathies. Vet Clin North Am Small Anim Pract. 2003;33(5):1061-1082."}
+{"type": "entity", "entity_text": "Hygiene and sanitation", "entity_type": "Prevention", "attr": {"implementation": "environmental management", "expected effect": "prevent bacterial or fungal infections"}, "reference": "Peterson PB, Willard MD. Protein-losing Enteropathies. Vet Clin North Am Small Anim Pract. 2003;33(5):1061-1082."}
+{"type": "entity", "entity_text": "High-quality diet", "entity_type": "Prevention", "attr": {"implementation": "dietary management", "expected effect": "minimize gastrointestinal irritation and inflammation"}, "reference": "Peterson PB, Willard MD. Protein-losing Enteropathies. Vet Clin North Am Small Anim Pract. 2003;33(5):1061-1082."}
+{"type": "relation", "head": "Hypoproteinemia", "relation_type": "presents_as", "tail": "Severe hypoalbuminemia"}
+{"type": "relation", "head": "Hypoproteinemia", "relation_type": "presents_as", "tail": "Edema"}
+{"type": "relation", "head": "Hypoproteinemia", "relation_type": "presents_as", "tail": "Ascites"}
+{"type": "relation", "head": "Hypoproteinemia", "relation_type": "presents_as", "tail": "Pleural effusions"}
+{"type": "relation", "head": "Protein-losing enteropathy", "relation_type": "presents_as", "tail": "Weight loss"}
+{"type": "relation", "head": "Protein-losing enteropathy", "relation_type": "presents_as", "tail": "Diarrhea"}
+{"type": "relation", "head": "Protein-losing enteropathy", "relation_type": "presents_as", "tail": "Anorexia"}
+{"type": "relation", "head": "Protein-losing enteropathy", "relation_type": "presents_as", "tail": "Lethargy"}
+{"type": "relation", "head": "Protein-losing enteropathy", "relation_type": "presents_as", "tail": "Vomiting"}
+{"type": "relation", "head": "Protein-losing enteropathy", "relation_type": "presents_as", "tail": "Abdominal pain"}
+{"type": "relation", "head": "Protein-losing enteropathy", "relation_type": "presents_as", "tail": "Neurological signs"}
+{"type": "relation", "head": "Hypoproteinemia", "relation_type": "presents_as", "tail": "Coagulopathies"}
+{"type": "relation", "head": "Histoplasma", "relation_type": "causes", "tail": "Histoplasmosis"}
+{"type": "relation", "head": "Pythium", "relation_type": "causes", "tail": "Pythiosis"}
+{"type": "relation", "head": "Hookworms", "relation_type": "causes", "tail": "Protein-losing enteropathy"}
+{"type": "relation", "head": "Parvovirus", "relation_type": "causes", "tail": "Protein-losing enteropathy"}
+{"type": "relation", "head": "Inflammatory bowel disease", "relation_type": "causes", "tail": "Protein-losing enteropathy"}
+{"type": "relation", "head": "Intestinal lymphangiectasia", "relation_type": "causes", "tail": "Protein-losing enteropathy"}
+{"type": "relation", "head": "Alimentary tract lymphoma", "relation_type": "causes", "tail": "Protein-losing enteropathy"}
+{"type": "relation", "head": "Histoplasmosis", "relation_type": "causes", "tail": "Protein-losing enteropathy"}
+{"type": "relation", "head": "Pythiosis", "relation_type": "causes", "tail": "Protein-losing enteropathy"}
+{"type": "relation", "head": "Chronic intussusception", "relation_type": "causes", "tail": "Protein-losing enteropathy"}
+{"type": "relation", "head": "Immunoproliferative enteropathy", "relation_type": "causes", "tail": "Protein-losing enteropathy"}
+{"type": "relation", "head": "Intestinal carcinoma", "relation_type": "causes", "tail": "Protein-losing enteropathy"}
+{"type": "relation", "head": "Protein-losing enteropathy", "relation_type": "causes", "tail": "Hypoproteinemia"}
+{"type": "relation", "head": "Protein-losing enteropathy", "relation_type": "infects", "tail": "Dogs"}
+{"type": "relation", "head": "Protein-losing enteropathy", "relation_type": "infects", "tail": "Cats"}
+{"type": "relation", "head": "Chronic intussusception", "relation_type": "infects", "tail": "Juvenile dogs"}
+{"type": "relation", "head": "Immunoproliferative enteropathy", "relation_type": "infects", "tail": "Dogs"}
+{"type": "relation", "head": "Protein-losing enteropathy", "relation_type": "affects", "tail": "Gastrointestinal tract"}
+{"type": "relation", "head": "Intestinal lymphangiectasia", "relation_type": "affects", "tail": "Intestinal lacteals"}
+{"type": "relation", "head": "Inflammatory bowel disease", "relation_type": "affects", "tail": "Intestinal mucosa"}
+{"type": "relation", "head": "Hypoproteinemia", "relation_type": "differential_diagnosis", "tail": "Protein-losing nephropathy"}
+{"type": "relation", "head": "Hypoproteinemia", "relation_type": "differential_diagnosis", "tail": "Hepatic insufficiency"}
+{"type": "relation", "head": "Protein-losing enteropathy", "relation_type": "diagnosed_by", "tail": "Serum biochemistry profile"}
+{"type": "relation", "head": "Protein-losing enteropathy", "relation_type": "diagnosed_by", "tail": "Fecal α1-proteinase inhibitor measurement"}
+{"type": "relation", "head": "Protein-losing enteropathy", "relation_type": "diagnosed_by", "tail": "Abdominal ultrasonography"}
+{"type": "relation", "head": "Protein-losing enteropathy", "relation_type": "diagnosed_by", "tail": "Intestinal biopsy"}
+{"type": "relation", "head": "Protein-losing enteropathy", "relation_type": "treated_by", "tail": "Ultra-low fat diet"}
+{"type": "relation", "head": "Inflammatory bowel disease", "relation_type": "treated_by", "tail": "Prednisone"}
+{"type": "relation", "head": "Inflammatory bowel disease", "relation_type": "treated_by", "tail": "Azathioprine"}
+{"type": "relation", "head": "Inflammatory bowel disease", "relation_type": "treated_by", "tail": "Cyclosporine"}
+{"type": "relation", "head": "Hypoproteinemia", "relation_type": "treated_by", "tail": "Intravenous fluids and colloids"}
+{"type": "relation", "head": "Protein-losing enteropathy", "relation_type": "treated_by", "tail": "Vitamin B12 supplementation"}
+{"type": "relation", "head": "Protein-losing enteropathy", "relation_type": "treated_by", "tail": "Magnesium supplementation"}
+{"type": "relation", "head": "Protein-losing enteropathy", "relation_type": "prevented_by", "tail": "Vaccination"}
+{"type": "relation", "head": "Protein-losing enteropathy", "relation_type": "prevented_by", "tail": "Regular deworming"}
+{"type": "relation", "head": "Protein-losing enteropathy", "relation_type": "prevented_by", "tail": "Hygiene and sanitation"}
+{"type": "relation", "head": "Protein-losing enteropathy", "relation_type": "prevented_by", "tail": "High-quality diet"}

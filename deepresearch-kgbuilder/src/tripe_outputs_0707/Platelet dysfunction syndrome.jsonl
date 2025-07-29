@@ -1,0 +1,52 @@
+{"type": "entity", "entity_text": "Platelet dysfunction syndrome", "entity_type": "Disease", "attr": {"type": "group of disorders", "reversibility": "can be inherited or acquired", "pathogenesis": "abnormal platelet function", "complications": "increased risk of bleeding and bruising"}, "reference": "Inherited Platelet Disorders - WSAVA 2014 Congress - VIN"}
+{"type": "entity", "entity_text": "thrombopathia", "entity_type": "DiseaseAlt", "attr": {}, "reference": "Inherited Platelet Disorders - WSAVA 2014 Congress - VIN"}
+{"type": "entity", "entity_text": "thrombocytopathy", "entity_type": "DiseaseAlt", "attr": {}, "reference": "Inherited Platelet Disorders - WSAVA 2014 Congress - VIN"}
+{"type": "entity", "entity_text": "von Willebrand's disease", "entity_type": "Disease", "attr": {"type": "extrinsic platelet function disorder"}, "reference": "Inherited Platelet Disorders - WSAVA 2014 Congress - VIN"}
+{"type": "entity", "entity_text": "von Willebrand factor", "entity_type": "Anatomy", "attr": {"physiological function": "involved in platelet adhesion and aggregation"}, "reference": "Inherited Platelet Disorders - WSAVA 2014 Congress - VIN"}
+{"type": "entity", "entity_text": "petechiae", "entity_type": "Symptom", "attr": {"location": "skin and mucous membranes"}, "reference": "Platelet Disorders in Animals - Circulatory System - Merck Veterinary Manual"}
+{"type": "entity", "entity_text": "ecchymoses", "entity_type": "Symptom", "attr": {"location": "skin and mucous membranes"}, "reference": "Platelet Disorders in Animals - Circulatory System - Merck Veterinary Manual"}
+{"type": "entity", "entity_text": "mucosal bleeding", "entity_type": "Symptom", "attr": {"location": "mucous membranes"}, "reference": "Platelet Disorders in Animals - Circulatory System - Merck Veterinary Manual"}
+{"type": "entity", "entity_text": "persistent oozing of blood", "entity_type": "Symptom", "attr": {"location": "injury or surgery sites"}, "reference": "Platelet Disorders in Animals - Circulatory System - Merck Veterinary Manual"}
+{"type": "entity", "entity_text": "platelet function assays", "entity_type": "Diagnosis", "attr": {"principle": "assess platelet adhesion and aggregation"}, "reference": "Abnormal platelet activity in dogs and cats - impact and measurement"}
+{"type": "entity", "entity_text": "measurement of vWF levels", "entity_type": "Diagnosis", "attr": {"principle": "quantify von Willebrand factor"}, "reference": "Abnormal platelet activity in dogs and cats - impact and measurement; Platelet function | eClinpath"}
+{"type": "entity", "entity_text": "canine distemper virus", "entity_type": "Pathogen", "attr": {"mechanism of action": "impairs platelet function"}, "reference": "Platelet Disorders in Animals - Circulatory System - Merck Veterinary Manual"}
+{"type": "entity", "entity_text": "immune-mediated thrombocytopenia", "entity_type": "Disease", "attr": {"type": "bacterial infection-induced"}, "reference": "Clotting Disorders of the Platelets in Dogs - PetMD"}
+{"type": "entity", "entity_text": "hyperglobulinemia", "entity_type": "Disease", "attr": {"type": "condition linked to multiple myeloma", "pathogenesis": "disrupts platelet membranes"}, "reference": "Platelet Disorders in Animals - Circulatory System - Merck Veterinary Manual"}
+{"type": "entity", "entity_text": "bleeding from the mucous membranes", "entity_type": "Symptom", "attr": {"location": "gums, nose, or eyes"}, "reference": "Clotting Disorders of the Platelets in Cats - PetMD"}
+{"type": "entity", "entity_text": "prolonged bleeding from minor wounds", "entity_type": "Symptom", "attr": {"severity": "increased"}, "reference": "Platelet Dysfunction in Dogs - Symptoms, Causes, Diagnosis ... - Wag!"}
+{"type": "entity", "entity_text": "platelet aggregometry", "entity_type": "Diagnosis", "attr": {"principle": "assess platelet aggregation response to agonists"}, "reference": "Abnormal platelet activity in dogs and cats - impact and measurement"}
+{"type": "entity", "entity_text": "flow cytometry", "entity_type": "Diagnosis", "attr": {"principle": "assess platelet activation and aggregation"}, "reference": "Abnormal platelet activity in dogs and cats - impact and measurement"}
+{"type": "entity", "entity_text": "complete blood count", "entity_type": "Diagnosis", "attr": {"principle": "assess platelet numbers and morphology"}, "reference": "Clotting Disorders of the Platelets in Cats - PetMD"}
+{"type": "entity", "entity_text": "coagulation panel", "entity_type": "Diagnosis", "attr": {"principle": "assess clotting factors and function"}, "reference": "Clotting Disorders of the Platelets in Cats - PetMD"}
+{"type": "entity", "entity_text": "supportive care", "entity_type": "Treatment", "attr": {"method": "minimizing trauma and bleeding risks"}, "reference": "Clotting Disorders of the Platelets in Dogs - PetMD"}
+{"type": "entity", "entity_text": "antifibrinolytic agents", "entity_type": "Treatment", "attr": {"method": "adjunct therapy", "indication": "control bleeding in acquired platelet disorders"}, "reference": "Treatment of Disorders of Platelet Number and Function"}
+{"type": "entity", "entity_text": "plasma transfusions", "entity_type": "Treatment", "attr": {"method": "restore normal clotting function", "indication": "von Willebrand's disease"}, "reference": "Inherited Platelet Disorders - WSAVA 2014 Congress - VIN"}
+{"type": "entity", "entity_text": "cryoprecipitate transfusions", "entity_type": "Treatment", "attr": {"method": "restore normal clotting function", "indication": "von Willebrand's disease"}, "reference": "Inherited Platelet Disorders - WSAVA 2014 Congress - VIN"}
+{"type": "entity", "entity_text": "medication management", "entity_type": "Prevention", "attr": {"implementation": "avoiding drugs that interfere with platelet function", "target group": "animals with suspected platelet disorders"}, "reference": "Platelet Disorders in Animals - Circulatory System - Merck Veterinary Manual"}
+{"type": "entity", "entity_text": "immunosuppressive medications", "entity_type": "Treatment", "attr": {"method": "stop antibody production", "indication": "immune-mediated platelet disorders"}, "reference": "Immune-Mediated Thrombocytopenia (IMT) - Veterinary Partner - VIN"}
+{"type": "entity", "entity_text": "thrombocytopenia", "entity_type": "DiseaseAlt", "attr": {"type": "decreased platelet count"}, "reference": "Thrombocytopenia in Dogs - VCA Animal Hospitals"}
+{"type": "entity", "entity_text": "congenital platelet disorders", "entity_type": "DiseaseAlt", "attr": {"type": "defects in platelet adhesion, aggregation, or secretion"}, "reference": "Platelet Disorders in Animals - Circulatory System - Merck Veterinary Manual"}
+{"type": "relation", "head": "Platelet dysfunction syndrome", "relation_type": "presents_as", "tail": "petechiae"}
+{"type": "relation", "head": "Platelet dysfunction syndrome", "relation_type": "presents_as", "tail": "ecchymoses"}
+{"type": "relation", "head": "Platelet dysfunction syndrome", "relation_type": "presents_as", "tail": "mucosal bleeding"}
+{"type": "relation", "head": "Platelet dysfunction syndrome", "relation_type": "presents_as", "tail": "persistent oozing of blood"}
+{"type": "relation", "head": "Platelet dysfunction syndrome", "relation_type": "diagnosed_by", "tail": "platelet function assays"}
+{"type": "relation", "head": "Platelet dysfunction syndrome", "relation_type": "diagnosed_by", "tail": "measurement of vWF levels"}
+{"type": "relation", "head": "canine distemper virus", "relation_type": "causes", "tail": "Platelet dysfunction syndrome"}
+{"type": "relation", "head": "Platelet dysfunction syndrome", "relation_type": "differential_diagnosis", "tail": "thrombopathia"}
+{"type": "relation", "head": "Platelet dysfunction syndrome", "relation_type": "differential_diagnosis", "tail": "thrombocytopathy"}
+{"type": "relation", "head": "Platelet dysfunction syndrome", "relation_type": "differential_diagnosis", "tail": "von Willebrand's disease"}
+{"type": "relation", "head": "Platelet dysfunction syndrome", "relation_type": "differential_diagnosis", "tail": "thrombocytopenia"}
+{"type": "relation", "head": "Platelet dysfunction syndrome", "relation_type": "differential_diagnosis", "tail": "congenital platelet disorders"}
+{"type": "relation", "head": "Platelet dysfunction syndrome", "relation_type": "diagnosed_by", "tail": "platelet aggregometry"}
+{"type": "relation", "head": "Platelet dysfunction syndrome", "relation_type": "diagnosed_by", "tail": "flow cytometry"}
+{"type": "relation", "head": "Platelet dysfunction syndrome", "relation_type": "diagnosed_by", "tail": "complete blood count"}
+{"type": "relation", "head": "Platelet dysfunction syndrome", "relation_type": "diagnosed_by", "tail": "coagulation panel"}
+{"type": "relation", "head": "Platelet dysfunction syndrome", "relation_type": "treated_by", "tail": "supportive care"}
+{"type": "relation", "head": "Platelet dysfunction syndrome", "relation_type": "treated_by", "tail": "antifibrinolytic agents"}
+{"type": "relation", "head": "von Willebrand's disease", "relation_type": "treated_by", "tail": "plasma transfusions"}
+{"type": "relation", "head": "von Willebrand's disease", "relation_type": "treated_by", "tail": "cryoprecipitate transfusions"}
+{"type": "relation", "head": "Platelet dysfunction syndrome", "relation_type": "prevented_by", "tail": "medication management"}
+{"type": "relation", "head": "immune-mediated thrombocytopenia", "relation_type": "treated_by", "tail": "immunosuppressive medications"}
+{"type": "relation", "head": "Platelet dysfunction syndrome", "relation_type": "presents_as", "tail": "bleeding from the mucous membranes"}
+{"type": "relation", "head": "Platelet dysfunction syndrome", "relation_type": "presents_as", "tail": "prolonged bleeding from minor wounds"}

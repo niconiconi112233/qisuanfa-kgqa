@@ -1,0 +1,95 @@
+{"type": "entity", "entity_text": "Infectious Canine Hepatitis", "entity_type": "Disease", "attr": {"type": "viral disease", "reversibility": "potentially fatal", "pathogenesis": "targets hepatocytes and endothelial cells", "complications": "corneal edema, anterior uveitis, coagulation disorders"}, "reference": "Infectious Canine Hepatitis - MSD Veterinary Manual"}
+{"type": "entity", "entity_text": "canine adenovirus type 1", "entity_type": "Pathogen", "attr": {"source": "infected urine, feces, or saliva", "mechanism of action": "targets hepatocytes and endothelial cells"}, "reference": "Infectious Canine Hepatitis - MSD Veterinary Manual; Sykes JE. Infectious canine hepatitis. In: Canine and Feline Infectious Diseases. Elsevier/Saunders; 2014:182-186."}
+{"type": "entity", "entity_text": "fever", "entity_type": "Symptom", "attr": {"severity": "slight to severe"}, "reference": "Infectious Canine Hepatitis - MSD Veterinary Manual; Sykes JE. Infectious canine hepatitis. In: Canine and Feline Infectious Diseases. Elsevier/Saunders; 2014:182-186."}
+{"type": "entity", "entity_text": "lethargy", "entity_type": "Symptom", "attr": {"severity": "slight to severe"}, "reference": "Infectious Canine Hepatitis - MSD Veterinary Manual; Sykes JE. Infectious canine hepatitis. In: Canine and Feline Infectious Diseases. Elsevier/Saunders; 2014:182-186."}
+{"type": "entity", "entity_text": "vomiting", "entity_type": "Symptom", "attr": {}, "reference": "Infectious Canine Hepatitis - MSD Veterinary Manual"}
+{"type": "entity", "entity_text": "diarrhea", "entity_type": "Symptom", "attr": {}, "reference": "Infectious Canine Hepatitis - MSD Veterinary Manual"}
+{"type": "entity", "entity_text": "abdominal pain", "entity_type": "Symptom", "attr": {}, "reference": "Infectious Canine Hepatitis - MSD Veterinary Manual; Sykes JE. Infectious canine hepatitis. In: Canine and Feline Infectious Diseases. Elsevier/Saunders; 2014:182-186."}
+{"type": "entity", "entity_text": "hemorrhagic diathesis", "entity_type": "Symptom", "attr": {"severity": "severe"}, "reference": "Infectious Canine Hepatitis - MSD Veterinary Manual"}
+{"type": "entity", "entity_text": "corneal edema", "entity_type": "Symptom", "attr": {"location": "eye", "frequency": "in around 25% of cases"}, "reference": "Infectious Canine Hepatitis - MSD Veterinary Manual; Sykes JE. Infectious canine hepatitis. In: Canine and Feline Infectious Diseases. Elsevier/Saunders; 2014:182-186."}
+{"type": "entity", "entity_text": "anterior uveitis", "entity_type": "Symptom", "attr": {"location": "eye"}, "reference": "Infectious Canine Hepatitis - MSD Veterinary Manual"}
+{"type": "entity", "entity_text": "thirst", "entity_type": "Symptom", "attr": {}, "reference": "Sykes JE. Infectious canine hepatitis. In: Canine and Feline Infectious Diseases. Elsevier/Saunders; 2014:182-186."}
+{"type": "entity", "entity_text": "anorexia", "entity_type": "Symptom", "attr": {}, "reference": "Sykes JE. Infectious canine hepatitis. In: Canine and Feline Infectious Diseases. Elsevier/Saunders; 2014:182-186."}
+{"type": "entity", "entity_text": "conjunctivitis", "entity_type": "Symptom", "attr": {"location": "eye"}, "reference": "Sykes JE. Infectious canine hepatitis. In: Canine and Feline Infectious Diseases. Elsevier/Saunders; 2014:182-186."}
+{"type": "entity", "entity_text": "serous oculonasal discharge", "entity_type": "Symptom", "attr": {"location": "eyes and nose"}, "reference": "Sykes JE. Infectious canine hepatitis. In: Canine and Feline Infectious Diseases. Elsevier/Saunders; 2014:182-186."}
+{"type": "entity", "entity_text": "petechiae of the oral mucosa", "entity_type": "Symptom", "attr": {"location": "oral mucosa"}, "reference": "Sykes JE. Infectious canine hepatitis. In: Canine and Feline Infectious Diseases. Elsevier/Saunders; 2014:182-186."}
+{"type": "entity", "entity_text": "tachycardia", "entity_type": "Symptom", "attr": {"severity": "out of proportion to the fever"}, "reference": "Sykes JE. Infectious canine hepatitis. In: Canine and Feline Infectious Diseases. Elsevier/Saunders; 2014:182-186."}
+{"type": "entity", "entity_text": "subcutaneous edema", "entity_type": "Symptom", "attr": {"location": "head, neck, and trunk"}, "reference": "Sykes JE. Infectious canine hepatitis. In: Canine and Feline Infectious Diseases. Elsevier/Saunders; 2014:182-186."}
+{"type": "entity", "entity_text": "neurological involvement", "entity_type": "Symptom", "attr": {"frequency": "unusual"}, "reference": "Sykes JE. Infectious canine hepatitis. In: Canine and Feline Infectious Diseases. Elsevier/Saunders; 2014:182-186."}
+{"type": "entity", "entity_text": "seizures", "entity_type": "Symptom", "attr": {"severity": "severe", "location": "forebrain"}, "reference": "Sykes JE. Infectious canine hepatitis. In: Canine and Feline Infectious Diseases. Elsevier/Saunders; 2014:182-186."}
+{"type": "entity", "entity_text": "dogs", "entity_type": "Host", "attr": {}, "reference": "Infectious Canine Hepatitis - MSD Veterinary Manual"}
+{"type": "entity", "entity_text": "young puppies", "entity_type": "Host", "attr": {"age group": "under 1 year"}, "reference": "Infectious Canine Hepatitis - PMC; Infectious Canine Hepatitis - an overview | ScienceDirect Topics"}
+{"type": "entity", "entity_text": "coyotes", "entity_type": "Host", "attr": {}, "reference": "Sykes JE. Infectious canine hepatitis. In: Canine and Feline Infectious Diseases. Elsevier/Saunders; 2014:182-186."}
+{"type": "entity", "entity_text": "foxes", "entity_type": "Host", "attr": {}, "reference": "Sykes JE. Infectious canine hepatitis. In: Canine and Feline Infectious Diseases. Elsevier/Saunders; 2014:182-186."}
+{"type": "entity", "entity_text": "wolves", "entity_type": "Host", "attr": {}, "reference": "Sykes JE. Infectious canine hepatitis. In: Canine and Feline Infectious Diseases. Elsevier/Saunders; 2014:182-186."}
+{"type": "entity", "entity_text": "bears", "entity_type": "Host", "attr": {}, "reference": "Sykes JE. Infectious canine hepatitis. In: Canine and Feline Infectious Diseases. Elsevier/Saunders; 2014:182-186."}
+{"type": "entity", "entity_text": "skunks", "entity_type": "Host", "attr": {}, "reference": "Sykes JE. Infectious canine hepatitis. In: Canine and Feline Infectious Diseases. Elsevier/Saunders; 2014:182-186."}
+{"type": "entity", "entity_text": "liver", "entity_type": "Anatomy", "attr": {"physiological function": "detoxification, metabolism"}, "reference": "Infectious Canine Hepatitis - MSD Veterinary Manual"}
+{"type": "entity", "entity_text": "cornea", "entity_type": "Anatomy", "attr": {"anatomical location": "eye"}, "reference": "Infectious Canine Hepatitis - MSD Veterinary Manual"}
+{"type": "entity", "entity_text": "tonsils", "entity_type": "Anatomy", "attr": {"anatomical location": "throat"}, "reference": "Sykes JE. Infectious canine hepatitis. In: Canine and Feline Infectious Diseases. Elsevier/Saunders; 2014:182-186."}
+{"type": "entity", "entity_text": "canine parvoviral enteritis", "entity_type": "DiseaseAlt", "attr": {}, "reference": "Sykes JE. Infectious canine hepatitis. In: Canine and Feline Infectious Diseases. Elsevier/Saunders; 2014:182-186."}
+{"type": "entity", "entity_text": "canine distemper", "entity_type": "DiseaseAlt", "attr": {}, "reference": "Sykes JE. Infectious canine hepatitis. In: Canine and Feline Infectious Diseases. Elsevier/Saunders; 2014:182-186."}
+{"type": "entity", "entity_text": "hepatotoxicosis", "entity_type": "DiseaseAlt", "attr": {}, "reference": "Sykes JE. Infectious canine hepatitis. In: Canine and Feline Infectious Diseases. Elsevier/Saunders; 2014:182-186."}
+{"type": "entity", "entity_text": "Rocky Mountain spotted fever", "entity_type": "DiseaseAlt", "attr": {}, "reference": "Sykes JE. Infectious canine hepatitis. In: Canine and Feline Infectious Diseases. Elsevier/Saunders; 2014:182-186."}
+{"type": "entity", "entity_text": "leptospirosis", "entity_type": "DiseaseAlt", "attr": {}, "reference": "Sykes JE. Infectious canine hepatitis. In: Canine and Feline Infectious Diseases. Elsevier/Saunders; 2014:182-186."}
+{"type": "entity", "entity_text": "ELISA", "entity_type": "Diagnosis", "attr": {"principle": "enzyme-linked immunosorbent assay"}, "reference": "Sykes JE. Infectious canine hepatitis. In: Canine and Feline Infectious Diseases. Elsevier/Saunders; 2014:182-186."}
+{"type": "entity", "entity_text": "serologic testing", "entity_type": "Diagnosis", "attr": {}, "reference": "Sykes JE. Infectious canine hepatitis. In: Canine and Feline Infectious Diseases. Elsevier/Saunders; 2014:182-186."}
+{"type": "entity", "entity_text": "PCR", "entity_type": "Diagnosis", "attr": {"principle": "polymerase chain reaction"}, "reference": "Sykes JE. Infectious canine hepatitis. In: Canine and Feline Infectious Diseases. Elsevier/Saunders; 2014:182-186."}
+{"type": "entity", "entity_text": "abdominal radiography", "entity_type": "Diagnosis", "attr": {"limitations": "not specific for ICH diagnosis"}, "reference": "Diagnostic Imaging of Canine Hepatobiliary Affections: A Review. PMC."}
+{"type": "entity", "entity_text": "ultrasonography", "entity_type": "Diagnosis", "attr": {"limitations": "not specific for ICH diagnosis"}, "reference": "Diagnostic Imaging of Canine Hepatobiliary Affections: A Review. PMC."}
+{"type": "entity", "entity_text": "histopathology", "entity_type": "Diagnosis", "attr": {"principle": "identification of intranuclear inclusion bodies"}, "reference": "Sykes JE. Infectious canine hepatitis. In: Canine and Feline Infectious Diseases. Elsevier/Saunders; 2014:182-186."}
+{"type": "entity", "entity_text": "fluid support", "entity_type": "Treatment", "attr": {"method": "IV electrolyte solutions and dextrose"}, "reference": "Sykes JE. Infectious canine hepatitis. In: Canine and Feline Infectious Diseases. Elsevier/Saunders; 2014:182-186.; Infectious Canine Hepatitis - Merck Veterinary Manual. https://www.merckvetmanual.com/infectious-diseases/infectious-canine-hepatitis/infectious-canine-hepatitis"}
+{"type": "entity", "entity_text": "nutrition support", "entity_type": "Treatment", "attr": {}, "reference": "Sykes JE. Infectious canine hepatitis. In: Canine and Feline Infectious Diseases. Elsevier/Saunders; 2014:182-186.; Infectious Canine Hepatitis - Merck Veterinary Manual. https://www.merckvetmanual.com/infectious-diseases/infectious-canine-hepatitis/infectious-canine-hepatitis"}
+{"type": "entity", "entity_text": "plasma/blood transfusions", "entity_type": "Treatment", "attr": {"indication": "coagulopathy"}, "reference": "Sykes JE. Infectious canine hepatitis. In: Canine and Feline Infectious Diseases. Elsevier/Saunders; 2014:182-186.; Infectious Canine Hepatitis - Merck Veterinary Manual. https://www.merckvetmanual.com/infectious-diseases/infectious-canine-hepatitis/infectious-canine-hepatitis"}
+{"type": "entity", "entity_text": "anticoagulant therapy", "entity_type": "Treatment", "attr": {"indication": "coagulopathy"}, "reference": "Sykes JE. Infectious canine hepatitis. In: Canine and Feline Infectious Diseases. Elsevier/Saunders; 2014:182-186.; Infectious Canine Hepatitis - Merck Veterinary Manual. https://www.merckvetmanual.com/infectious-diseases/infectious-canine-hepatitis/infectious-canine-hepatitis"}
+{"type": "entity", "entity_text": "IV antibiotics", "entity_type": "Treatment", "attr": {"indication": "secondary bacterial infections"}, "reference": "Sykes JE. Infectious canine hepatitis. In: Canine and Feline Infectious Diseases. Elsevier/Saunders; 2014:182-186.; Infectious Canine Hepatitis - Merck Veterinary Manual. https://www.merckvetmanual.com/infectious-diseases/infectious-canine-hepatitis/infectious-canine-hepatitis"}
+{"type": "entity", "entity_text": "atropine eye ointment", "entity_type": "Treatment", "attr": {"indication": "corneal opacity"}, "reference": "Sykes JE. Infectious canine hepatitis. In: Canine and Feline Infectious Diseases. Elsevier/Saunders; 2014:182-186.; Infectious Canine Hepatitis - Merck Veterinary Manual. https://www.merckvetmanual.com/infectious-diseases/infectious-canine-hepatitis/infectious-canine-hepatitis"}
+{"type": "entity", "entity_text": "vaccination", "entity_type": "Prevention", "attr": {"implementation": "core vaccination protocol", "target group": "puppies starting at 6-8 weeks", "expected effect": "good cross-protection"}, "reference": "Hemopet: Vaccinating Against Infectious Canine Hepatitis; Merck Veterinary Manual: Infectious Canine Hepatitis; 2022 AAHA Canine Vaccination Guidelines"}
+{"type": "entity", "entity_text": "disinfection", "entity_type": "Prevention", "attr": {"implementation": "1-3% bleach solution", "target group": "veterinary premises and kennels"}, "reference": "Hemopet: Vaccinating Against Infectious Canine Hepatitis"}
+{"type": "relation", "head": "canine adenovirus type 1", "relation_type": "causes", "tail": "Infectious Canine Hepatitis"}
+{"type": "relation", "head": "Infectious Canine Hepatitis", "relation_type": "presents_as", "tail": "fever"}
+{"type": "relation", "head": "Infectious Canine Hepatitis", "relation_type": "presents_as", "tail": "lethargy"}
+{"type": "relation", "head": "Infectious Canine Hepatitis", "relation_type": "presents_as", "tail": "vomiting"}
+{"type": "relation", "head": "Infectious Canine Hepatitis", "relation_type": "presents_as", "tail": "diarrhea"}
+{"type": "relation", "head": "Infectious Canine Hepatitis", "relation_type": "presents_as", "tail": "abdominal pain"}
+{"type": "relation", "head": "Infectious Canine Hepatitis", "relation_type": "presents_as", "tail": "hemorrhagic diathesis"}
+{"type": "relation", "head": "Infectious Canine Hepatitis", "relation_type": "presents_as", "tail": "corneal edema"}
+{"type": "relation", "head": "Infectious Canine Hepatitis", "relation_type": "presents_as", "tail": "anterior uveitis"}
+{"type": "relation", "head": "Infectious Canine Hepatitis", "relation_type": "presents_as", "tail": "thirst"}
+{"type": "relation", "head": "Infectious Canine Hepatitis", "relation_type": "presents_as", "tail": "anorexia"}
+{"type": "relation", "head": "Infectious Canine Hepatitis", "relation_type": "presents_as", "tail": "conjunctivitis"}
+{"type": "relation", "head": "Infectious Canine Hepatitis", "relation_type": "presents_as", "tail": "serous oculonasal discharge"}
+{"type": "relation", "head": "Infectious Canine Hepatitis", "relation_type": "presents_as", "tail": "petechiae of the oral mucosa"}
+{"type": "relation", "head": "Infectious Canine Hepatitis", "relation_type": "presents_as", "tail": "tachycardia"}
+{"type": "relation", "head": "Infectious Canine Hepatitis", "relation_type": "presents_as", "tail": "subcutaneous edema"}
+{"type": "relation", "head": "Infectious Canine Hepatitis", "relation_type": "presents_as", "tail": "neurological involvement"}
+{"type": "relation", "head": "Infectious Canine Hepatitis", "relation_type": "presents_as", "tail": "seizures"}
+{"type": "relation", "head": "canine adenovirus type 1", "relation_type": "infects", "tail": "dogs"}
+{"type": "relation", "head": "canine adenovirus type 1", "relation_type": "infects", "tail": "young puppies"}
+{"type": "relation", "head": "canine adenovirus type 1", "relation_type": "infects", "tail": "coyotes"}
+{"type": "relation", "head": "canine adenovirus type 1", "relation_type": "infects", "tail": "foxes"}
+{"type": "relation", "head": "canine adenovirus type 1", "relation_type": "infects", "tail": "wolves"}
+{"type": "relation", "head": "canine adenovirus type 1", "relation_type": "infects", "tail": "bears"}
+{"type": "relation", "head": "canine adenovirus type 1", "relation_type": "infects", "tail": "skunks"}
+{"type": "relation", "head": "Infectious Canine Hepatitis", "relation_type": "affects", "tail": "liver"}
+{"type": "relation", "head": "Infectious Canine Hepatitis", "relation_type": "affects", "tail": "cornea"}
+{"type": "relation", "head": "Infectious Canine Hepatitis", "relation_type": "affects", "tail": "tonsils"}
+{"type": "relation", "head": "Infectious Canine Hepatitis", "relation_type": "differential_diagnosis", "tail": "canine parvoviral enteritis"}
+{"type": "relation", "head": "Infectious Canine Hepatitis", "relation_type": "differential_diagnosis", "tail": "canine distemper"}
+{"type": "relation", "head": "Infectious Canine Hepatitis", "relation_type": "differential_diagnosis", "tail": "hepatotoxicosis"}
+{"type": "relation", "head": "Infectious Canine Hepatitis", "relation_type": "differential_diagnosis", "tail": "Rocky Mountain spotted fever"}
+{"type": "relation", "head": "Infectious Canine Hepatitis", "relation_type": "differential_diagnosis", "tail": "leptospirosis"}
+{"type": "relation", "head": "Infectious Canine Hepatitis", "relation_type": "diagnosed_by", "tail": "ELISA"}
+{"type": "relation", "head": "Infectious Canine Hepatitis", "relation_type": "diagnosed_by", "tail": "serologic testing"}
+{"type": "relation", "head": "Infectious Canine Hepatitis", "relation_type": "diagnosed_by", "tail": "PCR"}
+{"type": "relation", "head": "Infectious Canine Hepatitis", "relation_type": "diagnosed_by", "tail": "abdominal radiography"}
+{"type": "relation", "head": "Infectious Canine Hepatitis", "relation_type": "diagnosed_by", "tail": "ultrasonography"}
+{"type": "relation", "head": "Infectious Canine Hepatitis", "relation_type": "diagnosed_by", "tail": "histopathology"}
+{"type": "relation", "head": "Infectious Canine Hepatitis", "relation_type": "treated_by", "tail": "fluid support"}
+{"type": "relation", "head": "Infectious Canine Hepatitis", "relation_type": "treated_by", "tail": "nutrition support"}
+{"type": "relation", "head": "Infectious Canine Hepatitis", "relation_type": "treated_by", "tail": "plasma/blood transfusions"}
+{"type": "relation", "head": "Infectious Canine Hepatitis", "relation_type": "treated_by", "tail": "anticoagulant therapy"}
+{"type": "relation", "head": "Infectious Canine Hepatitis", "relation_type": "treated_by", "tail": "IV antibiotics"}
+{"type": "relation", "head": "Infectious Canine Hepatitis", "relation_type": "treated_by", "tail": "atropine eye ointment"}
+{"type": "relation", "head": "Infectious Canine Hepatitis", "relation_type": "prevented_by", "tail": "vaccination"}
+{"type": "relation", "head": "Infectious Canine Hepatitis", "relation_type": "prevented_by", "tail": "disinfection"}

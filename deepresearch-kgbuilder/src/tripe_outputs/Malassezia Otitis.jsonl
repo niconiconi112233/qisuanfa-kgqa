@@ -1,0 +1,19 @@
+{"type": "entity", "entity_text": "Malassezia otitis", "entity_type": "Disease", "attr": {"type": "inflammatory ear condition", "reversibility": "reversible with treatment", "pathogenesis": "overgrowth of lipid-dependent yeasts", "complications": "chronic infection possible"}, "reference": "Malassezia Yeasts in Veterinary Dermatology: An Updated Overview - https://pmc.ncbi.nlm.nih.gov/articles/PMC7059102/"}
+
+{"type": "entity", "entity_text": "Malassezia pachydermatis", "entity_type": "Pathogen", "attr": {"source": "commensal yeast", "mechanism of action": "opportunistic overgrowth"}, "reference": "Malassezia Yeasts in Veterinary Dermatology: An Updated Overview - https://pmc.ncbi.nlm.nih.gov/articles/PMC7059102/"}
+
+{"type": "entity", "entity_text": "increased ear wax", "entity_type": "Symptom", "attr": {"location": "ear canal", "severity": "variable"}, "reference": "Malassezia Otitis in Dogs and Cats - Veterinary Partner - VIN: https://veterinarypartner.vin.com/default.aspx?pid=19239&catId=102903&id=9755599"}
+
+{"type": "entity", "entity_text": "head shaking", "entity_type": "Symptom", "attr": {"frequency": "frequent", "severity": "moderate to severe"}, "reference": "Malassezia Otitis in Dogs and Cats - Veterinary Partner - VIN: https://veterinarypartner.vin.com/default.aspx?pid=19239&catId=102903&id=9755599"}
+
+{"type": "entity", "entity_text": "cytology", "entity_type": "Diagnosis", "attr": {"principle": "microscopic examination", "applicable stage": "all stages", "limitations": "requires proper sampling"}, "reference": "Diagnostic Approach to Otitis in Dogs - https://todaysveterinarypractice.com/dermatology/diagnostic-approach-to-otitis-in-dogs/"}
+
+{"type": "entity", "entity_text": "antifungal ear drops", "entity_type": "Treatment", "attr": {"method": "topical", "indication": "mild to moderate cases", "risks": "minimal"}, "reference": "Update on Treatment of Malassezia Dermatitis - https://www.dvm360.com/view/update-treatment-malassezia-dermatitis-proceedings"}
+
+{"type": "relation", "head": "Malassezia pachydermatis", "relation_type": "causes", "tail": "Malassezia otitis"}
+
+{"type": "relation", "head": "Malassezia otitis", "relation_type": "presents_as", "tail": "increased ear wax"}
+
+{"type": "relation", "head": "Malassezia otitis", "relation_type": "diagnosed_by", "tail": "cytology"}
+
+{"type": "relation", "head": "Malassezia otitis", "relation_type": "treated_by", "tail": "antifungal ear drops"}
