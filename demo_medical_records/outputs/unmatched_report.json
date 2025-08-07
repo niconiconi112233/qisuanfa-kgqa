@@ -1,0 +1,6 @@
+{
+  "disease_priors": [],
+  "symptom_priors": [],
+  "cond": [],
+  "joint": []
+}

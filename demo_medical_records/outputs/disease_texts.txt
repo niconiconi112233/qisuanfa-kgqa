@@ -1,0 +1,271 @@
+Actinomycosis
+Acute abdomen
+intestinal lymphoma
+adenocarcinoma
+foreign bodies
+intussusception
+gastrointestinal obstructions
+cholangiohepatitis
+Acute colitis
+Chronic colitis
+Granulomatous colitis
+Pseudomembranous colitis
+Acute gastroenteritis
+viral enteritis
+adverse reactions to food
+Acute pancreatitis
+Chronic pancreatitis
+bronchopneumonia
+aelurostrongylosis
+Anaerobic infections
+periodontal disease
+pyothorax
+Anaplasmosis
+Ancylostomiasis
+cutaneous larva migrans
+Angioedema
+Urticaria
+Ascariasis
+Babesiosis
+Biliary Vomiting Syndrome
+Brachycephalic airway syndrome
+Campylobacteriosis
+Canine brucellosis
+Canine chronic bronchitis
+Canine distemper
+Canine herpesvirus infection
+Canine infectious tracheobronchitis
+kennel cough
+canine cough
+Canine parvoviral enteritis
+Cestodiasis
+Thoracic trauma
+Pneumothorax
+Hemothorax
+Pulmonary contusions
+Impalement injuries
+Chest Wall Penetration
+Neutrophilic cholangiohepatitis
+Lymphocytic cholangiohepatitis
+Triaditis
+Cholangitis
+Destructive cholangitis
+Cholecystitis
+Cholelithiasis
+Cholestasis
+Bactibilia
+Intrahepatic cholestasis of pregnancy
+Hyperlipidemia
+Inflammatory bowel disease
+Pancreatic trauma
+Organophosphate exposure
+Chylothorax
+Chylous peritonitis
+neoplasia
+lymphoma
+carcinoma
+hemangiosarcoma
+cardiovascular disease
+right-sided heart failure
+pericardial effusion
+lymphangiectasia
+peritonitis
+Clostridium Perfringens Infection
+clostridial enterotoxicosis
+Coagulopathies
+Hemophilia A
+Hemophilia B
+von Willebrand disease
+Coccidiosis
+Tracheal collapse
+Copper storage disease
+Cryptococcosis
+Cryptosporidiosis
+Cuterebra infestation
+Cytauxzoonosis
+Dermatophilosis
+Diabetes mellitus
+urinary tract infections
+hepatic abscesses
+Dirofilariasis
+Esophageal cancer
+squamous cell carcinomas
+leiomyosarcomas
+fibrosarcomas
+osteosarcomas
+undifferentiated sarcomas
+Esophageal regurgitation
+Megaesophagus
+Vascular ring anomalies
+Myasthenia gravis
+Systemic lupus
+Esophagitis
+Aspiration pneumonia
+Hiatal hernias
+Eosinophilic esophagitis
+Extrahepatic bile duct obstruction
+duodenitis
+gallbladder mucoceles
+bile duct malformations
+parasitic infection
+bile duct strictures
+Feline hepatic lipidosis
+Feline bartonellosis
+upper respiratory tract and oral diseases
+virulent systemic disease
+Feline coronaviral enteritis
+Feline infectious peritonitis
+Upper respiratory tract infections
+Feline idiopathic bronchitis
+effusive wet form
+noneffusive dry form
+Feline leprosy
+Feline lower urinary tract disease
+idiopathic cystitis
+urolithiasis
+urethral obstruction
+Feline panleukopenia
+Feline upper respiratory infection
+Feline hyperesthesia syndrome
+Flail chest
+Gastric dilatation-volvulus
+Gastric perforation
+gastric ulcers
+abdominal trauma
+iatrogenic injuries
+gastrinomas
+hepatic disease
+eosinophilic inflammation
+lymphoplasmacytic inflammation
+Gastroesophageal intussusception
+Giardiasis
+Heatstroke
+Exertional heatstroke
+Hemoabdomen
+Spontaneous hemoabdomen
+hemoplasma infection
+Acute hemorrhagic diarrhea syndrome
+thymic hemorrhage
+mesothelioma
+metastatic carcinomas
+angiostrongylosis
+spirocercosis
+hypovolemic shock
+Cirrhosis
+Hepatic encephalopathy
+portosystemic shunt
+Vacuolar hepatopathy
+Cushing's disease
+hypothyroidism
+Hepatozoonosis
+Histoplasmosis
+hookworm dermatitis
+Hydrothorax
+Pleural effusion
+Congestive heart failure
+Hypoalbuminemia
+Infectious pleuritis
+Uremic pleuritis
+Hyperadrenocorticism
+Hypoglycemia
+low blood sugar
+sepsis
+Addison's disease
+Hypoglycemic encephalopathy
+Insulinoma
+Extrapancreatic tumors
+Hypoadrenocorticism
+Hepatitis
+Liver neoplasia
+Hypopituitarism
+Hypoproteinemia
+Protein-losing enteropathy
+Pythiosis
+Immunoproliferative enteropathy
+Intestinal carcinoma
+Immune-mediated hemolytic anemia
+IMHA
+Immune-mediated thrombocytopenia
+Infectious Canine Hepatitis
+intestinal parasitism
+metabolic disorders
+intestinal neoplasia
+Leishmaniasis
+Leptospirosis
+Lyme disease
+Lymphocytosis
+lymphoproliferative disorders
+infection
+inflammation
+endocrine disorders
+cancer
+hyperthyroidism
+chronic lymphocytic leukemia
+Lymphopenia
+inflammatory diseases
+postoperative complications
+lynxacarosis
+Mediastinitis
+Mesenteric torsion
+Canine monocytic ehrlichiosis
+Nasal capillariasis
+Nasopharyngeal stenosis
+chronic rhinitis
+congenital deformity
+aspiration rhinitis
+chronic inflammation
+fibrosis
+thin but tough membrane
+Neosporosis
+Neutropenia
+Febrile neutropenia
+Neutrophilia
+Pyometra
+Immune-mediated diseases
+Tissue trauma
+Tissue necrosis
+Pet obesity
+osteoarthritis
+feline diabetes
+Paragonimiasis
+Necrotizing fasciitis
+Septic arthritis
+Osteomyelitis
+Pneumonia
+Bacteremia
+Meningitis
+Endocarditis
+Pelodera Dermatitis
+Physalopteran infection
+Platelet dysfunction syndrome
+hyperglobulinemia
+Pleuritis
+Primary spontaneous pneumothorax (PSP)
+Secondary spontaneous pneumothorax (SSP)
+Inflammatory airway disease
+Allergic bronchitis
+Protothecosis
+cutaneous pythiosis
+gastrointestinal pythiosis
+Rocky Mountain Spotted Fever
+Salmonellosis
+Schistosomiasis
+Small intestinal bacterial overgrowth
+Staphylococcal infections
+pyoderma
+Strongyloidiasis
+hyperinfection
+Surra
+Thrombocytopenia
+Severe fever with thrombocytopenia syndrome
+Thrombocytosis
+toxoplasmosis
+Tracheitis
+Trichomoniasis
+Trichuriasis
+Trombiculosis
+secondary bacterial infection
+secondary yeast infection
+scrub typhus
+Tuberculosis
+GDV

@@ -1,0 +1,2588 @@
+Disease,Count
+Gastroenteritis,20453
+Respiratory Tract Infection,10875
+Feline Panleukopenia,8593
+Acute Enteritis,8012
+Conjunctivitis,7665
+Canine Parvovirus Disease,7350
+Bladder Stones,6802
+Trauma/Injury,6519
+Feline Calicivirus Infection,6382
+Cystitis,6177
+Coronavirus Infection,5711
+Feline Lower Urinary Tract Syndrome (FLUTS),5658
+Pneumonia,5561
+Ear Mites,5434
+Pancreatitis,5330
+Bacterial Skin Diseases,5306
+Feline Upper Respiratory Tract Infection Syndrome,5230
+Allergic Dermatitis,4881
+Mycoplasmosis,4724
+Malassezia Otitis,4656
+Urinary Incontinence,4144
+Acute Gastritis,4046
+Vomiting Under Investigation,3897
+Feline Infectious Peritonitis (FIP),3650
+Pyometra,3618
+Fungal Dermatitis,3281
+Canine Distemper,3050
+Superficial Pyoderma,3026
+Canine Coronavirus Infection,2995
+Pyoderma,2995
+Renal Anemia,2963
+Corneal Ulcer,2941
+Ringworm in Cats,2941
+Bronchitis,2800
+Chronic Diarrhea,2730
+Feline Coronavirus Infection,2729
+Feline Herpesvirus Infection,2724
+Otitis Externa,2640
+Hepatitis,2548
+Hemorrhagic Gastroenteritis,2528
+Coccidiosis,2527
+Constipation,2516
+Trichomoniasis,2475
+Fungal Infection Diseases,2448
+Chronic Renal Failure,2424
+Cough Under Investigation,2371
+Acute Renal Failure,2350
+Bacterial and Fungal Otitis,2273
+Feline Ringworm,2256
+Stomatitis,2160
+Bronchopneumonia,2140
+Idiopathic Cystitis,2135
+Diarrhea Under Investigation,2114
+Acute Hemorrhagic Enteritis,2038
+Colitis,2034
+Patellar Dislocation,2003
+Allergy,1977
+Pulmonary Edema,1964
+Bacterial Folliculitis,1953
+Immune-Mediated Diseases,1952
+Contact Allergic Dermatitis,1914
+Kidney Stones,1882
+Fever of Unknown Origin (FUO),1776
+Dyspepsia,1751
+Gastrointestinal Foreign Body,1739
+Malassezia Dermatitis,1730
+Bacterial Enteritis,1651
+Interdigital Dermatitis,1623
+Arthritis,1621
+Gastritis,1541
+Gingivitis,1503
+Urethral Diseases,1434
+Immunologically Mediated Diseases,1383
+Common Cold,1381
+Inflammatory Bowel Disease (IBD),1366
+Hyperthermia,1364
+Hydrometra,1349
+Helicobacter Infection,1344
+Foreign Body in the Stomach,1322
+Acute Pancreatitis,1312
+Tick Infection,1288
+Dermatophytosis,1229
+Otitis Media,1180
+Cholestasis,1180
+Gastrointestinal Bloating,1169
+Gastrointestinal Motility Disorder,1167
+Fatty Liver,1155
+Cholecystitis,1146
+Breast Tumor,1137
+Ascariasis,1126
+Flea Infestation,1119
+Hypoglycemia,1107
+Ascites,1073
+Food Intolerance,1068
+Hypertrophic Cardiomyopathy,1061
+Hemoperitoneum,1051
+Atopic Dermatitis,1024
+Bordetella Infection,1018
+Dermatomyositis,995
+Dehydration,963
+Feline Infectious Enteritis,938
+Bacterial Dermatitis,930
+Anal Gland Inflammation,919
+Periodontitis,914
+Rabies,914
+Intestinal Obstruction,907
+Subcutaneous Abscess,903
+Staphylococcal Infection,901
+Bite,898
+Urinary Tract Infection (UTI),886
+Urethral Calculi,883
+Vomiting of Undetermined Cause,875
+Pelvic Fracture,857
+Giant Bacterial Infection,836
+Pending Investigation of Jaundice,836
+Urethral Obstruction,832
+Femoral Fracture,830
+Purulent Traumatic Dermatitis,825
+Gastric Ulcer,821
+Contusion,816
+Endometritis,802
+FSA,788
+Subconjunctival Cyst,787
+Irritable Bowel Syndrome (IBS),786
+Nasolacrimal Duct Obstruction,782
+Anorexia,776
+Chronic Rhinitis,765
+Leukocyte Disorders,765
+Chronic Kidney Disease (CKD),751
+Shock,742
+Systemic Inflammatory Response Syndrome (SIRS),730
+Giardia lamblia,723
+Pericardial Diseases,720
+Flea Bite Dermatitis,718
+Hepatic insufficiency,713
+Developmental Dysplasia of the Hip (DDH),705
+Diabetes Mellitus,704
+Transient Myocardial Hypertrophy,689
+Anal Gland Rupture,687
+Chlamydiosis,687
+Campylobacteriosis,681
+Intestinal Parasite Expulsion,670
+Cough to be Investigated,670
+Peritonitis,669
+Auricular Hematoma,662
+Lumbar Spine Fracture,657
+Kidney Disease,637
+Chronic Gastritis,637
+Feline Rhinotracheitis,636
+Liver failure,635
+Penile Injury,635
+Epilepsy,628
+Heatstroke,625
+Gastrointestinal Diseases,613
+External Parasite Control,608
+Thallium Poisoning,604
+Dilated Cardiomyopathy,596
+Acute Heart Failure,578
+Tics to be Investigated,572
+Vaccine Allergic Reaction,567
+Excessive Bacterial Proliferation,564
+Intervertebral Disc Spondylitis,559
+Bacterial Cystitis,558
+Pleural Effusion,551
+Feline Gingivostomatitis (Feline Posterior Stomatitis),550
+Scabies,542
+SCC (Squamous Cell Carcinoma),539
+Pulmonary Hemorrhage,534
+Keratitis,530
+Tibia and Fibula Fractures,529
+Viral Infectious Diseases,527
+Babesiosis,522
+Pending Investigation of Vomiting,520
+Spinal Stenosis,519
+Canine Parainfluenza Virus Infection,518
+Oral Mucosal Ulcer,513
+Deep Pyoderma,506
+Intestinal Parasite Control,501
+Peripheral Neuropathy,497
+Localized Demodicosis,491
+Feline Panleukopenia (Feline Distemper),489
+Feline Syncytium-Forming Virus Infection,488
+Pericardial Disease,485
+Bullous Pemphigoid,482
+Teeth Cleaning,482
+Bite Wound,479
+Entropion,477
+Scrotal Dermatitis,475
+Mitral Regurgitation,475
+Canine Herpesvirus Infection,473
+Asthma,463
+Postpartum Hypocalcemia,457
+Hematuria to be Investigated,456
+Anterior Uveitis,447
+Lung Tumor,445
+Limping to be Investigated,443
+White Spot Disease,442
+Tail Docking,434
+Cutaneous Tumors,430
+Tracheitis,428
+Anemia to be Investigated,427
+Mastitis,424
+Polycystic Kidney Disease (PKD),418
+Diarrhea,411
+Otitis,410
+Idiopathic Facial Nerve Paralysis,399
+Pleural Effusion Under Investigation,396
+Corneal Injury/Irritation,394
+Avascular Necrosis of the Femoral Head,393
+Bacterial Pneumonia,390
+Traumatic Brain Injury (TBI),382
+Otitis interna,381
+Metacarpal Fracture,381
+Traumatic Injury to Collaterals,376
+Pre-excitation Syndrome,370
+Self-inflicted Dermatitis,368
+Biliary Hepatitis Syndrome,360
+Radius and Ulna Fracture,359
+Coccidioidomycosis,359
+Myeloproliferative Disorders,355
+Taeniasis,350
+Chronic Pancreatitis,350
+Acute Respiratory Distress Syndrome (ARDS),346
+Eyelid Mass,345
+Hypothermia,337
+Cataract,335
+Panuveitis,332
+Hepatic failure,330
+Prostatic Cyst,327
+Subcutaneous Hematoma,327
+Sporotrichosis,326
+Proctitis,325
+Difficulty in Breathing Under Investigation,325
+Food Allergy,325
+Bacterial Infectious Diseases,321
+Hypoproteinemia,321
+Hematochezia Under Investigation,319
+Bone Disease,317
+Conical/Spherical Crystal,317
+Traumatic injury to the collaterals,316
+Phalangeal Fracture,312
+Pulmonary Heart Disease,312
+Miscarriage,312
+Eczema,312
+Linear Foreign Body,308
+Posterior Cruciate Ligament Rupture,307
+Oral Trauma,306
+Dystocia,305
+Oral Mucosal Ulceration,305
+Hirschsprung's disease,302
+Intestinal Parasitosis,302
+Arterial Thrombosis,300
+Femoral Head/Neck Fracture,299
+Hyperlipidemia,297
+Sepsis,295
+Iliopsoas Muscle Injury,295
+Lymphadenitis,293
+Hepatomegaly,291
+Pneumothorax,290
+Liver Tumor,289
+Optic Neuritis,289
+Acute Hepatitis,286
+Immunologically Mediated Hemolytic Anemia,283
+Pulmonary Contusion,279
+Cryptorchidism,277
+Gastrointestinal Disorders,276
+Thrombocytopenia,275
+Bladder Diseases,270
+Brachial Plexus Injury,268
+Ovarian Cyst,266
+Cervical Vertebral Myelopathy,264
+Hypertension,262
+Hematemesis,258
+Hyperkalemia,248
+Eosinophilic Granulomatosis with Polyangiitis (EGPA),248
+Intestinal Tumors,247
+Degenerative Mitral Valve Disease,247
+Lymphoma,247
+Drug Poisoning,243
+Endophthalmitis,241
+Wrist Fracture/Dislocation,240
+Vaginitis,240
+Prostatitis,238
+Oral-facial fistula,238
+Tracheal stenosis,237
+Distal Femoral Intercondylar Fracture,237
+Neurotrophic Dry Eye Syndrome,237
+Corneal Perforation,234
+Benign Prostatic Hyperplasia (BPH),233
+Joint Dislocation,231
+Degenerative Disc Disease,231
+Cholangitis,230
+Tracheal collapse,229
+Keratotic and Seborrheic Dermatoses,228
+Underweight to be Investigated,228
+Nasal Bleeding,227
+Parasitic Dermatoses,227
+Eosinophilic Granuloma,224
+Azotemia,223
+Blepharitis,221
+Airway Tumor,219
+Chronic Sinusitis,219
+Tendon Rupture,219
+Hyper-viscosity Syndrome,218
+Excessive Hair Removal,218
+Biliary Mucinous Cystadenoma,216
+Chronic Heart Failure,216
+Fibrous Dysplasia of Bone,214
+Corneal Abscess,212
+Cellulitis,210
+Nephrotic Syndrome,210
+Inert Corneal Ulcer,209
+Cardiorenal Syndrome,209
+Inguinal Hernia,209
+Proptosis,208
+Gastric dilatation,208
+Chronic Otitis Externa,205
+Viral Pneumonia,204
+Pyelonephritis,202
+Caudectomy,202
+Suppurative Arthritis,200
+Tooth Fracture,199
+Protrusion of the Third Eyelid,197
+Splenic Tumor,196
+Abdominal Wall Hernia,195
+Parvoviral Enteritis,194
+Superficial Corneal Ulcer,194
+Hypocalcemia,193
+Eyelid Trauma,193
+Mammary Hyperplasia,193
+Perineal Hernia,190
+Under Investigation for Neurological Disorders,190
+Gastrointestinal Obstruction,189
+Splenomegaly,189
+Aspiration Pneumonia,189
+Ascites to be Investigated,187
+Eosinophilic Dermatitis,186
+Feline Triaditis,185
+Arthritis (Degenerative Joint Disease),185
+Cyclosporiasis,185
+Renal Cyst,184
+Pharyngitis,183
+Bacterial Furunculosis,182
+Apical Periodontal Abscess,182
+Uterine Diseases,181
+Viral Meningoencephalitis,180
+Endocrine Dermatoses,179
+Hip Dislocation,179
+Miliary Dermatitis,178
+Deficiency of Kidney Yang,178
+Mandibular Abscess (Rodent),178
+Mandibular Fracture,178
+Epidural Tumor,178
+Candidiasis,177
+Corneal Sequestrum (Necrotizing Keratitis),176
+Tricuspid Regurgitation,176
+Gallstones,175
+Intestinal Lymphoma,175
+Upper Cold and Lower Heat,175
+Anterior Cruciate Ligament Rupture,174
+Renal enlargement,174
+Acute Otitis Externa,172
+Mastocytoma,172
+Thoracic Vertebral Fracture,170
+Traumatic Disc Herniation,170
+Ocular Diseases,169
+Mediastinal Mass,169
+Myasthenia Gravis,166
+Intussusception,164
+Glaucoma,163
+Pending Investigation for Jaundice,163
+Lipoma,163
+Viral Conjunctivitis,162
+Umbilical Hernia,160
+Intestinal Qi Stagnation,159
+Humeral Fracture,158
+Claw Dermatitis,158
+SCC,157
+Multiple Organ Dysfunction Syndrome (MODS),156
+Hookworm disease,155
+Systemic Demodicosis,155
+Spleen Tumor,154
+Edema Disease,153
+Radius Fracture,151
+Gingival Defect,150
+Food Poisoning,150
+Polyradiculitis,150
+Perianal Tumor,150
+Immune-mediated diseases,150
+Hypokalemia,149
+Exfoliation of the nail plate,149
+Rectal Prolapse,149
+Drug Reaction,148
+Oral Tumors,147
+Renal atrophy,147
+Renal agenesis,146
+Urethral Stricture,145
+Uterine Tumor,145
+Tooth Resorption,143
+Stool with Blood for Examination,143
+Pericardial Effusion,142
+Ptosis of the Upper Eyelid,142
+Rib Fracture,141
+Bladder Polyp,140
+Idiopathic Epilepsy,140
+Feline Eosinophilic Granuloma,140
+Pseudopregnancy,139
+Blastomycosis,139
+Small Intestinal Bacterial Overgrowth (SIBO),139
+Foreign Body in the Ear Canal,139
+Muscular Atrophy/Muscular Dystrophy,138
+Infectious Meningomyelitis,138
+Allergic Rhinitis,136
+Biliary Vomiting Syndrome,136
+Uterine bleeding,136
+Esophagitis,136
+Coccyx Fracture,135
+Diaphragmatic Hernia,135
+Hypothyroidism,134
+Feline Syncytium Virus Infection,134
+Cushing's Syndrome / Hyperadrenocorticism,134
+Canine Infectious Tracheobronchitis,134
+Ehrlichiosis,133
+Food Stagnation in the Gastrointestinal Tract,133
+Gingival Hyperplasia,132
+Coronavirus Enteritis,132
+Pain Under Investigation,131
+Epidermoid Cyst,130
+Pyogenic Granulomatous Dermatitis,129
+"Miscarriage, Termination of Pregnancy",129
+Cleft Lip,128
+Ischial Fracture,127
+Nystagmus,127
+Myocarditis,127
+Tarsal Fracture,124
+Cushing's Neuropathy,122
+Parasitic Enteritis,122
+Conjunctival Hemorrhage,122
+Infectious Myositis,121
+Sole Bruise,121
+Endocrine and Metabolic Diseases,120
+Distal Femoral Metaphyseal Fracture,119
+Rupture of the bladder,119
+Flexor and Extensor Tendon Injuries,119
+Rupture of the Extensor Digitorum Longus Tendon,118
+Mosquito and Fly Bite Dermatitis,118
+Purulent Accumulation in the Preputial Sac,116
+Fibrous Dysplasia,116
+Otorhinolaryngological Disorders,116
+Cervical Spine Fracture,115
+Burn,115
+Winter Temperature,115
+Rupture of the collateral ligament,114
+Bacterial Conjunctivitis,114
+Chylothorax,114
+Corneal opacity,113
+Onion Poisoning,113
+Acromegaly,113
+Perianal Fistula,113
+Pediculosis,113
+Esophageal Foreign Body,113
+Immune-Mediated Thrombocytopenia,113
+Exophthalmos,112
+Tooth Avulsion (Extrusion from Alveolar Socket),111
+Primary Secretory Otitis Media,110
+Feline Dermatophytosis,110
+Horner's Syndrome,110
+Diabetic Ketoacidosis,109
+Meibomian Gland Inflammation,109
+Anal Prolapse,109
+Pulmonary Arterial Regurgitation,109
+Intestinal deworming,108
+Pancreatic Cyst,108
+Ear Canal Hyperplasia,108
+Distal Humeral Intercondylar Fracture,108
+Chlamydial Conjunctivitis,108
+Bacterial Poditis,108
+Salivary Gland Cyst,107
+Bladder Tumor,107
+Corneal Penetrating Injury,107
+Hyporexia/Anorexia to be Investigated,107
+Muscular Disorders,107
+Degenerative and Hyperplastic Osteoarthritis,107
+Cachexia,106
+Mitral Valve Dysplasia,106
+Hansen Type II Disc Herniation,106
+Iliosacral Dislocation,106
+Leukemia,106
+Nocturnal Enuresis,105
+Vertebral Fracture and Dislocation,105
+Pyrethrin and Pyrethroid Poisoning,105
+Balanoposthitis,105
+Brain Diseases,104
+Limping Under Investigation,104
+Empyema,104
+Diseases of Electrolyte Imbalance,103
+Polycythemia,103
+Excessive Summer Heat Invasion,103
+Protrusion of the Third Eyelid Gland,103
+Pulmonary Parasites,103
+Hyphema,102
+Seroma,102
+Central Vestibular Syndrome,102
+Painless ulcer,102
+Class IV Malocclusion,102
+Shoulder Dislocation,102
+Hair Follicle Cyst,102
+Testicular Tumor,101
+Exocrine Pancreatic Insufficiency (EPI),101
+Ilium Body Fracture,101
+Ulnar Fracture,101
+Hyperphosphatemia,98
+Inflammatory hepatobiliary diseases,97
+Breast Diseases,97
+Neosporosis,97
+Blood and Immune System Diseases,97
+Electrolyte Imbalance Disorders,96
+Orchitis,96
+Osteochondrodysplasia,95
+Zinc Phosphide Poisoning,95
+Acetabular fossa fracture,95
+Acute Abdomen,94
+Fetal Death,94
+Zygomatic Gland Cyst,94
+Adenocarcinoma,94
+Bronchiectasis,93
+Ureteral Calculi,92
+Vaginal Hyperplasia,92
+Chronic Hepatitis,92
+Intraocular Foreign Body,92
+Hyperbilirubinemia,91
+Foreign Body in the Esophagus,91
+Hypertrophic Osteodystrophy,91
+Hydronephrosis,91
+Autonomic Nervous System Dysfunction,90
+Ulcerative Otitis Externa,89
+Nasopharyngeal Stenosis,89
+Hypovolemia,89
+Ivermectin Poisoning,88
+Nasal Cavity Tumor,88
+Tic Disorder Under Investigation,87
+Pending Investigation of Hematuria,87
+Perianal adenoma,87
+Congenital Hydrocephalus,87
+Complex Corneal Ulcer,86
+Subcutaneous Emphysema,86
+Cheilitis,86
+Hepatic Yang Hyperactivity,86
+Elbow Dislocation,86
+Hypotension,85
+Osteochondrosis,85
+Pulmonary Embolism,85
+Gastroesophageal Reflux,85
+Naso-orbital fistula,85
+Oral Foreign Body,84
+Toxoplasmosis,84
+Infectious Venereal Tumor,84
+Orbital Abscess,84
+Dermoid Cyst,84
+Conjunctival Injury,84
+Feline Atopic Syndrome,84
+Skull Fracture,84
+Joint and Ligament Diseases,84
+Intestinal colic,84
+Allergic Conjunctivitis,83
+To Be Investigated for Neurological Disorders,83
+Coagulation Disorders,83
+Complex Congenital Heart Disease,83
+Hyperviscosity Syndrome,83
+Male Dog Infertility,83
+**Demodex**,83
+Aortic Regurgitation,83
+Malignant Edema,83
+Lymphocytosis,83
+Epistaxis,82
+External Genital Diseases,82
+Hyperuricemia,82
+Iliac Body Fracture,82
+Cold Intestinal Diarrhea,80
+Overgrown Molars,80
+Double Outlet Right Ventricle (DORV),80
+Acute Fulminant Hepatic Failure,80
+Rubella,79
+Sialadenitis/Sialectasis/Salivary Gland Necrosis,79
+Weakness of the Heart Yang,78
+Vaginal Tumors,78
+Microcrystalline,78
+Ureteral dilation,78
+Neurogenic Self-induced Alopecia,78
+Orbital Emphysema/Hematoma,78
+Pulmonary Arterial Hypertension,77
+Investigation of Bloody Stool,77
+Class I Malocclusion,77
+Growth Plate Fracture,77
+Arrhythmogenic Right Ventricular Cardiomyopathy (ARVC),76
+Bladder Trauma,76
+Hepatic Encephalopathy,76
+Decreased or Absent Appetite Under Investigation,76
+Streptococcosis,75
+Interdigital Furunculosis,75
+Hypercalcemia,75
+Schistosomiasis,75
+Nematode Infection of the Eye,75
+Hypertrophy of the External Auditory Canal,75
+Subconjunctival Hemorrhage,75
+Elbow Mucinous Cyst,74
+Retained deciduous teeth,74
+Immunologically Mediated Dermatosis,74
+Spina Bifida,74
+Laryngeal Edema,73
+Puppy Pyoderma,73
+Focal Nodular Hyperplasia of the Liver,73
+Dental Caries,73
+Cleft Palate,73
+Arrhythmia,72
+Corneal Laceration,72
+Primary Seborrhea,71
+Scleritis,71
+Male Cat Infertility,71
+Chlorinated Hydrocarbon Insecticide Poisoning,71
+Bloody Stool Under Investigation,70
+Oral Eosinophilic Granuloma,70
+Optic Nerve Defect,70
+Intestinal Parasitic Diseases,70
+Peripheral Vestibular Syndrome,70
+Feline Acne,70
+Atlantoaxial Instability (Joint Dislocation),70
+Pulp Stone,69
+Ceruminous Gland Cyst,69
+Anticoagulant Rodenticide Poisoning,69
+Symblepharon,69
+Spinal Deformity,69
+Biliary Obstruction,69
+Aphthous Ulcers,68
+Uterine Rupture,68
+Pemphigus Foliaceus,67
+Ovarian Tumor,67
+Peripheral Edema,67
+HSA,67
+Scrofula,67
+Prostatic Diseases,67
+Hepatobiliary and Pancreatic System Diseases,66
+Patellar Fracture,66
+Sebaceous Adenoma,66
+Muscle Strain of the Tailbone,66
+Infective Endocarditis,66
+Abnormal Estrus,65
+Pubic Fracture,65
+Oral Mucositis,65
+MM,64
+Impaired Lung Collateral Circulation,64
+Hyperactivity of Liver Yang,64
+Tumors of the Toe,64
+Feline Spinal Cord Disease,64
+Epulis,63
+Optic Nerve Atrophy,62
+Ceruminous External Otitis,62
+Malocclusion,62
+Mycoplasma Blood Infection,62
+Autoimmune and Immune-Mediated Dermatologic Diseases,62
+Feline Hypersensitivity Syndrome,61
+Trichiasis,61
+Pulmonary Fibrosis,61
+SCC (Sperm Chromatin Condensation),61
+Hypopyon,61
+Dysplasia of hair follicles,60
+Scapular Fracture,60
+Trichuriasis,60
+Inflammation of the crop,60
+Nuclear sclerosis of the lens,60
+Acral Lick Dermatitis,60
+Keratoconjunctivitis Sicca (Dry Eye Syndrome),60
+Inflammatory carcinoma,60
+Acetaminophen Poisoning,60
+Autoimmune and Immune-Mediated Dermatological Diseases,60
+Uterine Bleeding,59
+Tongue Injury,59
+Cauda Equina Syndrome,59
+Laryngeal Paralysis,58
+Systolic Dysfunction,58
+Pathological Fracture,58
+Retinal Hemorrhage,58
+Financial Services Authority,58
+Hepatic Lipidosis Syndrome,57
+Feline Leukemia Virus Infection,57
+Retinal Detachment,57
+Hypertrophic Otitis Externa,57
+Laryngeal edema,56
+Cognitive Dysfunction Syndrome,56
+Drug Allergy,56
+Cryptosporidiosis,55
+Hyperthyroidism,55
+Acute Toxic Hepatitis,55
+Follicular Conjunctivitis,55
+Tibial Tuberosity Avulsion Fracture,55
+Thoracic Wall Tumor,55
+Soluble Corneal Ulcer,54
+Trematodiasis,54
+Pneumomediastinum,54
+Otorrhea,54
+Vaginal discharge,54
+Uremia,54
+Congenital Hypotrichosis,53
+Aural polyp,53
+Glossitis,53
+Periapical abscess,52
+Oro-nasal fistula,52
+Hypertrophy of the tail gland,51
+Nephrotic Syndrome with Protein Loss,51
+Fungal Nail Infection,51
+Chlamydial Pneumonia,51
+Alkaloid Poisoning,51
+Urethral Trauma,50
+Undifferentiated Tumor,50
+Pseudocyesis,50
+Traumatic Vestibular Syndrome,50
+Occlusal Trauma,50
+Nasopharyngeal Polyp,50
+Tracheal Stenosis,49
+Urinary Retention,49
+Idiopathic Vestibular Syndrome,49
+Eyelid Tumor,49
+Hyponatremia,49
+Sternal Fracture,49
+Pyloric Stenosis,48
+TCC,48
+Mycoplasma Infection in Blood,48
+Intestinal Sand Accumulation,48
+Emphysema,47
+Gastrointestinal Tumors,47
+Bone Cyst,47
+Euthanasia,47
+Protozoal Infections,47
+Peritoneal Cavity Diseases,47
+Temporomandibular Joint Dislocation,47
+Pulmonary hypoplasia,46
+Canine Infectious Hepatitis,46
+Blind colitis,46
+Feline Immunodeficiency Virus Infection,46
+Mucocutaneous Junction Pyoderma,46
+Salmonellosis,46
+Hereditary Retinal Dysplasia and Persistent Hyperplastic Primary Vitreous (PHPV),46
+Neutrophilia,46
+Protein-losing Enteropathy,45
+Orbital Granuloma,45
+Streptococcal Disease,45
+Urine mud,45
+Megaesophagus,45
+Renal Tumor,45
+Pericardial Hernia,45
+Skeletal Dysplasia,45
+Hypophosphatemia,45
+Subcorneal Pustular Dermatosis in Dogs,45
+Restrictive Cardiomyopathy,44
+Infectious Myocarditis,44
+Corneal Endothelial Dystrophy,44
+Iodine Metabolism Disorder,44
+"Difficulty in Breathing, Under Investigation",44
+Abnormal Development of Microvessels,44
+Tracheal Diseases,44
+Mucin Deficiency,44
+Maxillary Fracture,44
+Separation Anxiety Disorder,43
+Postpartum Lochiorrhea,43
+Injection reaction,43
+Wrinkle Dermatitis,43
+Lobar torsion of the lung,43
+Eosinophilia,43
+Carpal Bone Fracture,42
+Cutaneous Vasculitis,42
+Muscle Rupture (Muscle Tear),42
+Microphthalmia,42
+Rupture of the spleen,42
+Organophosphorus Poisoning,42
+Liposarcoma,42
+Decreased or Complete Loss of Appetite Under Investigation,42
+Pyometra and Cystic Endometrial Hyperplasia,42
+Panosteitis,42
+Syringomyelia,42
+Pectus Excavatum,41
+Aseptic Nodular Panniculitis,41
+Gallbladder Mucinous Cystadenoma,41
+Nematodiasis,41
+Tendinitis,41
+Gastric Tumor,41
+Feline Idiopathic Facial Dermatitis,40
+MCT (Medium-Chain Triglycerides),40
+Multicentric Lymphoma,40
+Bacterial Rhinitis,40
+Pulpitis,40
+Malignant Hyperthermia,40
+Pemphigus,40
+LSA (Latent Semantic Analysis),40
+Orbital Diseases,40
+Atrial Septal Defect (Reversed),40
+Lid Laceration,40
+Pending Investigation for Hematuria,40
+Secondary Liver Disease,40
+Palatitis,39
+Neutropenia,39
+Cryptococcosis,39
+Dacryocystitis,39
+Cutaneous Tag,39
+Hypoadrenocorticism,39
+Myiasis,39
+Nasal hemorrhage,39
+Ureteral Obstruction,39
+Prostatic Abscess,39
+Corneal Degeneration,39
+Dry Keratoconjunctivitis (Dry Eye Syndrome),39
+Truncal Cyclical Alopecia,39
+Pasteurellosis,39
+Acute Gastric Dilatation and Volvulus,39
+Sebaceous Adenitis,39
+Hypertrophic pyloric gastropathy,38
+Strabismus,38
+Elbow Dysplasia,38
+Foreign Body in the Nasotracheal Region,38
+Bullous Keratopathy,38
+Barbiturate Poisoning,38
+Departmental Dermatitis,38
+Fracture of the Sacrum,38
+Organophosphorus Compound Poisoning,38
+Parathyroid Diseases,37
+Furunculosis,37
+Pigmentary Uveitis,37
+Acute Postoperative Ocular Hypertension,37
+Equine Hip Dislocation,37
+Damp-heat diarrhea,37
+Hypoglycemic Encephalopathy,37
+Carpal Fracture,36
+Senile Cataract,36
+Pituitary Tumor,36
+Pulmonary Tumor,36
+Deficiency of Lung Yin,36
+Grape Poisoning,36
+Appetite Loss/Anorexia to be Investigated,36
+Aural Canal Tumor,36
+Otorhinolaryngological Diseases,36
+Viral Keratitis,35
+Ocular eyelid disorders,35
+Simple Intestinal Obstruction,35
+Bilateral atrioventricular valve degenerative disease,35
+Diabetic Ketoacidosis (DKA),35
+Aortic Calcification,35
+Papilledema,35
+Ovarian Diseases,35
+Refeeding Syndrome,35
+Feline Idiopathic Ulcerative Dermatosis,35
+Degenerative and Hypertrophic Osteoarthritis,34
+Behavioral Anomaly,34
+Tooth Displacement (still within the alveolar socket),34
+Liver and Kidney Yin Deficiency,34
+Bladder Dysfunction - Detrusor Muscle Hypotonia,34
+Lung Abscess,34
+Glomerulonephritis,34
+"Diseases of the Nose, Nasopharynx, and Paranasal Sinuses",34
+Bladder paralysis,34
+Drowning,34
+Lid coloboma,34
+Cardiopulmonary Arrest,34
+Poisoning by Toxic Plants and Animal Toxins,34
+Malignant Histiocytoma,34
+Superficial Necrotic Dermatitis (Hepatocutaneous Disease),33
+Myxosarcoma,33
+Stellate Vitreous Degeneration,33
+Tongue Laceration,33
+Rectal Fistula,33
+Bacterial Keratitis,33
+Polyp,33
+Hyperextension of the wrist,33
+Twin Teeth,33
+Dysphagia,33
+Chocolate Poisoning,32
+Osteosarcoma,32
+Ceruminous Gland Hyperplasia,32
+Thyroid Diseases,32
+Adverse Drug Reactions,32
+Persistent Corpus Luteum,32
+Spinal Cord Diseases,32
+Generalized Demodicosis,32
+Rheumatoid Arthritis,32
+Rupture of the Spleen,32
+Esophageal Diseases,32
+Bradycardia,32
+Narcolepsy,32
+Avulsion Fracture of the Olecranon,32
+Pancreatic Endocrine Diseases,32
+Sex Hormone-Related Dermatoses,32
+Feline Gingivostomatitis (Feline Posterior Oral Stomatitis),32
+Cerebellar Disorders,31
+Myelodysplastic Syndromes (MDS),31
+Vertebral Osteomyelitis,31
+Urethral mucosal prolapse,31
+Hair mites,31
+Thymic Diseases,31
+Dermatophilosis,31
+Tympanic membrane tear,31
+Tick Bite Paralysis/Tick Paralysis,31
+Deposition of Abnormal Substances in the Cornea,31
+Exocrine Pancreatic Insufficiency,31
+Demodex,31
+Mononucleosis,30
+Vaginal Prolapse,30
+Acid-Base Related Encephalopathy,30
+Iodine Metabolic Disorders,30
+Submental Pyoderma,30
+Corneal Lipid Deposition,30
+Hypernatremia,30
+Hypothyroid Myopathy,30
+Hypertrophic Obstructive Cardiomyopathy (HOCM),30
+Anal Sac Adenoma,29
+T-shaped cartilage deformation,29
+Pancreatic Tumor,29
+Panophthalmitis,29
+Pulmonary Artery Stenosis,29
+Vitamin A Deficiency,29
+Bilateral prolapse of the third eyelid,29
+Excessive Summer Heat,29
+Neuronal Migration Disorder,29
+Ovarian Remnant Syndrome,29
+Urethral rupture,29
+Liver abscess,29
+Odontoma,29
+Lingual Hairs,29
+Diabetes Insipidus,28
+Lip Laceration,28
+Residual Tooth Root,28
+Breast Cancer,28
+Open limb,28
+Referral Pending Investigation,28
+Trigeminal Neuralgia,28
+Subchondral Cyst,28
+Nasal and oral fistula,28
+Neurotrophic Keratoconjunctivitis,28
+Tumors of the Toes,28
+Incisional Hernia,28
+Anterior Dislocation of the Lens,27
+Hornet Sting,27
+Weakness of the Spleen and Stomach,27
+Melancholia,27
+"Myopathy, Non-inflammatory (Endocrine)",27
+Prostate Tumor,27
+Wall-Spored Mycosis,27
+Liver cirrhosis and hepatic fibrosis,27
+Periodontal Disease (Rodent),27
+Hepatosplenomegaly Under Investigation,27
+Intestinal parasitosis,27
+Tachycardia,27
+Lipid Keratopathy,26
+Chalazion,26
+Prolonged soft palate,26
+Congenital Renal Dysplasia,26
+Tricuspid Valve Dysplasia,26
+Rhinitis (Rhinitis and Sinusitis),26
+Continuous Drug Delivery via the Skin System,26
+Contact stomatitis,26
+Vaginal Diseases,26
+Abdominal Wall Penetration Injury,26
+Protozoal Meningoencephalitis,26
+Auricular Tumor,26
+Health Sciences Authority,26
+Chronic Superficial Keratitis (Pannus),26
+Metabolic Bone Disease,26
+Oral and Pharyngeal Diseases,26
+Pleural Cavity Diseases,26
+Mycotoxin Poisoning,26
+Paroxysmal Dyskinesia,25
+Osteoarthritis (Degenerative Joint Disease),25
+Gastric Dilatation,25
+Atrophic Dermatitis,25
+Vaginal Leiomyoma,25
+PNS Tumors,25
+Cholesterol Deposit in the Eye,25
+Aural canal tumor,25
+Thoracic Wall Trauma,25
+Diseases of the Uropygial Gland,25
+Mandibular Angle Protrusion,25
+Hypoxemia,25
+Yin Deficiency and Yang Floating,25
+Corneal and Scleral Diseases,25
+Excessive hair removal,25
+Myocardial Infarction,25
+Osteoma,25
+Pigmentary Keratitis (Superficial Pigmentary Keratitis),24
+Lily Poisoning,24
+Tear of the Third Eyelid,24
+Spinal Cord Disorders,24
+Myokymia and Neuromyotonia,24
+Fetal death,24
+Idiopathic Osteodystrophy,24
+Chronic Canine Contact Stomatitis,24
+Herniation of the Intervertebral Disc Nucleus Pulposus,24
+Lymphangiectasia,23
+Arterial Embolism,23
+Small lacrimal point,23
+Perianal Adenoma,23
+Cardiac Tumor,23
+Adrenal Tumor,23
+Hepatic Portal Vein Shunt (Acquired),23
+Conjunctival and Third Eyelid Diseases,23
+Posterior Elastic Layer Protrusion,23
+Lymphoid Tumors,23
+Solar Dermatitis,23
+Lymphoplasmacytic Rhinitis,23
+Abnormal Pigmentation,23
+Functional Incontinence of the Urethral Sphincter,23
+Vitreous Syneresis,23
+Muscle and Tendon Disorders,23
+Feline Plasma Cell Pododermatitis,23
+Cheyletiella mites,23
+Sialadenitis/Sialodochitis/Salivary Gland Necrosis,22
+Eisenmenger Syndrome,22
+Gastric Dilation/Volvulus,22
+Mumps,22
+Liver Abscess,22
+Liver Qi Stagnation,22
+Hyporexia/Anorexia Under Investigation,22
+Atrioventricular Septal Dysplasia,22
+Lens Subluxation,22
+Blind Colitis,22
+Yin Injury and Stomach Decline,21
+Tear of the Ear Canal,21
+Canine Familial Dermatomyositis,21
+Fungal Uveitis,21
+Feline Poxvirus Infection,21
+Iris Nevus,21
+Secondary Glaucoma,21
+Foreign Body in the Oral Cavity,21
+Uterine Prolapse,21
+Subaortic Stenosis,21
+Root sclerosis,21
+Lacrimal Duct Laceration,21
+Melanoma,21
+Gastrointestinal Heat Accumulation,21
+Tumors of the External Auditory Canal,21
+Lymphopenia,21
+Eosinophilic Keratitis,21
+Extravasation of Lymph,21
+Sialadenitis,21
+Astrovirus Infection,21
+Otorrhea with Pus,21
+Corneal Calcific Degeneration,21
+Hypoplasia or Defect of Posterior Articular Process,21
+Lacrimal punctum,21
+Cardiac Tumors,21
+Blind Intestinal Colitis,21
+Pleurisy Pneumonia,21
+Anal Adenoma,21
+Fracture of the Nasal Bone,21
+Deficiency of Stomach Yin,21
+Abdominal Wall Disorders,21
+Bacterial Pododermatitis,21
+Bilateral Atrioventricular Valve Degenerative Lesions,21
+Cold Stagnation in the Heart Meridian,21
+Canine Nasal Mite,21
+Vitamin B1 Deficiency,21
+Internal Closure and External Detachment,20
+Metastatic Tumor,20
+Cutaneous Mucinosis,20
+Urticaria and Angioedema (Hives),20
+Fracture/Dislocation of the Tarsal Joint,20
+Palpebral Mass,20
+Estrogen Deficiency,20
+Fungal Pneumonia,20
+Venous Thrombosis,20
+Recurrent and Chronic Pancreatitis,20
+Hypoparathyroidism,20
+Adenomatous Polyp,20
+Avian Rhinolithiasis,20
+Tarsal Gland Tumor,20
+Pica,20
+Tumor of the External Auditory Canal,20
+Uveal Cyst,20
+Insufficiency of Lung Yin,20
+Anisocoria,20
+Disseminated Intravascular Coagulation (DIC),20
+Portal Hypertension,19
+Traumatic Uveitis,19
+Diabetes - Hyperosmolar Coma,19
+Amitraz Poisoning,19
+Posterior synechia of the iris,19
+Weakness of Heart Qi,19
+Atlantoaxial Dislocation (Traumatic),19
+Red Blood Cell Disorders,19
+Pulmonary Mineralization,19
+Obstructive Sleep Apnea,19
+Ocular Disorders,19
+Ectropion,19
+Excessive bacterial proliferation,19
+Iris Atrophy,19
+Peritoneopericardial Diaphragmatic Hernia,19
+Splenic Angiosarcoma,19
+Eosinophilic plaque,19
+Ischemic Cerebral Infarction,19
+Hemothorax,19
+Placenta Retention,19
+Hypoplasia or Defect of the Posterior Articular Process,19
+Tumors of the Third Eyelid,19
+Laryngeal Injury,19
+Deficiency of Kidney Qi,19
+Hemorrhagic Cerebral Disease,19
+Medial Canthal Hair Drainage Syndrome,18
+Hypochloremia,18
+Poxvirus Infection,18
+Dandy-Walker Syndrome,18
+Achilles tendon rupture,18
+Thyroid Tumor,18
+Cardiac Tamponade,18
+Bladder Polyps,18
+Penetrating Scleral Injury,18
+Generalized Progressive Retinal Atrophy,18
+Uterine torsion,18
+Coagulation Disorders/Gastrointestinal Bleeding,18
+Laryngeal Paralysis with Multiple Neuropathy,18
+Cranio-Mandibular Disorders,18
+Renal Abscess,18
+Continuous Administration of Blood and Immune System Agents,18
+Thermal Burn,18
+Spontaneous Granulomatous Disease,18
+Hair Follicle Dysplasia,18
+Hornet Sting Injury,18
+Episcleritis,18
+Nasal and Facial Tumors,18
+Paraprostatic cyst,18
+Carbamate Poisoning,17
+Myringitis,17
+Distichiasis,17
+Hypokalemic Myopathy,17
+Matrix Corneal Ulcer,17
+Bird's Beak Sign,17
+Alveolar Bone Necrosis,17
+Cor triatriatum,17
+Dyskeratosis,17
+Protozoal Infection Diseases,17
+Earwax Debris and Earwax Impaction,17
+Full-thickness Corneal Laceration,17
+Purpura,17
+Disorders of Sexual Development (DSD),17
+Familial Fever,17
+Tongue Tumor,17
+Esophageal Stenosis,17
+Oral sinus tract,17
+Hiatal Hernia,17
+Polycystic Kidney Disease,17
+Erythema Multiforme,16
+Stromal Keratitis,16
+Hypertrophic Osteoarthropathy,16
+Snake Venom Poisoning,16
+Gastric pyloric stenosis,16
+Cerebellar Malformation,16
+X Hair Removal,16
+Hepatic Amyloidosis,16
+Leptospirosis,16
+Persistent Right Aortic Arch,16
+Postpartum milk,16
+Respiratory Parasites,16
+Anaerobic Infection,16
+Rhinoentomophthoromycosis,16
+Immunologically Mediated Dermatoses,16
+Aspergillosis,16
+Schnauzer Comedo Syndrome,16
+Lyme Disease,16
+Tracheobronchomalacia,16
+Pyrexia of Unknown Origin (PUO),16
+Esophageal Diverticulum,16
+Feline Syncytial Virus Infection,16
+Hair removal without regrowth,16
+Hypertensive Encephalopathy,16
+Thoracoabdominal Inflammation,16
+Posterior Capsular Opacification,16
+Brucellosis,16
+Tympanic Membrane Perforation,16
+Aural Hematoma,16
+Kidney Deficiency with Water Overflow,16
+Nasal Cavity Tumors,16
+Thoracic vertebrae fracture,16
+Invisible Body Disease,16
+Tooth Wear (Abnormal),15
+Anterior synechia of the iris,15
+Capsular eye,15
+Mandibular Body Fracture,15
+Enamel Fracture,15
+Superficial Punctate Keratitis,15
+Sarcoma,15
+Ankylosing Spondylitis with Deformity,15
+Hair Removal Without Regrowth,15
+Ectopic Cilia,15
+Aortic dilation,15
+Adrenal Diseases,15
+Juvenile Cat Gingivitis,15
+Saprolegniosis,15
+Bladder polyps,15
+Saprolegniasis,15
+Corneal Tumor,15
+Patent Ductus Arteriosus (PDA),15
+Ocular Eyelid Disorders,15
+Hepatic Lobe Torsion,15
+Epididymitis,15
+Airway Foreign Body,15
+Hair Follicle Tumor,15
+Feline Parvovirus-Associated Cerebellar Lesions,15
+Osteomyelitis,15
+Chemical Burns in the Oral Cavity,15
+Vascular Ring Anomaly,15
+Mandibular Osteopathy of the Head Region,15
+Incomplete eyelid closure,15
+Pulmonary Congestion,15
+Orbital Cellulitis,14
+Exposure Keratitis,14
+Jugular Phlebitis,14
+Trunk Cyclic Alopecia,14
+Ureteral Diseases,14
+Frog Rot,14
+Nasal Cavity Adenocarcinoma,14
+Weak Heart Qi,14
+Bacterial Meningoencephalitis,14
+Callus Pyoderma,14
+Under Investigation for Jaundice,14
+Inguinal Scrotal Hernia,14
+Canine Spindle Cell Ameloblastoma,14
+Kidney Deficiency and Liver Hyperactivity,14
+Hyperparathyroidism,14
+Placental Abruption,14
+Iliopsoas Injury,14
+Laryngeal Diseases,14
+Mixed Mesothelioma,14
+Lobar torsion,14
+Epidural Abscess,14
+Chondrosarcoma,14
+Femoral Condyle and Trochlear Ridge Fracture,14
+Aphthous ulcers,14
+External Auditory Canal Polyp,14
+Distal Radius and Ulna Metaphyseal Fracture,14
+Alveolar Bone Osteomyelitis,14
+Phthisis Bulbi,14
+Polydipsia and Polyuria Under Investigation,14
+Cryptogenic Meningoencephalitis-Cerebral Type,14
+Patent Ductus Arteriosus (Reversed),13
+Deficiency of Both Yin and Yang,13
+Liver and Kidney Deficiency,13
+Vitamin B2 Deficiency,13
+Squamous Cell Carcinoma,13
+Duramater Ossification,13
+Stellar Vitreous Degeneration,13
+Multiple System Neuronal Degenerative Disease/Dystrophy,13
+Injection site sarcoma,13
+Jugular Veinitis,13
+Degenerative Tricuspid Valve Disease,13
+Paradoxical Vestibular Syndrome,13
+Punctum lacrimale minuscule,13
+Stasis and Turbidity Obstruction,13
+Mastocytosis,13
+Bartonellosis of the Blood,13
+Rabbit Mucinous Enteropathy,13
+Embryonic Vascular Anomalies,13
+Incomplete involution of the uterus,13
+Decayed carapace,13
+Placental Retention,13
+Snakebite Envenoming,13
+Feline Leprosy,13
+Toad Venom Poisoning,13
+Ectopic Ureter,13
+Juvenile Cat Periodontitis,13
+Spinal Cord Tumor,13
+Pannus,13
+Alveolar bone sclerosis,13
+Rickets,13
+Bursitis,13
+Air Sacculitis,13
+Perianal Gland Carcinoma,13
+Pyogenic Arthritis,13
+Colorectal Tumor,13
+Organofluorine Poisoning,13
+Chiari-like Malformation,13
+Nasal Cavity Lymphoma,13
+Dentine Stone,12
+Pulmonary Arterial Dilation,12
+Vertebral Tumor,12
+Infectious Meningoencephalitis,12
+Urethral Tumor,12
+Panniculitis,12
+Epiphysitis,12
+Aspirin Poisoning,12
+Ureteral rupture,12
+Familial Palmoplantar Keratoderma,12
+Cutaneous Horn,12
+Lipatitis,12
+Demodex mites,12
+Edema of the soft palate,12
+Bark Rot,12
+Obstructive Sleep Apnea (OSA),12
+Ascites to be investigated,12
+Ocular Diseases of the Eyelids,12
+Ceruminous Cyst,12
+Rupture of Anal Glands,12
+Lacrimal Duct Obstruction,12
+Tearing Wound of the Ear,12
+Microcystosis,12
+Congenital Dermatosis,12
+Tetralogy of Fallot,12
+Spinal Dysraphism,12
+Galactorrhea,11
+Cutaneous Plasmacytoma,11
+traction alopecia,11
+Nuclear Sclerosis of the Lens,11
+Aural atresia,11
+Primary Ciliary Dyskinesia,11
+Excessive Stomach Heat,11
+Gallbladder Tumor,11
+Punctum Lachrymale,11
+Keratinizing and Seborrheic Dermatoses,11
+Pulmonary Emphysema,11
+FSA (Financial Services Authority),11
+Juvenile Feline Gingivitis,11
+Wind-cold attacking the lung,11
+Airway Stenosis,11
+Oral Squamous Cell Carcinoma,11
+Hyperadrenocorticism (Cushing's Myopathy),11
+Lymphoplasmacytic Enteritis/Colitis,11
+Basal Cell Carcinoma,11
+Agalactia Postpartum,11
+Salivary Gland Diseases,11
+Cutaneous Sinus,11
+Bladder Damp-Heat,11
+Ankylosis of the Temporomandibular Joint,11
+Yeast Infection,11
+Ischemic Neuromuscular Disorders,11
+Meningocele/Myelomeningocele,10
+Brachycephalic Airway Syndrome,10
+Cutaneous Calcification,10
+Summer Heat,10
+Depression,10
+Radioulnar Dysplasia,10
+Multiple System Neurodegenerative Disorders/Dystrophy,10
+Feather Pecking,10
+Overlong cheek teeth,10
+Papilloma,10
+Deafness,10
+Atrial Septal Defect (ASD),10
+Corneal Dystrophy,10
+Priapism,10
+Neurogenic Dry Eye Syndrome,10
+Feline Traumatic Ischemic Myelopathy,10
+Atlantoaxial Dislocation (Congenital),10
+Trigeminal Neuritis,10
+Hypertensive Retinopathy,10
+Iris Tumor,10
+Anorectal and Perineal Diseases,10
+Thoracic wall penetrating injury,10
+Pulmonary Hypoplasia,10
+Dryness and Fluid Injury of the Stomach,10
+Penile Tumor,10
+Cloacal Disease,10
+Perirenal Pseudocyst,10
+Ocular Melanosis,10
+Primary Glaucoma,10
+Maxillary Abscess (Rodent),10
+Allergic/Eosinophilic Lung Disease,10
+Wind-Heat Injury to the Collaterals,10
+Ligamentum collaterale rupture,10
+Pancreatic Adenocarcinoma,10
+Mediastinal Lymphoma,10
+Loss of eyelid reflex,10
+Degenerative Spinal Cord Disease,10
+Sudden Blindness,10
+Tooth Avulsion (Extraction from Alveolar Socket),10
+Retinal Degeneration,10
+Ceruminous Otitis Externa,10
+Congenital Intervertebral Disc Malformation,10
+Mixed-type Mesothelioma,10
+Stromal Cell Tumor,10
+Abnormal Substance Deposition in the Cornea,10
+Injury to the tail muscles,10
+Enamel cleavage,10
+Damp-heat in the large intestine,10
+Mesenteric Volvulus,10
+Urine Stain,10
+Myxoma,10
+Interstitial Nephritis,9
+Necrosis of the dental pulp,9
+Antibiotic-Responsive Enteritis,9
+Hyperchloremia,9
+Hypertrophic External Otitis,9
+Intestinal Dampness-Heat,9
+Mandibular Joint Dysplasia,9
+Thrombocytosis,9
+Tetanus Toxin,9
+Clipping Egg,9
+Crystal-induced Uveitis,9
+Hepatic Portal Microvascular Dysplasia,9
+Pneumoperitoneum,9
+Fibrocartilaginous Embolic Myelopathy,9
+Iris Speckle,9
+Meningioma,9
+Polycoria,9
+Tracheal perforation,9
+Synovial Cyst,9
+Epidural Mucinous Cyst,9
+Intraocular Tumors,9
+Paraneoplastic Syndrome,9
+Wind-warmth syndrome,9
+Mandibular Symphysis Avulsion,9
+Malignant Mixed Tumor,9
+Vulvar Tumor,9
+First-degree atrioventricular block,9
+Anal sac adenoma,9
+Root Fusion,9
+Leigh Syndrome,9
+Hemifacial Spasm,9
+Trypanosomiasis,9
+Full-Thickness Corneal Laceration,9
+Pythium Blight,9
+Parasitic Conjunctivitis,9
+Infertility,9
+Deficiency of both Qi and Yin,9
+Lung abscess,9
+Oral Sinus Tract,9
+Palpitations,9
+Pending Investigation of Bloody Stool,9
+Vitamin C Deficiency,9
+Malformation of Forearm Growth,9
+Posterior Polymorphous Dystrophy,9
+Deficiency of Coagulation Factors,8
+Anterior synechiae of the iris,8
+Non-erosive Polyarthritis,8
+Transfusion Reaction,8
+Bromide Poisoning,8
+Epithelial Tumors,8
+Piroplasmosis,8
+Hepatozoonosis,8
+Nasal Hemorrhage,8
+Neurotrophic Keratopathy,8
+Acupuncture Healthcare,8
+Intraepidermal Keratinizing Epithelioma,8
+Diseases of Red Blood Cells,8
+Abdominal wall penetration injury,8
+Lenticular Defect,8
+Damp Heat,8
+Tonsillitis,8
+Spontaneous Self-harm,8
+Fibrosarcoma,8
+Meconium Ileus,8
+Testicular atrophy and hypoplasia,8
+Hypomagnesemia,8
+Epithelial-Origin Tumors,8
+Abdominal Serratus Muscle Tear,8
+Splenic Torsion,8
+Intestinal Dampness and Heat,8
+Cranial cruciate ligament dysplasia,8
+Eustachian Tube Dilation,8
+Cryptogenic Meningoencephalitis-Cerebellar Type,8
+Mating,8
+Fungal Keratitis,8
+Autonomic Neuropathy/Familial Autonomic Neuropathy,8
+Phlegm Stagnation and Toxin Accumulation,8
+Hypersensitivity Pneumonitis,8
+Vitamin D Toxicity,8
+Equine Infectious Anemia,8
+Aflatoxicosis,8
+Spleen Deficiency and Liver Hyperactivity,8
+Arrhythmogenic Right Ventricular Cardiomyopathy,8
+Esophageal Tumor,8
+Gastric Dilation,8
+Trypanosomiasis evansi,8
+Painless Ulcer,8
+Tinea Circinata,8
+Psychogenic Self-induced Alopecia,8
+Fungal Conjunctivitis,8
+Gastric Dilatation/Volvulus,8
+Intestinal Wind Injury to the Collaterals,8
+Gracilis Muscle Tear,8
+Focal Nodular Hyperplasia (FNH) of the Liver,8
+Hemivertebra/Butterfly Vertebra/Block Vertebra,8
+Permanent Pupillary Membrane,8
+Hyperactivity of Liver Fire,8
+Underweight to be investigated,8
+Cerebellar Hypoplasia,8
+Aplasia of the lens,8
+Fibroma,8
+Microcornea,8
+Gastrointestinal nematodiasis,8
+Conjunctival sac foreign body,8
+Triazine Poisoning,8
+Idiopathic Aseptic Granuloma and Pyogenic Granuloma,8
+Dampness-Heat in Spleen and Stomach,8
+Hyperkalemic Periodic Paralysis,8
+Angiosarcoma,8
+Qi Stagnation and Blood Stasis,8
+Decayed Carapace,8
+Upper Jiao Damp-Heat,7
+Premature Ventricular Contractions (PVCs),7
+Round Cell Tumor,7
+Lid laceration,7
+Congenital Optic Disc Dysplasia,7
+Ventricular automatic rhythm,7
+Bone Marrow Disorders,7
+Secondary Brain Tumor,7
+Basophilic Dermatitis,7
+Necrotizing Meningoencephalitis - Cerebral,7
+Gluteal Muscle Injury,7
+Systemic Lupus Erythematosus (SLE),7
+Small Crystallites,7
+Medium-Chain Triglycerides,7
+Rotavirus Infection,7
+Second-degree atrioventricular block,7
+Corneal Dermoid Cyst,7
+Metacarpal Osteophyte,7
+Penetrating Corneal Injury,7
+Spleen and Stomach Deficiency Cold,7
+Blood Stasis Blocking the Meridians,7
+Pulmonary Lymphomatoid Granulomatosis,7
+Hepatic Portal Venous Shunt (Congenital),7
+Bullous Cutaneous Lupus Erythematosus (VCLE),7
+Trunk cyclic alopecia,7
+Apoplexy of the Sun,7
+Pigmentary Abnormalities,7
+Rhabdomyolysis (Fatigue-Induced Myopathy),7
+SJS and Toxic Epidermal Necrolysis,7
+Bicipital Tenosynovitis,7
+Burns,7
+Non-specific cardiomyopathy,7
+Dysentery,7
+Fanconi Syndrome,7
+Exertional Myopathy,7
+Liver Cancer,7
+Hair Removal without Regrowth,7
+Matrix corneal ulcer,7
+Hyperestrogenism,7
+Anal adenoma,7
+Mandibular Ramus Fracture,7
+Distal Motor Neuron Denervation Disease,7
+Primary Bone Tumor,7
+Spleen Qi Deficiency,7
+Viral Myocarditis,7
+Non-infectious Subcutaneous Swelling,7
+Tumoral Calcinosis,7
+Brachial Plexus Neuritis,7
+Paralytic Myoglobinuria Disease,7
+Leishmaniasis,7
+Hyperplasia of the mammary glands,7
+Investigation of Hematochezia,7
+Paraphimosis and redundant prepuce,7
+Sterile Eosinophilic Pustulosis,7
+Pending Investigation of Hematochezia,7
+Gout,7
+Ceruminous Adenoma,7
+Thymoma,7
+Diabetic Neuropathy,7
+Vitreitis,7
+Internal Disturbance due to Blood Heat,7
+Botulinum Toxin Poisoning,7
+Injury to the Ulnar Flexor Muscles of the Wrist,7
+Actinomycosis,7
+Evil Qi Stagnation in the Lesser Yang,7
+Tarsal Inversion of Eyelashes,7
+Anodontia,7
+Hirschsprung's Disease,7
+Dryness in the Lung and Stagnant Heat,7
+Chloroquine Drug Poisoning,7
+Bacterial Corneal Ulcer,7
+Crystalline Corneal Opacity,6
+Adenoma,6
+Hyperaldosteronism,6
+Calcium Deposit in the Skin,6
+Persistent Hyaloid Artery,6
+Uveocutaneous Syndrome,6
+Sebaceous Gland Inflammation,6
+Algaecide Poisoning,6
+Abnormality of the Soft Palate,6
+Granulomatous Meningoencephalitis-Cerebellar Type,6
+Ceruminous Gland Tumor,6
+Rotten Armor,6
+Plague,6
+Weak Spleen and Stomach,6
+Feng's Factor Disease,6
+Kidney Deficiency and Instability,6
+Thrombotic Encephalopathy,6
+Granulomatous Meningoencephalitis - Cerebral Type,6
+Liver Qi Stagnation and Spleen Deficiency,6
+Corneal Stromal Abscess,6
+Model alopecia areata,6
+Leukodystrophy,6
+Hypertrophic Necrotizing Otitis,6
+Petroleum Hydrocarbon Poisoning,6
+Feline Cowpox,6
+Degenerative Myelopathy,6
+Vertebral Facet Joint Hypertrophy,6
+Ceruminous Gland Carcinoma,6
+Herpes Simplex,6
+Meningitis/Myelitis/Meningomyelitis,6
+Orbital Cyst,6
+Volvulus,6
+Tear of the Biceps Tendon Origin,6
+Supraventricular Premature Beats,6
+Paroxysmal Movement Disorder,6
+Pulp Necrosis,6
+Neurotrophic Keratitis,6
+Heartworm Disease,6
+Intramedullary Spinal Cord Tumor,6
+Hemangioma,6
+Epidemic Toxin Invasion,6
+Mycetoma (Pseudomycetoma),6
+Oral Fibrosarcoma,6
+Microcysticercosis,6
+Impaired Pulmonary Collateral Circulation,6
+Excessive Accumulation of Lung Heat,6
+Wall Sporulation Fungosis,6
+Urogenital System Tumors,6
+Dissolving Corneal Ulcer,6
+Intraoral Electrical Burn,6
+Basophilia,6
+Deficiency of Kidney Yin,6
+Metronidazole Poisoning,6
+Gastrointestinal bloating,6
+Foramina Magnum-Related Malformations,6
+Salivary Gland Stones (Sialoliths),6
+Tracheal hypoplasia,6
+Liver Cirrhosis and Hepatic Fibrosis,6
+Hypermagnesemia,6
+Persistent Hyperplastic Primary Vitreous / Persistent Hyaloid Vasculature (PHPV/PHTVL),6
+Pericardial Tumor,6
+Gastrointestinal Stagnation,6
+Abnormal Neuronal Migration,6
+Deficiency of Spleen Qi,6
+Strongyloidiasis,6
+Paragonimus,6
+Congenital Cataract,5
+Furcation Lesion,5
+Sinus Tachycardia,5
+Hypoplasia or defect of the eyelid,5
+Primary Wall Fungus Disease,5
+Neonatal Conjunctivitis,5
+Zygomatic bone fracture,5
+Subcranial Mandibular Disease,5
+Laryngeal paralysis,5
+Degenerative Vitreous Opacification,5
+Chemically Induced Corneal Ulcer,5
+Acute Non-Compressive Nucleus Pulposus Extrusion,5
+Poor blood circulation,5
+Punctum lacrimale,5
+Flail Chest,5
+Primary Pulmonary Tumor,5
+Steroid-Responsive Meningitis Arteritis,5
+Leiomyoma,5
+Bacterial and Mycotoxin Poisoning,5
+Histiocytosis,5
+Tracheal Obstruction,5
+Gastrointestinal Lymphoma,5
+Parasitic Granuloma,5
+Lacrimal Gland Cyst,5
+Brain Disorders,5
+Dryness and Heat Stagnation in the Lung,5
+Rhinomycosis,5
+Preputial Tumor,5
+Fibrous Reactive Enteritis,5
+Occlusal mucosal hyperplasia,5
+OSA (Obstructive Sleep Apnea),5
+Skin Tag,5
+Nephrotic Syndrome with Protein Losing,5
+Bi Syndrome,5
+Mucocutaneous Cutaneous Lupus Erythematosus (MCLE),5
+Intersex,5
+Non-purulent Subcutaneous Swelling,5
+Phlegm stagnation and toxin accumulation,5
+Incisor Malocclusion/Overgrown Incisors (Rodentia),5
+Medial Canthus Pouch Syndrome,5
+Fracture of the Ilium Body,5
+Tibial fascia tensor muscle injury,5
+Eosinophilic Conjunctivitis,5
+Salivary Gland Stones (Sialolithiasis),5
+Ischemic Cerebellar Infarction,5
+Mandibular Condylar Fracture,5
+Primary Brain Tumor,5
+Intestinal Spasm,5
+Aphakia,5
+Cholangitis Hepatitis Syndrome,5
+Scrub Typhus,5
+Spleen and Kidney Yang Deficiency,5
+Damp-heat in the gastrointestinal tract,5
+Small Intestinal Tumors,5
+Rickettsiosis,5
+Fly-bite Dermatitis,5
+Nonspecific Cardiomyopathy,5
+Hepatocellular Carcinoma,5
+Subconjunctival Fat Prolapse,5
+Tooth Wear (Normal),5
+Excessive Heat in the Stomach,5
+Chinchilla Hair Ring,5
+Salt Poisoning,5
+Seizure Under Investigation,5
+Spleen Qi Deficiency and Collapse,5
+"Brittle Skin Disease (Skin Fragility, Skin Weakness, Skin Paralysis, Ehlers-Danlos Syndrome)",5
+Tricuspid regurgitation,5
+Testicular and Epididymal Diseases,5
+Bumblebee Mandrill Toxin Poisoning (Large Tiger Head Wasp),5
+Hippocampal Necrosis,5
+Lung and Spleen Qi Deficiency,5
+Epidural Hematoma,5
+Oral Melanoma,5
+Fracture of the Coccyx,5
+Masticatory Myositis,5
+Cardiac Yang Collapse,5
+Inward displacement of the epiglottic cartilage,5
+Ventricular Fibrillation,5
+Intestinal Excessive Heat,4
+Primary Cerebellar Tumor,4
+Ocular Palpebral Diseases,4
+Salivary Gland Tumors,4
+Lincomycin Drug Poisoning,4
+Vitamin D Deficiency,4
+Exocrine Pancreatic Diseases,4
+Epithelioid Mesothelioma,4
+Oral Plasma Cell Tumor,4
+Paraprostatic Cyst,4
+Oligodontia,4
+Ethanol Poisoning,4
+Avulsion of the origin of the extensor digitorum longus tendon,4
+Congenital Eyelid Coloboma,4
+Canine Multifocal Retinopathy (CMR),4
+Dry Socket/Alveolar Osteitis,4
+Blood Feather Damage,4
+Avulsion of the Extensor Digitorum Longus Tendon Origin,4
+Stasis and turbidity obstruction,4
+Malignant Glaucoma,4
+Anismus,4
+Necrotizing Granulomatous Scleritis,4
+Proximal Humeral Metaphyseal Fracture,4
+Hepato-gastric Yin Deficiency,4
+Gastrointestinal Stromal Tumor (GIST),4
+Diffuse Idiopathic Skeletal Hyperostosis (DISH),4
+Hyperkalemic Periodic Paralysis/Paralysis,4
+Thoracic Wall Penetration Injury,4
+Excess Estrogen,4
+Yin Injury and Stomach Failure,4
+Sunstroke,4
+Eyelid Defect,4
+Evan's Syndrome,4
+Ear cartilage inflammation,4
+Psychogenic Self-induced Hair Loss,4
+Peripheral Odontogenic Fibroma,4
+Tracheal Granuloma,4
+Thoracic vertebral fracture,4
+Beak Disorders,4
+Lymphorrhagia,4
+Sinus Bradycardia,4
+Blood Stasis Obstructing the Collaterals,4
+Congenital Absence/Hypoplasia of the Urethra,4
+Lead Poisoning,4
+Abnormal medial canthal skin (entropion of the medial canthus),4
+Liver Blood Deficiency,4
+Immune-Mediated Hemolytic Anemia (IMHA),4
+Muscle Strain of the Tailbone Region,4
+Ulcerative Lymphangitis,4
+Extracular Myositis,4
+Simple Crown-Root Fracture,4
+Squamous Metaplasia of the Prostate,4
+Renal Tubular Acidosis (RTA),4
+Nutritional Metabolic Cataract,4
+Non-erosive polyarthritis,4
+Vomiting of Undetermined Origin,4
+Carbon Monoxide Poisoning,4
+Cat Vitamin A Poisoning,4
+Structural Epilepsy,4
+Immunologically Mediated Conjunctivitis,4
+Kidney Essence is Unstable,4
+Fibrous Vitreoretinal Adhesion,4
+Damp-heat descending,4
+TCC (Technical Cooperation Committee),4
+Class II Malocclusion,4
+Continuous Administration of Blood and Immune System Medications,4
+Ventricular Autonomic Rhythm,4
+Meniscus Injury,4
+Auricular Chondritis,4
+Limb Osteosarcoma,4
+Liver Meridian Stagnation Heat,4
+Osteochondritis,4
+Methemoglobinemia,4
+Hepatic Portal Venous Shunt (Acquired),4
+Proliferative Retinopathy,4
+Malignant Melanoma,4
+Triceps Tendon Avulsion,4
+Chicken Claudication,4
+Uremic Stomatitis,4
+Hypoxia of the Brain,4
+Trichomegaly,4
+Gastric Adenocarcinoma,4
+Gastrointestinal System Mastocytoma,4
+Arsenic Poisoning,4
+Injury from Improper Diet leading to Diarrhea,4
+Nasal Speculum Tumor,4
+Extraskeletal Osteosarcoma,4
+Follicular retention,4
+Respiratory Sinus Arrhythmia,4
+Flaccidity Syndrome,4
+Idiopathic Immune-Mediated Non-Erosive Polyarthritis,4
+Nephrotic Syndrome with Proteinuria,4
+Biliary Tract Cancer,4
+Accumulated Heat in the Spleen and Stomach,4
+Mediastinal Diseases,4
+Nephrotic Syndrome with Protein-Losing Nephropathy,4
+Quadrigeminal Cyst,4
+Colorectal Leiomyoma,4
+Horseshoe Nail Injury,4
+Copper Storage Hepatopathy,3
+Flexor tendon contracture,3
+Wooden Keratitis,3
+Testicular Torsion,3
+Lock anus,3
+Acute Non-Compressive Nucleus Pulposus Herniation,3
+Day Blindness,3
+Hepatic Abscess,3
+Retrobulbar Abscess (Rodent),3
+Cholangiohepatitis Syndrome,3
+Liver and Gallbladder Fire Flaring,3
+Green Algae Poisoning,3
+Masticatory Muscle Myositis,3
+Tetracycline Drug Poisoning,3
+Nasosinusitis,3
+Insulinoma,3
+Pending Examination of Bloody Stool,3
+Atrial Fibrillation,3
+Disharmony of ascending and descending functions,3
+Extralocular Myositis,3
+Quadriceps Contracture,3
+Conjunctivitis Associated with Tear Deficiency,3
+Enamel Hypoplasia,3
+Hypercoagulable State,3
+Gastric Nematodiasis,3
+Complex crown fracture,3
+Incarcerated Intestinal Obstruction,3
+Apocrine Cystadenoma,3
+Multiple Myeloma,3
+Axonopathy/Neuronopathy,3
+Polymyxin Poisoning,3
+Hypertrophic Neuropathy,3
+Multiple System Neuronal Degenerative/Dystrophic Disorders,3
+Excessive Heat in the Lung and Stomach,3
+Adrenal Cortex Tumors,3
+Weak Colt,3
+Ichthyosis,3
+Hepatoblastoma,3
+Peter Anomaly,3
+Cutaneous Lupus Erythematosus,3
+Snakebite Envenomation,3
+Secondary Cerebellar Tumor,3
+Histoplasmosis,3
+Hemorrhagic Brain Disease,3
+Canine Spiny Keratocanthoma-Type Ameloblastoma,3
+Reovirus Infection,3
+Deficiency and Decline of Yang Qi,3
+Tumors of the Nasal Cavity and Paranasal Sinuses,3
+Oral Osteosarcoma,3
+Tricuspid Valve Degenerative Disease,3
+Allergic/Eosinophilic Lung Diseases,3
+Hepatic Vacuolar Degeneration,3
+Chororetinitis,3
+Paraneoplastic Cerebellar Degeneration,3
+Posterior Dislocation of the Lens,3
+Paraneoplastic Neurological Disorders,3
+Missing tympanic membrane,3
+Fibrohistiocytic Tumor,3
+Epithelioid Lymphoma,3
+Vitreous Membrane,3
+Tear of the ear canal,3
+Kidney Qi Deficiency,3
+Water Drum,3
+Cutaneous tag,3
+Decayed Shell,3
+Lateral collateral ligament rupture,3
+Chronic Lymphocytic Leukemia,3
+Atrial Wall Tear,3
+Medial Coronoid Process Fracture,3
+Intercondylar Fracture of the Distal Humerus,3
+Damp-Heat Syndrome,3
+Appetite Decrease/Anorexia Under Investigation,3
+Intraoral papilloma,3
+Spleen Deficiency with Phlegm Dampness,3
+Hepatic Failure,3
+Macrodontia,3
+Lacrimal Punctal Occlusion,3
+Hypoplasia of the Optic Nerve,3
+Chronic Lymphocytic Leukemia (CLL),3
+Focal Infectious Myositis,3
+Phaeohyphomycosis,3
+Sinking of Middle Qi,3
+Impacted Tooth,3
+Stomach Qi fails to descend,3
+Mycetoma (Pseudoactinomycotic Mycetoma),3
+Overgrown cheek teeth,3
+Parasitic Dermatitis,3
+Phenol Poisoning,3
+Chylous Ascites,3
+Conical/Spherical Lens,3
+Rhabdomyosarcoma,3
+Progressive Retinal Degeneration,3
+Cutaneous Lymphoma,3
+Myelofibrosis,3
+Postnatal Malnutrition,3
+Trunk Cyclical Alopecia,3
+Nocardiosis,3
+Frostbite,3
+Eclampsia,3
+Gemini teeth,3
+Damp-heat in the lower jiao,3
+Cancer,3
+Pituitary Diseases,3
+Primary Dyskeratosis,3
+MCT LSA,3
+Yangming Fushi Syndrome,3
+Intestinal Wind Injuring the Collaterals,3
+Central Nervous System Tumors,3
+Tumor of the Third Eyelid,3
+Hexamethonium/Hexamethonium Poisoning,3
+Spleen Qi Disharmony,3
+Dentine Tartar,3
+Congenital Lens Dislocation,3
+Tibial Fascia Tensor Muscle Injury,3
+Digestive System Tumors,3
+Lens Injury,3
+Decayed shell,3
+Dampness Obstructing the Defensive Qi,3
+Spleen Failing to Govern Blood,3
+Prostate Cancer,3
+Abnormal inner canthal skin (entropion of the inner canthus),3
+Myopathy (Metabolic),3
+Thoracic wall penetration injury,3
+Salivary Retention Cysts and Mucous Cysts (Salivary Gland Cysts),3
+Epidural tumor,3
+Sebaceous Gland Tumor,3
+Verruca Plana,3
+Jugular veinitis,3
+Class III Malocclusion,3
+Orbital Fracture,3
+Waterlogging and immersion,3
+Hepatic Portal Vein Shunt (Congenital),3
+Sinus Arrest and Sinoatrial Block,3
+Conjunctivitis Associated with Lacrimal Deficiency,3
+Bladder dysplasia,3
+Fibrotic Myopathy,3
+Auricular chondritis,3
+Thymic Lymphoma,3
+Exfoliation of the nail,3
+Cutaneous Angiosarcoma,3
+Rhinosporidiosis,3
+Hepatic Blood Deficiency,3
+Chronic Myeloid Leukemia (CML),3
+Multiple System Neuronal Degenerative Disorders/Dystrophy,3
+Implanted Chip,3
+Blood and Qi rushing upwards,3
+Bouvier des Flandres Laryngeal/Esophageal Dysfunction,3
+Gastrointestinal Cold Syndrome,2
+Endrin Poisoning,2
+Otitis Media with Suppuration,2
+Hansen Type I Intervertebral Disc Herniation,2
+Continuous Ophthalmic Drug Delivery,2
+Cysticercosis,2
+Sinus cyst,2
+Heart and Kidney Yin Deficiency,2
+Immunologically Mediated Dry Eye Disease,2
+Excessive Damp Fire,2
+Band Keratopathy,2
+Foramen Magnum-Related Malformations,2
+Continuous Administration to the Cardiovascular System,2
+Blood Deficiency Generating Wind,2
+Transitional Cell Carcinoma,2
+Ciliary Body Tumor,2
+Cricopharyngeal Paresis/Dysfunction,2
+Injury to the ulnar flexor muscles of the wrist,2
+Sudden Deafness,2
+Horn ulcers,2
+Posterior Elastic Layer Bulging,2
+Laryngeal Tumor,2
+Equine Strangles,2
+Ceruminous Cystadenomatosis,2
+Nasal bleeding,2
+Accumulation and Stagnation,2
+Renal-Associated Encephalopathy,2
+Yang Collapse Syndrome,2
+Idiopathic Aseptic Granuloma and Purulent Granuloma,2
+Lithium Poisoning,2
+Intrahepatic Arteriovenous Malformation,2
+Cushing's Syndrome / Hypercortisolism,2
+Injury from Food and Drink leading to Diarrhea,2
+Non-lymphatic Splenic Sarcoma,2
+Corneal Epithelial Inclusion Cyst,2
+Rupture of the Collateral Ligament,2
+Acetaldehyde Poisoning,2
+Bladder polyp,2
+Pharyngeal/Laryngeal Myositis,2
+Chondroma,2
+Dental Pulp Stone,2
+Aphthous Ulcer,2
+Kidney Deficiency leading to Edema,2
+Bite wound,2
+Pharyngeal Trauma,2
+Intraocular Sarcoma,2
+Oxyuriasis,2
+Sebaceous Gland Adenoma,2
+Calcium-Phosphorus Metabolism Disorder,2
+Transient myocardial hypertrophy,2
+Marine Biotoxin Poisoning,2
+Bladder Dysfunction - Detrusor Hypotonia,2
+Hot strangury,2
+Congenital Uveal Anomalies,2
+Disharmony of Ascending and Descending,2
+Supply-Chain Coordination Committee,2
+Vascular Pseudohemophilia,2
+Hyperplasia of Mammary Glands,2
+Manic Disorder,2
+Cat Pupil Spasm Syndrome,2
+Hypertension of Liver Yang,2
+Hyper viscosity syndrome,2
+Nutritional Myopathy,2
+Salivary Gland Tumor,2
+Senile Iris Atrophy,2
+Aelurostrongylus abstrusus (Feline Lungworm),2
+Congenital Vascular Diseases,2
+Neonatal Horse Hemolytic Disease,2
+Masticatory Myositis / Atrophic Myositis,2
+Methoxyflurane Poisoning,2
+Visual Cortex Lesion,2
+Mediastinitis,2
+Harmless Treatment,2
+Supernumerary Teeth,2
+Nematode Infection of the Eyelid,2
+Hookworm Larva Dermatitis,2
+Use of Interferon Alpha and Interferon Beta,2
+Damp-heat in the bladder,2
+Idiopathic Hyperkeratosis of the Nasal Tip,2
+Small lacrimal punctum,2
+Endocrine-Related Encephalopathy,2
+Crystalline Corneal Opacification,2
+Horn Injury,2
+Folic Acid Deficiency,2
+Mast Cell Tumor (MCT),2
+Hepatic Fire Hyperactivity,2
+Osteomyelitis due to sepsis,2
+Idiopathic Liver Fibrosis,2
+Qi Stagnation and Dampness Obstruction,2
+Squamous Cell Tumor,2
+Liver Channel Wind-Heat,2
+External Auditory Canal Hyperplasia,2
+Rheumatism,2
+Postpartum Milk,2
+Hornet Sting Wound,2
+Evil Invasion and Righteous Collapse,2
+Quadriceps Rigidity,2
+Andromedotoxin Poisoning,2
+Gastrointestinal Dryness and Heat,2
+Liver and Gallbladder Heat Syndrome,2
+Diabetic Retinopathy,2
+Colorectal Tumors,2
+Bark Rot Disease,2
+Heart and Kidney Yang Deficiency,2
+Infraspinatus Tendon Contracture,2
+Punctum Luteum,2
+Rheumatic Muscular Accumulation,2
+Diabetes—Hyperosmolar Coma,2
+Fibrosis Reactive Enteritis,2
+Feather and Feather Follicle Diseases,2
+Feline Atopic Syndrome (FAS),2
+Odontogenic Calcifying Epithelial Tumor,2
+Neuroblastoma,2
+Hepato-Gastric Yin Deficiency,2
+Phlegm-Damp Obstructing the Lung,2
+Leukoderma,2
+Porencephaly,2
+Anal sac adenocarcinoma,2
+TCC (Transaction Coordination Committee),2
+Tularemia,2
+Thermal Bi Syndrome,2
+Aortic Body Tumor,2
+Gingivitis/Periodontitis,2
+Autoimmune Polymyositis,2
+Remote Sensory Motor Neuropathy,2
+Deformation of T-shaped cartilage,2
+Pemphigus Vulgaris,2
+Esophageal stenosis,2
+Clutch Jamming,2
+Atrial Standstill,2
+Aminoglycoside Drug Poisoning,2
+Tumors of the Toe Region,2
+Senile Iridatrophy,2
+Vaginal Malformation,2
+Echinoma,2
+Osteochondrosarcoma of the Extremities,2
+Necrotizing Meningoencephalitis - Cerebral Type,2
+Upper Jiao Heat Stagnation,2
+Pigmentation Abnormalities,2
+Caudal Occipital Malformation Syndrome,2
+Bursal Disease,2
+Limbic Melanocytoma,2
+Heterochromia Iridis,2
+Disappearance of palpebral reflex,2
+Tuberculosis,2
+Vitreoretinal Fibrous Adhesion,2
+Chest Bi-Syndrome,2
+Lumbar Vertebral Fracture,2
+Excessive Summer Heat Penetration,2
+Iridic Melanosis,2
+Phlegm-Damp Stagnation,2
+Qi Stagnation Syndrome,2
+Temporomandibular Joint Locking Syndrome,2
+Horsepox,2
+Lymphocyte-Plasma Cell Periodontitis/Pharyngitis,2
+Pseudoneoplasms (Rodentia),2
+Yin Deficiency with Flaring Fire,2
+Anterior Chamber Hypopyon,2
+Liver and Gallbladder Heat Stagnation,2
+Myeloschisis,2
+Fiber-Reactive Enteritis,2
+Appetite Decrease/Anorexia to be Investigated,2
+Conjunctival injury,2
+Parasitic Encephalopathy,2
+Spinal Arachnoid Diverticulum,2
+"MCT LSA
+
+(Note: ""MCT LSA"" is an abbreviation or specific term that may not have a direct translation. It is often best to keep such terms in their original form to maintain accuracy and avoid misinterpretation. If additional context is provided, a more specific translation or explanation could be given.)",2
+Tarsal Inversion with Trichiasis,2
+Tear Wound of the Ear,2
+Retinal Dysplasia,2
+Conjunctivitis associated with tear deficiency,2
+Chicken Lame,2
+Epidermolysis Bullosa,2
+Hemorrhagic Cerebellar Infarction,2
+Phlegm-Dampness Accumulating in the Lung,2
+Dermal sinus,2
+Internal stagnation of summer heat,2
+Rectovaginal Fistula,2
+Ceruminous adenoma,2
+Hepatocellular Adenoma,2
+Yin Injury and Stomach Collapse,2
+"""Night Blindness""",2
+Penetrating Chest Wall Trauma,2
+Leukocyte Adhesion Deficiency (LAD),2
+Retention and Stagnation,2
+Renal Tubular Acidosis,2
+Flat Wart,2
+Trichinosis,2
+English Springer Spaniel Multisystem Disease,2
+Fusion of tooth roots,2
+Mycetoma (Pseudoactinomycetic Granuloma),2
+Fracture of the nasal bone,2
+Salt poisoning,2
+Phthisis bulbi,2
+Intramedullary Tumor,2
+Senile Iridic Atrophy,2
+Acupuncture Health Care,2
+Dentine Peg,2
+Injury due to Improper Diet leading to Diarrhea,2
+Deficiency Cold Syndrome,2
+Penile Fracture,2
+Fracture of the pedal bone,2
+Retention and stagnation,2
+Gastrinoma,2
+Congenital Misplacement of Lacrimal Puncta and Lacrimal Canaliculi,2
+Intraocular Tumor,2
+Kidney Deficiency and Marrow Depletion,2
+Phlegm-heat obstructing the lung,2
+Choline Deficiency,2
+Hypertensive Liver Yang,2
+Tracheal dysplasia,2
+Intimidated and Timid,2
+Hypopigmentary alopecia,2
+Insufficient Lung Qi,2
+Tonsillar Tumor,2
+Complete Dislocation of the Lens,2
+Visual Center Lesion,1
+Cystadenoma,1
+Externa Parasite Control,1
+Continuous Drug Delivery via the Dermatological System,1
+Cyclic trunk alopecia,1
+Otitis Media with Effusion,1
+"Viral, Rickettsial, and Protozoal Dermatoses",1
+Supraventricular Tachycardia,1
+Cushing's Syndrome/Hyperadrenocorticism,1
+Spleen Deficiency Diarrhea,1
+Lymphoplasmacytic Periodontitis/Pharyngitis,1
+Ganglioneuroma,1
+Penicillamine Poisoning (Penicillin Degradation Product),1
+Cholesterol Deposition in the Eye,1
+Blood Stasis Blocking the Collaterals,1
+Foreign Body in the Nasotracheal Airway,1
+Cutaneous Plasma Cell Tumors,1
+"MCT LSA
+
+(Note: ""MCT LSA"" appears to be an abbreviation or a specific term. Without additional context, it is challenging to provide a precise translation. However, if ""MCT"" refers to ""Medium Chain Triglycerides"" and ""LSA"" refers to a specific context or organization, the translation might remain as ""MCT LSA"" to preserve the original terminology. If more context is provided, a more specific translation can be attempted.)",1
+Interstitial Mesothelioma,1
+Lymphangiosarcoma,1
+Yin Deficiency with Damp-Heat,1
+Spinal Meningocele/Myelomeningocele,1
+Jugular vein inflammation,1
+Iris absence or iris dysplasia,1
+Lung Qi Deficiency,1
+Granulomatous Meningoencephalitis-Cerebellar,1
+Ionophore Drug Poisoning (Salinomycin),1
+Tight Lips Syndrome,1
+Stomach Qi fails to descend.,1
+Oral Papilloma,1
+Sepsis invasion,1
+Excessive FluidAscending,1
+Florida Keratopathy,1
+Left Bundle Branch Block (LBBB),1
+Foreign Body in Nasolacrimal Duct,1
+Corneal Phthisis (Necrotizing Keratitis),1
+Malignant Mesenchymoma,1
+Foreign Body in the Airway,1
+Myopathy (Hereditary X-linked Muscular Dystrophy),1
+Punctal Occlusion,1
+Botulism poisoning,1
+Vitelline Peritonitis,1
+Vesicoureteral Reflux,1
+Poison Hemlock/Deadly Hemlock Plant Poisoning (European Hemlock/European Poison Hemlock),1
+Alveolar bone necrosis,1
+Dysentery due to improper diet,1
+Neuronal Vacuolar Degeneration,1
+Discogenic Spondylitis,1
+Pigmentation Abnormality,1
+Limbic Defect and Staphyloma,1
+Dobermann's Dancing Disease - Peripheral Neuropathy,1
+Hypopigmentation of the Nose,1
+Rhino-mycosis,1
+Leigh's Disease,1
+Urachal Diverticulum of the Bladder,1
+Digitalis intoxication,1
+Third Eyelid Tumor,1
+Spleen Failing to Control Blood,1
+Deficiency of Spleen Yang,1
+Multiple System Neurodegenerative/Dystrophic Lesions,1
+Chondroid Osteoma,1
+Cricopharyngeal Hypomobility/Dysfunction,1
+Lysosomal Storage Disorders - Cerebellar Type,1
+Congenital Lens Malformation,1
+Chicken lame,1
+Upward Rush of Qi and Blood,1
+Persistent Hyperplastic Primary Vitreous/Persistent Hyaloid Vasculature (PHPV/PHTVL),1
+Cerebellar Diseases,1
+Cold-Damp Syndrome,1
+Granulosa Cell Tumor,1
+Phlegm-Retention in the Stomach,1
+Weakness of Heart Yang,1
+Spinal Tumor,1
+Subcutaneous abscess,1
+Nasolacrimal Duct Tumor,1
+Internal Stirring of Liver Wind,1
+Fungal Meningoencephalitis,1
+Tooth Avulsion (Displacement from Alveolar Socket),1
+Blood fails to nourish the tendons,1
+Conjunctival Tumor,1
+Laminitis,1
+Excessive Heat Leading to Flesh Decay,1
+Urinary retention,1
+Cholangioma,1
+Coumarin and Its Derivatives Poisoning,1
+Toxic Infiltration of the Heart and Liver,1
+Cold-Dampness in the Middle Jiao,1
+Wind-Cold Invading the Lung,1
+Cold-Dampness Obstructing the Meridians,1
+Qi and Blood Rushing Upward,1
+Aminoglycoside Antibiotic Poisoning,1
+Infusion,1
+Moldy Corn Poisoning,1
+Goiter,1
+Golden Retriever Myelin Deficient Polyneuropathy,1
+Mycobacterial Disease,1
+Lipogranulomatous Conjunctivitis,1
+Blood Deficiency and Wind Dryness,1
+Ethylene Glycol Poisoning,1
+Sertoli Cell Tumor,1
+Myopathy (Hereditary),1
+Pemphigus foliaceus,1
+Pigmentary Choroidal Retinal Degeneration,1
+Chondritis of the ear,1
+Investigation of bloody stool,1
+Complex crown-root fracture,1
+Lacrimal Sac Atresia,1
+Spleen and Lung Qi Deficiency,1
+Wind-Cold Invasion of the Lung,1
+Adrenal Cortex Tumor,1
+Malocclusion of Incisors/Overgrown Incisors (Rodentia),1
+Rushing of Qi and Blood,1
+Wind-Cold Binding the Lung,1
+Germinoma,1
+Pleuropneumonia,1
+Liver Failure,1
+Capsular Eye,1
+Sick Sinus Syndrome,1
+Neonatal Hemolytic Disease,1
+Dental pulp stone,1
+Model Alopecia Areata,1
+Locking anus,1
+Allergic Pneumonitis,1
+Vitamin E Deficiency,1
+Tooth Fusion,1
+Ureteral Tumor,1
+Cyclical Truncal Alopecia,1
+Bacterial Dermatosis,1
+Lacrimal Duct Cyst,1
+Limbic Melanoma,1
+Chondroid Osteochondroma,1
+Iliac Fracture,1
+Uveal Melanoma,1
+Damp-heat in the liver and gallbladder,1
+Dampness-Heat in the Liver and Gallbladder,1
+Yin Deficiency of the Heart and Kidney,1
+Bilateral Degenerative Atrioventricular Valve Disease,1
+Glycogen Storage Disease (Glycogen Metabolism Disorder),1
+Continuous Administration to the Digestive System,1
+Dysfunction of Lung in Dispersing andDescending,1
+Degenerative Vitreous Opacities,1
+Visual Center Lesions,1
+Iodine Metabolism Disorders,1
+Naso-oral fistula,1
+Cholangiocarcinoma,1
+Temporomandibular Ankylosis,1
+Small crystalline bodies,1
+Remote Sensory-Motor Neuropathy,1
+Entropion with Nasal Fold,1
+Undifferentiated Carcinoma,1
+Tibialis Anterior Muscle Injury,1
+Internal Obstruction of Cold-Dampness,1
+Salivary Gland Cancer,1
+Hypopituitarism,1
+Hyperandrogenism,1
+Necrotizing Meningoencephalitis-Cerebral Type,1
+Humerus Fracture,1
+Weak Spleen Qi,1
+Schnauzer Comedone Syndrome,1
+Inflammatory polyp,1
+Osteochondroma,1
+Myoblastoma,1
+Bacterial Dermatoses,1
+Fibrosis-Associated Reactive Enteritis,1
+Fibro reactive enteritis,1
+Xu Bi (Deficiency-type Bi Syndrome),1
+Progressive Rod-Cone Dystrophy,1
+Nodular opacity,1
+Root Fracture,1
+Feline Herpesvirus Infection (Deleted),1
+Infraspinatus Muscle Contracture,1
+Giardia,1
+Hereditary Retinal Dysplasia,1
+Locking Anus,1
+Dampness-Heat in the Gastrointestinal Tract,1
+Hamartoma,1
+Liver and Stomach Yin Deficiency,1
+Beak Diseases,1
+Parathyroid Tumor,1
+Food Poisoning from Spoiled Food,1
+Stasis Obstructing the Brain Collaterals,1
+Copper Poisoning,1
+Taurine Deficiency Retinopathy,1
+Coccygeal Fracture,1
+Electrical Shock,1
+Lens Defect,1
+Blood Heat Stagnation,1
+Aortic Valve Dysplasia,1
+Qi Reversal Syndrome,1
+Folate Deficiency,1
+MCT (Medium-chain Triglycerides),1
+Endoparasite control,1
+Hornet sting injury,1
+Dryness and stagnation of heat in the lungs,1
+Intestinal parasitic infestation,1
+Kidney Deficiency and Water Overflow,1
+Sinus arrest and sinoatrial block,1
+Endoparasite Control,1
+Aniridia/Iris Hypoplasia,1
+Dryness Pathogen Injuring the Lung,1
+Coumarin and its derivatives poisoning,1
+Iron Metabolism Disorders,1
+Yangming Excessive Heat,1
+Epidural Spinal Tumor,1
+Nonunion of the olecranon process,1
+High Viscosity Retinal Dysplasia,1
+Orbital Fat Prolapse,1
+Goiter or Thyroid Nodule,1
+Nodular Granulomatous Superficial Scleritis,1
+Inapparent Fever,1
+Lupus-like nail dystrophy,1
+Vecuronium Bromide Poisoning,1
+Intimidated and Timorous,1
+Split hoof,1
+Urethral calculus,1
+Juvenile Foal Colibacillosis,1
+Chronic pharyngitis,1
+Atrial Wall Rupture,1
+Habitual Squint,1
+Use of Interferon α and Interferon β,1
+Mycobacteriosis,1
+Dampness-Heat,1
+Qi Deficiency Syndrome,1
+Leukocytoclastic Vasculitis,1
+Mesenteric Volvulus/Intestinal Volvulus,1
+Acute Torsades de Pointes Ventricular Arrhythmia,1
+Small crystallites,1
+Red Eye of Heaven,1
+Primary Retinal Tumor,1
+Spontaneous Self-Mutilation,1
+Pending Investigation of Neurological Disorders,1
+Neurogenic Self-Induced Alopecia,1
+Oral Malignant Melanoma,1
+Coumarin and its Derivatives Poisoning,1
+Nasal Fold Trichiasis,1
+Yang Deficiency with Cold Stagnation,1
+Hair mite,1
+Nutritional Metabolic Retinopathy,1
+Vitreous Trauma,1
+Insufficiency of Kidney Qi,1
+Impaired Lung Collateral Flow,1
+Congenital Deficiency,1
+Wind-Heat and Blood Dryness,1
+Health and Safety Authority,1
+Elliptical Lipid Corneal Degeneration,1
+Equine Influenza,1
+"Multiple Exostoses (Hereditary Multiple Exostoses, HME)",1
+Lung Qi Fails to Disperse and Descend,1
+Lysosomal Storage Disorders - Spinal Cord,1
+African Horse Sickness,1
+Congenital Myotonia,1
+Summer Pestilence,1
+Lacrimal Gland Tumor,1
+Vitamin B6 Toxicity,1
+Abnormal inner canthal skin (caruncle trichiasis),1
+Necrotizing Meningoencephalitis-Cerebellar Type,1
+Pulp Calcification,1
+Vitiligo,1
+Wall Sporulation Mycosis,1
+Liver Qi Attacking the Stomach,1
+Nasolacrimal duct obstruction,1
+Fibro Reactive Enteritis,1
+Dental Dysplasia,1
+Lung Qi not diffused,1
+Malignant Peripheral Nerve Sheath Tumor (MPNST),1
+Extrabulbar Myositis,1
+Esophageal Tumors,1
+Obstructive Pain,1
+Damp-heat accumulation,1
+Dental dysplasia,1
+Feather Picking,1
+Selenium Poisoning,1
+Punctum Lacomme,1
+Melancholy affects the spirit.,1
+Cold-Damp Obstruction of the Meridians,1
+Zygomatic Bone Fracture,1
+Excessive Heat Leads to Flesh Decay,1
+Heart-Kidney Yang Deficiency,1
+Congenital Glaucoma,1
+Dilated cardiomyopathy,1
+Rottweiler Distal Myopathy,1
+Timid and apprehensive,1
+"MCT LSA
+
+(Note: ""MCT LSA"" is an abbreviation that may stand for specific terms in a particular context. Without additional context, it is challenging to provide a precise translation. However, if ""MCT"" refers to ""Medium Chain Triglycerides"" and ""LSA"" refers to a specific type of analysis or component, a possible translation could be ""Medium Chain Triglycerides Linear Sweep Analysis"" or similar, depending on the context. Please provide more details for a more accurate translation.)",1
+Acute Myeloid Leukemia (AML),1
+Injury to the Flexor Carpi Ulnaris Muscle,1
+Parascaridiasis equi,1
+Hypopigmentation of the nose,1
+Blood Stasis and Obstruction,1
+Hair Mites,1
+Parasitic Myocarditis,1
+Electrolyte-Associated Encephalopathy,1
+Lesions of the Visual Center,1
+Compressive Hydrated Nucleus Pulposus Extrusion,1
+Hypoplasia or Defect of Posterior Articular Processes,1
+Neurofibrosarcoma,1
+Coagulation Factor Deficiency,1
+Narrow palpebral fissure,1
+Spleen and Heart Deficiency,1
+Obstructive Laryngitis,1
+Appetite Loss/Anorexia Under Investigation,1
+Incomplete involution of the placental site,1
+Jugular phlebitis,1
+Collie Eye Anomaly,1
+Deficiency of Qi and Blood,1
+Visual Cortex Lesions,1
+Ornithosis,1
+Gastrointestinal Disorders in Cold Weather,1
+Salivary Retention Cysts and Mucinous Cysts (Salivary Gland Cysts),1
+Congenital Scleral Defect,1
+Iris freckle,1
+Anterior Uveal Tumor,1
+Pending Examination for Bloody Stool,1
+Meniscus and Meniscal Ligament Injuries,1
+Blood Deficiency Syndrome,1
+Undifferentiated carcinoma,1
+The upward perversion of pathogenic fluid,1
+Blood Heat Syndrome,1
+"Paroxysmal Muscular Rigidity (""Spasm"")",1
+Monocytic Tumor,1
+Exoparasite Control,1
+Patent Ductus Arteriosus with Pulmonary Hypertension,1
+Calcium Deposition in the Skin,1
+Melanotic Glaucoma,1
+Dihydro-β-erythroidine Poisoning (alkaloid extracted from the seeds of Erythrina plants),1
+Blood Stasis Syndrome,1
+"Polyarthritis, erosive, immune-mediated",1
+Juvenile Foal Rhodococcus equi Pneumonia,1
+Penicillamine Drug Poisoning (Penicillin Degradation Product),1
+Aseptic Eosinophilic Pustulosis,1
+Roundworm Infection,1
+Phlegm-turbidity obstruction,1
+Hyperactive Liver Fire,1
+**Horse Mange**,1
+Exfoliative Cutaneous Lupus Erythematosus (ECLE),1
+Atrial Flutter,1
+Verruca vulgaris,1
+Synovial Sarcoma,1
+Polyostotic Osteomyelitis,1
+Hookworm Larva Migrans Dermatitis,1
+Heat Accumulation and Collateral Stasis,1
+Other Skin Tumors,1
+Benign Melanoma,1
+Intraocular Myiasis,1
+Wall Sporulation Fungus Disease,1
+"MCT LSA
+
+(Note: ""MCT LSA"" appears to be an abbreviation or specific term. Without additional context, it is challenging to provide a precise translation. However, if ""MCT"" stands for ""Medium Chain Triglycerides"" and ""LSA"" stands for ""Linseed, Sunflower, and Almond,"" a possible translation could be:
+
+""Medium Chain Triglycerides Linseed, Sunflower, and Almond"")
+
+If this interpretation is incorrect, please provide more context for a more accurate translation.",1
+Osteopathy,1
+Retinopathy of Prematurity (ROP),1
+Taurine Deficiency,1
+Small Intestinal Fibrosarcoma,1
+Carbuncle Disease,1
+Tympanitis,1
+Simple Crown Fracture,1
+Rickettsial Conjunctivitis,1
+Blood Heat Injuring the Collaterals,1
+Uterine Atony,1
+Infective Myocarditis,1
+Cold and Dampness Coexist with Equal Emphasis,1
+Parasitic Keratitis,1
+Continuous Drug Administration via the Ear System,1
+Amniotic Fluid Embolism,1
+Dampness Stagnating the Spleen and Stomach,1
+Chicken Limping,1
+Secondary Iridial Atrophy,1
+Spleen Qi Deficiency with Sinking Qi,1
+Cerebellar Cortical Dysplasia,1
+Chicken Claws,1
+Fibrotic-type Myopathy,1
+Right Bundle Branch Block,1
+"Dampness, Heat, and Blood Stasis",1
+Hepatosplenic Blood Stasis,1
+Yin Deficiency and Lung Dryness,1
+Bog Spavin,1
+Wind-Cold-Dampness Obstruction,1
+Subarachnoid Spinal Canal Tumor,1
+Lung Heat and Fluid Injury,1
+Attack of Warm Toxin on the Exterior,1
+Cutaneous Metastatic Tumors,1
+Posterior Capsular Opacification (PCO),1
+Tooth Edge-to-Edge Occlusion,1
+Iron Poisoning,1
+Infectious Dysentery,1
+Blood Stasis Obstructing the Diaphragm,1
+Zinc-Responsive Dermatosis,1
+Ocular Palpebral Disorders,1
+Yin Deficiency with Heat Stagnation,1
+Phimosis,1
+Medial Canthal Pocket Syndrome,1
+Vesicular eye,1
+Bilateral Atrioventricular Valve Degenerative Disease,1
+Dampness-Heat in the Stomach and Intestines,1
+Pulp mineralization,1
+Hyperplastic Necrotizing Otitis,1
+Uterine Tumors,1
+Goiter or Tumor,1
+Quinine/Cinchona Alkaloid Drug Poisoning,1
+Lipoma/Infiltrating Lipoma/Liposarcoma,1
+Neuronal Axonal Dysplasia,1
+Abnormal medial canthal skin (caruncle trichiasis),1
+Nonunion of the Olecranon Process,1
+Periapical Abscess,1
+Ear Louse,1
+Reentrant Supraventricular Arrhythmia,1
+Polymicrogyria,1
+"Sifan Feng (a traditional Chinese term referring to a condition characterized by skin eruptions, often used in traditional Chinese medicine)",1
+Palpebral Trauma,1
+Cutaneous Plasma Cell Tumor,1
+Biliary Tract Tumors,1
+Avulsion of the lateral or medial head of the gastrocnemius muscle,1
+Syndrome of Concurrent Wei Qi Disorder,1

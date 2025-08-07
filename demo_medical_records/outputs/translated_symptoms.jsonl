@@ -1,0 +1,456 @@
+{"english": "Skin lesions", "chinese": "皮肤损伤"}
+{"english": "Abscesses", "chinese": "脓肿"}
+{"english": "Pleuritis", "chinese": "胸膜炎"}
+{"english": "Peritonitis", "chinese": "腹膜炎"}
+{"english": "intense abdominal pain", "chinese": "剧烈腹痛"}
+{"english": "tense abdomen", "chinese": "紧张腹部"}
+{"english": "hunched posture", "chinese": "拱背姿势"}
+{"english": "vomiting", "chinese": "呕吐"}
+{"english": "diarrhea", "chinese": "腹泻"}
+{"english": "pale mucous membranes", "chinese": "苍白黏膜"}
+{"english": "tachycardia", "chinese": "心动过速"}
+{"english": "tachypnea", "chinese": "呼吸急促"}
+{"english": "distended abdomen", "chinese": "腹部膨胀"}
+{"english": "restlessness", "chinese": "烦躁不安"}
+{"english": "splinting the abdomen", "chinese": "腹部固定"}
+{"english": "Frequent, small volumes of semi-formed to liquid stool", "chinese": "频繁、少量半成形至液态粪便"}
+{"english": "Straining", "chinese": "用力排便"}
+{"english": "Cramping", "chinese": "绞痛"}
+{"english": "Urgency to defecate", "chinese": "排便急迫"}
+{"english": "Lethargy", "chinese": "嗜睡"}
+{"english": "Anorexia", "chinese": "厌食"}
+{"english": "Dehydration", "chinese": "脱水"}
+{"english": "Mucus in stool", "chinese": "粪便中有粘液"}
+{"english": "Fresh blood in stool", "chinese": "粪便中有新鲜血液"}
+{"english": "Tenesmus", "chinese": "便秘"}
+{"english": "dry oral mucous membranes", "chinese": "口腔粘膜干燥"}
+{"english": "prolonged skin tenting", "chinese": "皮肤弹性差"}
+{"english": "weak peripheral pulses", "chinese": "外周脉搏弱"}
+{"english": "Nausea", "chinese": "恶心"}
+{"english": "Fever", "chinese": "发热"}
+{"english": "Decreased appetite", "chinese": "食欲减退"}
+{"english": "coughing", "chinese": "咳嗽"}
+{"english": "sneezing", "chinese": "打喷嚏"}
+{"english": "nasal discharge", "chinese": "鼻分泌物"}
+{"english": "dyspnea", "chinese": "呼吸困难"}
+{"english": "respiratory distress", "chinese": "呼吸窘迫"}
+{"english": "wheezing", "chinese": "哮鸣"}
+{"english": "weight loss", "chinese": "体重减轻"}
+{"english": "swelling at the infection site", "chinese": "感染部位肿胀"}
+{"english": "lameness", "chinese": "跛行"}
+{"english": "difficulty eating", "chinese": "进食困难"}
+{"english": "subcutaneous swellings", "chinese": "皮下肿胀"}
+{"english": "pus drainage", "chinese": "脓液引流"}
+{"english": "foul odor", "chinese": "恶臭"}
+{"english": "pain", "chinese": "疼痛"}
+{"english": "necrotizing wounds", "chinese": "坏死性伤口"}
+{"english": "joint pain", "chinese": "关节疼痛"}
+{"english": "polyarthritis", "chinese": "多关节炎"}
+{"english": "epistaxis", "chinese": "鼻出血"}
+{"english": "petechiae", "chinese": "瘀点"}
+{"english": "bloody nose", "chinese": "流鼻血"}
+{"english": "dark bloody stool", "chinese": "暗红色血便"}
+{"english": "bruising", "chinese": "淤青"}
+{"english": "wobbly gait", "chinese": "蹒跚步态"}
+{"english": "seizures", "chinese": "癫痫发作"}
+{"english": "thrombocytopenia", "chinese": "血小板减少症"}
+{"english": "inappetence", "chinese": "食欲不振"}
+{"english": "weakness", "chinese": "虚弱"}
+{"english": "thin, dull coat", "chinese": "毛发稀疏、无光泽"}
+{"english": "anemia", "chinese": "贫血"}
+{"english": "Rapid swelling", "chinese": "迅速肿胀"}
+{"english": "Erythema", "chinese": "红斑"}
+{"english": "Pruritus", "chinese": "瘙痒"}
+{"english": "Failure to thrive", "chinese": "发育不良"}
+{"english": "Pot-bellied appearance", "chinese": "酒桶肚外观"}
+{"english": "Intestinal blockage", "chinese": "肠梗阻"}
+{"english": "Pneumonia", "chinese": "肺炎"}
+{"english": "Liver damage", "chinese": "肝损伤"}
+{"english": "Enlarged lymph nodes or spleen", "chinese": "淋巴结或脾脏肿大"}
+{"english": "Dark-colored urine", "chinese": "深色尿液"}
+{"english": "Jaundice", "chinese": "黄疸"}
+{"english": "Discolored stool", "chinese": "大便颜色异常"}
+{"english": "Pica", "chinese": "异食癖"}
+{"english": "Respiratory signs", "chinese": "呼吸道症状"}
+{"english": "early morning vomiting of bile", "chinese": "清晨呕吐胆汁"}
+{"english": "vomiting yellow or green fluid", "chinese": "呕吐黄色或绿色液体"}
+{"english": "excessive drooling", "chinese": "过度流涎"}
+{"english": "licking of the lips", "chinese": "舔嘴唇"}
+{"english": "Noisy breathing", "chinese": "呼吸有杂音"}
+{"english": "Exercise intolerance", "chinese": "运动不耐受"}
+{"english": "Overheating", "chinese": "过热"}
+{"english": "Collapse", "chinese": "崩溃"}
+{"english": "Panting", "chinese": "喘息"}
+{"english": "Gagging", "chinese": "作呕"}
+{"english": "Retching", "chinese": "干呕"}
+{"english": "Late-term abortion", "chinese": "晚期流产"}
+{"english": "Stillborn puppies", "chinese": "死胎幼犬"}
+{"english": "Abnormally sized testicles", "chinese": "睾丸大小异常"}
+{"english": "Infertility", "chinese": "不育"}
+{"english": "Uveitis", "chinese": "葡萄膜炎"}
+{"english": "Diskospondylitis", "chinese": "椎间盘炎"}
+{"english": "chronic cough", "chinese": "慢性咳嗽"}
+{"english": "dry or harsh cough", "chinese": "干咳或刺耳咳嗽"}
+{"english": "breathing difficulties", "chinese": "呼吸困难"}
+{"english": "deep or throaty cough", "chinese": "深咳或喉部咳嗽"}
+{"english": "excessive mucus production", "chinese": "过度黏液分泌"}
+{"english": "crackles", "chinese": "啰音"}
+{"english": "sinus arrhythmia", "chinese": "窦性心律不齐"}
+{"english": "Ocular discharge", "chinese": "眼分泌物"}
+{"english": "Gastrointestinal issues", "chinese": "胃肠道问题"}
+{"english": "Neurological complications", "chinese": "神经系统并发症"}
+{"english": "Muscle twitching", "chinese": "肌肉抽搐"}
+{"english": "Incoordination", "chinese": "协调障碍"}
+{"english": "Paralysis", "chinese": "麻痹"}
+{"english": "Hard pad disease", "chinese": "硬垫病"}
+{"english": "inappropriate vocalization", "chinese": "不适当发声"}
+{"english": "blindness", "chinese": "失明"}
+{"english": "conjunctivitis", "chinese": "结膜炎"}
+{"english": "corneal edema", "chinese": "角膜水肿"}
+{"english": "dendritic corneal ulcers", "chinese": "树枝状角膜溃疡"}
+{"english": "vesicular vaginitis", "chinese": "水泡性阴道炎"}
+{"english": "posthitis", "chinese": "包皮炎"}
+{"english": "stillborn litter", "chinese": "死胎窝"}
+{"english": "goose honk cough", "chinese": "鹅鸣样咳嗽"}
+{"english": "productive cough", "chinese": "有痰咳嗽"}
+{"english": "rapid or labored breathing", "chinese": "呼吸急促或呼吸困难"}
+{"english": "lack of energy", "chinese": "乏力"}
+{"english": "leukopenia", "chinese": "白细胞减少症"}
+{"english": "hypoproteinemia", "chinese": "低蛋白血症"}
+{"english": "hypoglycemia", "chinese": "低血糖症"}
+{"english": "nonhemorrhagic diarrhea", "chinese": "非出血性腹泻"}
+{"english": "depression", "chinese": "抑郁"}
+{"english": "Failure to grow or gain weight", "chinese": "生长或增重失败"}
+{"english": "Irritability", "chinese": "易怒"}
+{"english": "Shaggy or poor coat condition", "chinese": "毛发蓬乱或状况不佳"}
+{"english": "Visible segments in feces or around the anus", "chinese": "粪便中或肛门周围可见节段"}
+{"english": "Hypovolemia", "chinese": "低血容量"}
+{"english": "Pleural effusions", "chinese": "胸腔积液"}
+{"english": "Soft tissue swelling", "chinese": "软组织肿胀"}
+{"english": "Muffled heart and lung sounds", "chinese": "心肺音减弱"}
+{"english": "Subcutaneous emphysema", "chinese": "皮下气肿"}
+{"english": "Increased thirst", "chinese": "渴感增加"}
+{"english": "Increased urination", "chinese": "排尿增加"}
+{"english": "Ileus", "chinese": "肠梗阻"}
+{"english": "Leukocytosis", "chinese": "白细胞增多症"}
+{"english": "Elevated liver enzymes", "chinese": "肝酶升高"}
+{"english": "Fibrosis", "chinese": "纤维化"}
+{"english": "Atrophy", "chinese": "萎缩"}
+{"english": "Adhesions", "chinese": "粘连"}
+{"english": "Lymphoplasmacytic inflammation", "chinese": "淋巴浆细胞性炎症"}
+{"english": "Difficulty breathing", "chinese": "呼吸困难"}
+{"english": "edema", "chinese": "水肿"}
+{"english": "mucousy diarrhea", "chinese": "粘液性腹泻"}
+{"english": "Mucosal bleeding", "chinese": "黏膜出血"}
+{"english": "Nosebleeds", "chinese": "鼻出血"}
+{"english": "Gum bleeding", "chinese": "牙龈出血"}
+{"english": "Prolonged bleeding from minor wounds", "chinese": "小伤口长时间出血"}
+{"english": "Internal bleeding", "chinese": "内出血"}
+{"english": "Spontaneous bruising", "chinese": "自发性瘀伤"}
+{"english": "Life-threatening hemorrhage", "chinese": "威胁生命的出血"}
+{"english": "hemorrhage", "chinese": "出血"}
+{"english": "nervous system signs", "chinese": "神经系统症状"}
+{"english": "Blue-tinged gums", "chinese": "蓝色牙龈"}
+{"english": "Fainting", "chinese": "昏厥"}
+{"english": "ascites", "chinese": "腹水"}
+{"english": "Nasal swelling and masses", "chinese": "鼻部肿胀和肿块"}
+{"english": "Neurological signs", "chinese": "神经症状"}
+{"english": "Fluid loss", "chinese": "液体流失"}
+{"english": "Food intolerance", "chinese": "食物不耐受"}
+{"english": "Apathy", "chinese": "冷漠"}
+{"english": "subcutaneous swelling with a central breathing pore", "chinese": "皮下肿胀伴中央呼吸孔"}
+{"english": "neurological disease", "chinese": "神经系统疾病"}
+{"english": "abnormal mentation", "chinese": "异常精神状态"}
+{"english": "crusty, scabby lesions", "chinese": "结痂、鳞屑性病变"}
+{"english": "matted hair", "chinese": "打结毛发"}
+{"english": "gray-yellow, circular crusts", "chinese": "灰黄色圆形结痂"}
+{"english": "hair loss", "chinese": "脱毛"}
+{"english": "redness", "chinese": "红斑"}
+{"english": "increased appetite", "chinese": "食欲增加"}
+{"english": "persistent hyperglycemia", "chinese": "持续性高血糖"}
+{"english": "glucosuria", "chinese": "葡萄糖尿"}
+{"english": "cataracts", "chinese": "白内障"}
+{"english": "hepatomegaly", "chinese": "肝肿大"}
+{"english": "difficulty swallowing", "chinese": "吞咽困难"}
+{"english": "regurgitation", "chinese": "反流"}
+{"english": "dysphagia", "chinese": "吞咽障碍"}
+{"english": "debilitation", "chinese": "衰弱"}
+{"english": "aspiration pneumonia", "chinese": "吸入性肺炎"}
+{"english": "hypertrophic osteopathy", "chinese": "肥大性骨病"}
+{"english": "Burping or gurgling after eating", "chinese": "进食后打嗝或咕噜声"}
+{"english": "Bad smelling breath", "chinese": "口臭"}
+{"english": "Coughing up small amounts of vomit", "chinese": "咳出少量呕吐物"}
+{"english": "Ptyalism", "chinese": "流涎"}
+{"english": "Excessive swallowing", "chinese": "过度吞咽"}
+{"english": "cyclic fever", "chinese": "周期性发热"}
+{"english": "acholic feces", "chinese": "无胆汁粪便"}
+{"english": "bleeding tendencies", "chinese": "出血倾向"}
+{"english": "vitamin K deficiency", "chinese": "维生素K缺乏"}
+{"english": "GI ulceration", "chinese": "消化道溃疡"}
+{"english": "Dramatic weight loss", "chinese": "明显体重减轻"}
+{"english": "Pallor", "chinese": "苍白"}
+{"english": "Neck ventriflexion", "chinese": "颈部前屈"}
+{"english": "Gastroparesis", "chinese": "胃轻瘫"}
+{"english": "red eyes", "chinese": "红眼"}
+{"english": "swollen lymph nodes", "chinese": "肿大的淋巴结"}
+{"english": "neurological dysfunction", "chinese": "神经功能障碍"}
+{"english": "cardiovascular diseases", "chinese": "心血管疾病"}
+{"english": "muscle pain", "chinese": "肌肉疼痛"}
+{"english": "eye inflammation", "chinese": "眼部炎症"}
+{"english": "endocarditis", "chinese": "心内膜炎"}
+{"english": "myocarditis", "chinese": "心肌炎"}
+{"english": "nasal congestion", "chinese": "鼻塞"}
+{"english": "eye discharge", "chinese": "眼分泌物"}
+{"english": "Oral ulcers", "chinese": "口腔溃疡"}
+{"english": "Joint inflammation", "chinese": "关节炎"}
+{"english": "limping", "chinese": "跛行"}
+{"english": "swelling in the face/legs", "chinese": "面部/腿部肿胀"}
+{"english": "skin wounds", "chinese": "皮肤伤口"}
+{"english": "vasculitis", "chinese": "血管炎"}
+{"english": "Watery eyes", "chinese": "流泪"}
+{"english": "Fluid accumulation", "chinese": "液体积聚"}
+{"english": "Congestion", "chinese": "充血"}
+{"english": "increased respiratory effort", "chinese": "呼吸费力"}
+{"english": "open-mouth breathing", "chinese": "张口呼吸"}
+{"english": "ocular disease", "chinese": "眼部疾病"}
+{"english": "urination", "chinese": "排尿"}
+{"english": "vision problems", "chinese": "视力问题"}
+{"english": "changes in behavior", "chinese": "行为改变"}
+{"english": "Granulomas of the skin and subcutis", "chinese": "皮肤和皮下肉芽肿"}
+{"english": "Localized nodular lesions", "chinese": "局限性结节性病变"}
+{"english": "Ulcerated lesions", "chinese": "溃疡性病变"}
+{"english": "Generalized skin involvement", "chinese": "全身性皮肤受累"}
+{"english": "dysuria", "chinese": "排尿困难"}
+{"english": "hematuria", "chinese": "血尿"}
+{"english": "periuria", "chinese": "尿频"}
+{"english": "pollakiuria", "chinese": "频尿"}
+{"english": "stranguria", "chinese": "滞尿"}
+{"english": "hypothermia", "chinese": "低体温"}
+{"english": "septic shock", "chinese": "败血症性休克"}
+{"english": "disseminated intravascular coagulation", "chinese": "弥散性血管内凝血"}
+{"english": "sudden death", "chinese": "猝死"}
+{"english": "cerebellar hypoplasia", "chinese": "小脑发育不全"}
+{"english": "Rhinitis", "chinese": "鼻炎"}
+{"english": "Mouth inflammation", "chinese": "口腔炎"}
+{"english": "Corneal ulceration", "chinese": "角膜溃疡"}
+{"english": "extreme sensitivity or hypersensitivity in skin", "chinese": "皮肤极度敏感或超敏反应"}
+{"english": "dilated pupils", "chinese": "瞳孔扩大"}
+{"english": "excessive grooming or scratching", "chinese": "过度梳理或抓挠"}
+{"english": "aggressive behaviors", "chinese": "攻击行为"}
+{"english": "compulsive licking or biting of paws", "chinese": "强迫性舔咬爪子"}
+{"english": "frantic scratching, biting, or grooming", "chinese": "狂乱抓挠、咬或梳理"}
+{"english": "signs of apparent pain or irritation when petted", "chinese": "被抚摸时明显的疼痛或不适迹象"}
+{"english": "Paradoxical motion", "chinese": "矛盾运动"}
+{"english": "nonproductive retching", "chinese": "无效干呕"}
+{"english": "hypersalivation", "chinese": "过度流涎"}
+{"english": "enlarged abdomen", "chinese": "腹部增大"}
+{"english": "tympanic abdomen", "chinese": "鼓音腹部"}
+{"english": "splenomegaly", "chinese": "脾肿大"}
+{"english": "prolonged capillary refill time", "chinese": "毛细血管再充盈时间延长"}
+{"english": "irregular heart rate", "chinese": "心率不齐"}
+{"english": "pulse deficits", "chinese": "脉搏缺失"}
+{"english": "red or bright pink gums", "chinese": "红色或鲜红色牙龈"}
+{"english": "breathing problems", "chinese": "呼吸问题"}
+{"english": "hematemesis", "chinese": "呕血"}
+{"english": "shock", "chinese": "休克"}
+{"english": "sepsis", "chinese": "败血症"}
+{"english": "odynophagia", "chinese": "吞咽痛"}
+{"english": "electrolyte abnormalities", "chinese": "电解质异常"}
+{"english": "chronic diarrhea", "chinese": "慢性腹泻"}
+{"english": "steatorrhea", "chinese": "脂肪泻"}
+{"english": "fatty stool", "chinese": "脂肪便"}
+{"english": "foul-smelling stool", "chinese": "恶臭便"}
+{"english": "villous atrophy", "chinese": "绒毛萎缩"}
+{"english": "cuboidal enterocytes", "chinese": "立方上皮肠细胞"}
+{"english": "Coagulopathy", "chinese": "凝血病"}
+{"english": "Agitation", "chinese": "兴奋不安"}
+{"english": "Mental confusion", "chinese": "精神混乱"}
+{"english": "Dizziness", "chinese": "头晕"}
+{"english": "Mental dullness", "chinese": "精神迟钝"}
+{"english": "Cool skin", "chinese": "皮肤冰冷"}
+{"english": "blood within the pleural cavity", "chinese": "胸腔积血"}
+{"english": "weak and rapid pulse", "chinese": "脉搏微弱且快速"}
+{"english": "increased thirst and urination", "chinese": "渴感增加和尿量增多"}
+{"english": "fluid buildup in the abdomen", "chinese": "腹腔积液"}
+{"english": "confusion or behavioral changes", "chinese": "混乱或行为改变"}
+{"english": "bleeding problems", "chinese": "出血问题"}
+{"english": "hepatic encephalopathy", "chinese": "肝性脑病"}
+{"english": "head pressing", "chinese": "头部按压"}
+{"english": "aimless wandering", "chinese": "无目的游荡"}
+{"english": "coma", "chinese": "昏迷"}
+{"english": "ataxia", "chinese": "共济失调"}
+{"english": "disorientation", "chinese": "迷向"}
+{"english": "vacuoles", "chinese": "空泡"}
+{"english": "elevated alkaline phosphatase levels", "chinese": "碱性磷酸酶水平升高"}
+{"english": "Swiss cheese appearance on ultrasound", "chinese": "超声波下瑞士奶酪样外观"}
+{"english": "muscle atrophy", "chinese": "肌肉萎缩"}
+{"english": "mucopurulent ocular discharge", "chinese": "黏脓性眼分泌物"}
+{"english": "elevated neutrophil counts", "chinese": "中性粒细胞计数升高"}
+{"english": "peripheral lymphadenopathy", "chinese": "外周淋巴结病"}
+{"english": "ocular lesions", "chinese": "眼部病变"}
+{"english": "pyrexia", "chinese": "发热"}
+{"english": "large bowel diarrhea", "chinese": "大肠腹泻"}
+{"english": "hematochezia", "chinese": "便血"}
+{"english": "protein-losing enteropathy", "chinese": "蛋白丢失性肠病"}
+{"english": "chorioretinitis", "chinese": "脉络膜视网膜炎"}
+{"english": "retinal detachment", "chinese": "视网膜脱离"}
+{"english": "dark, tarry diarrhea", "chinese": "黑色柏油样腹泻"}
+{"english": "respiratory issues", "chinese": "呼吸问题"}
+{"english": "dermatitis", "chinese": "皮炎"}
+{"english": "red, itchy skin lesions", "chinese": "红色瘙痒性皮肤损害"}
+{"english": "thin skin", "chinese": "薄皮"}
+{"english": "weight gain", "chinese": "体重增加"}
+{"english": "fragile skin that bruises easily", "chinese": "易瘀伤的脆弱皮肤"}
+{"english": "Lipemia", "chinese": "脂血症"}
+{"english": "unconsciousness", "chinese": "昏迷"}
+{"english": "shivering", "chinese": "寒战"}
+{"english": "fasciculations", "chinese": "肌束震颤"}
+{"english": "syncope", "chinese": "晕厥"}
+{"english": "somnolence", "chinese": "嗜睡"}
+{"english": "Altered mentation and behavior", "chinese": "精神和行为改变"}
+{"english": "Bradycardia", "chinese": "心动过缓"}
+{"english": "Visual impairment", "chinese": "视力障碍"}
+{"english": "Star-gazing", "chinese": "仰头症"}
+{"english": "Severe hypoalbuminemia", "chinese": "重度低白蛋白血症"}
+{"english": "Coagulopathies", "chinese": "凝血功能障碍"}
+{"english": "Fatigue", "chinese": "疲劳"}
+{"english": "Decreased desire to exercise", "chinese": "运动欲望减退"}
+{"english": "Cold intolerance", "chinese": "寒冷不耐受"}
+{"english": "Excessive shedding", "chinese": "过度脱毛"}
+{"english": "Low blood pressure", "chinese": "低血压"}
+{"english": "Shallow breathing", "chinese": "浅呼吸"}
+{"english": "Collapsed state", "chinese": "虚脱状态"}
+{"english": "vomiting blood", "chinese": "呕血"}
+{"english": "hemorrhagic diathesis", "chinese": "出血倾向"}
+{"english": "serous oculonasal discharge", "chinese": "浆液性眼鼻分泌物"}
+{"english": "subcutaneous edema", "chinese": "皮下水肿"}
+{"english": "neurological involvement", "chinese": "神经系统受累"}
+{"english": "chronic vomiting", "chinese": "慢性呕吐"}
+{"english": "excessive gas production", "chinese": "过度产气"}
+{"english": "skin problems", "chinese": "皮肤问题"}
+{"english": "difficulty defecating", "chinese": "排便困难"}
+{"english": "palpable abdominal mass", "chinese": "可触及腹部肿块"}
+{"english": "emaciation", "chinese": "消瘦"}
+{"english": "rectal prolapse", "chinese": "直肠脱垂"}
+{"english": "Enlargement of lymph nodes", "chinese": "淋巴结肿大"}
+{"english": "Exfoliative dermatitis", "chinese": "剥脱性皮炎"}
+{"english": "Ulcerative dermatitis", "chinese": "溃疡性皮炎"}
+{"english": "Onychogryphosis", "chinese": "甲弯曲"}
+{"english": "Ocular signs", "chinese": "眼部症状"}
+{"english": "polyuria", "chinese": "多尿"}
+{"english": "oliguria", "chinese": "少尿"}
+{"english": "anuria", "chinese": "无尿"}
+{"english": "spontaneous cough", "chinese": "自发性咳嗽"}
+{"english": "dark red speckled gums", "chinese": "暗红色斑点牙龈"}
+{"english": "liver lesions", "chinese": "肝脏病变"}
+{"english": "aseptic meningitis", "chinese": "无菌性脑膜炎"}
+{"english": "platelet destruction", "chinese": "血小板破坏"}
+{"english": "swollen joints", "chinese": "关节肿胀"}
+{"english": "kidney disease", "chinese": "肾脏疾病"}
+{"english": "mature neutrophilia", "chinese": "成熟中性粒细胞增多"}
+{"english": "monocytosis", "chinese": "单核细胞增多症"}
+{"english": "eosinopenia", "chinese": "嗜酸性粒细胞减少症"}
+{"english": "recurring or persistent bacterial infections", "chinese": "反复或持续性细菌感染"}
+{"english": "dull, dry, and \"salt-and-pepper\" appearance", "chinese": "暗淡、干燥及“盐和胡椒”外观"}
+{"english": "increased hairballs", "chinese": "毛球增多"}
+{"english": "skin irritation", "chinese": "皮肤刺激"}
+{"english": "papules", "chinese": "丘疹"}
+{"english": "crust formation", "chinese": "结痂形成"}
+{"english": "visible swelling or bulging in the chest area", "chinese": "胸部区域可见肿胀或凸起"}
+{"english": "swelling in head, neck, and front legs", "chinese": "头部、颈部和前腿肿胀"}
+{"english": "lymphadenomegaly", "chinese": "淋巴结肿大"}
+{"english": "pancytopenia", "chinese": "全血细胞减少症"}
+{"english": "Reverse sneezing", "chinese": "反向喷嚏"}
+{"english": "Meningoencephalitis", "chinese": "脑膜脑炎"}
+{"english": "Impaired sense of smell", "chinese": "嗅觉减退"}
+{"english": "whistling or snoring noises", "chinese": "吹哨声或打鼾声"}
+{"english": "rigid extension of hindlimbs", "chinese": "后肢僵硬伸展"}
+{"english": "muscle contractures", "chinese": "肌肉挛缩"}
+{"english": "arthrogryposis", "chinese": "关节弯曲症"}
+{"english": "cervical weakness", "chinese": "颈部无力"}
+{"english": "necrotizing cerebellitis", "chinese": "坏死性小脑炎"}
+{"english": "multifocal CNS signs", "chinese": "多灶性中枢神经系统症状"}
+{"english": "polymyositis", "chinese": "多发性肌炎"}
+{"english": "cranial nerve deficits", "chinese": "颅神经缺陷"}
+{"english": "cerebellar dysfunction", "chinese": "小脑功能障碍"}
+{"english": "progressive muscle weakness", "chinese": "进行性肌无力"}
+{"english": "stillbirths", "chinese": "死胎"}
+{"english": "Increased susceptibility to infections", "chinese": "对感染易感性增加"}
+{"english": "Hypersegmented neutrophils", "chinese": "过度分叶的中性粒细胞"}
+{"english": "Poorly regenerative anemia", "chinese": "再生不良性贫血"}
+{"english": "Toxic changes", "chinese": "毒性变化"}
+{"english": "Left shift", "chinese": "左移"}
+{"english": "lack of endurance", "chinese": "耐力不足"}
+{"english": "lack of visible waistline", "chinese": "腰线不明显"}
+{"english": "difficulty moving", "chinese": "移动困难"}
+{"english": "reluctance to groom", "chinese": "不愿梳理"}
+{"english": "refusal to move or play", "chinese": "拒绝移动或玩耍"}
+{"english": "stertorous breathing", "chinese": "鼾声呼吸"}
+{"english": "snoring", "chinese": "打鼾"}
+{"english": "snuffling", "chinese": "嗅闻"}
+{"english": "heat intolerance", "chinese": "不耐热"}
+{"english": "cyanosis", "chinese": "发绀"}
+{"english": "eructation", "chinese": "嗳气"}
+{"english": "spontaneous pneumothorax", "chinese": "自发性气胸"}
+{"english": "urticaria", "chinese": "荨麻疹"}
+{"english": "hepatosplenomegaly", "chinese": "肝脾肿大"}
+{"english": "aphasia", "chinese": "失语症"}
+{"english": "paresis", "chinese": "轻瘫"}
+{"english": "visual disturbances", "chinese": "视觉障碍"}
+{"english": "Cellulitis", "chinese": "蜂窝织炎"}
+{"english": "pustules", "chinese": "脓疱"}
+{"english": "erosions", "chinese": "溃疡"}
+{"english": "ulcerations", "chinese": "溃烂"}
+{"english": "dark feces", "chinese": "黑便"}
+{"english": "gastritis", "chinese": "胃炎"}
+{"english": "ecchymoses", "chinese": "瘀斑"}
+{"english": "persistent oozing of blood", "chinese": "持续渗血"}
+{"english": "bleeding from the mucous membranes", "chinese": "黏膜出血"}
+{"english": "Chest pain", "chinese": "胸痛"}
+{"english": "urinary incontinence", "chinese": "尿失禁"}
+{"english": "cutaneous lesions", "chinese": "皮肤损伤"}
+{"english": "non-healing, ulcerated skin lesions", "chinese": "不愈合的溃疡性皮肤损伤"}
+{"english": "draining tracts", "chinese": "引流通道"}
+{"english": "poor body condition", "chinese": "体质差"}
+{"english": "inflammation of the joints", "chinese": "关节炎"}
+{"english": "necrosis", "chinese": "坏死"}
+{"english": "eye/nose discharge", "chinese": "眼/鼻分泌物"}
+{"english": "headache", "chinese": "头痛"}
+{"english": "red, spotted rash", "chinese": "红色斑点状皮疹"}
+{"english": "Acute diarrhea", "chinese": "急性腹泻"}
+{"english": "Septicemia", "chinese": "败血症"}
+{"english": "hepatopathy", "chinese": "肝病"}
+{"english": "hypercalcemia", "chinese": "高钙血症"}
+{"english": "Flatulence", "chinese": "腹胀"}
+{"english": "folliculitis", "chinese": "毛囊炎"}
+{"english": "furunculosis", "chinese": "疖病"}
+{"english": "boils", "chinese": "疖"}
+{"english": "excessive scale or dander", "chinese": "过多鳞屑或皮屑"}
+{"english": "miliary dermatitis", "chinese": "粟粒性皮炎"}
+{"english": "blood and discharge from sores", "chinese": "伤口出血和分泌物"}
+{"english": "skin odor", "chinese": "皮肤异味"}
+{"english": "pruritic erythematous rash", "chinese": "瘙痒性红斑疹"}
+{"english": "decreased growth rate", "chinese": "生长速率下降"}
+{"english": "malabsorption", "chinese": "吸收不良"}
+{"english": "neurological issues", "chinese": "神经问题"}
+{"english": "Prolonged bleeding", "chinese": "出血延长"}
+{"english": "Gastrointestinal bleeding", "chinese": "消化道出血"}
+{"english": "chronic anemia", "chinese": "慢性贫血"}
+{"english": "polyphagia", "chinese": "多食症"}
+{"english": "dyschezia", "chinese": "排便困难"}
+{"english": "ocular involvement", "chinese": "眼部受累"}
+{"english": "necrotizing conjunctivitis", "chinese": "坏死性结膜炎"}
+{"english": "endophthalmitis", "chinese": "眼内炎"}
+{"english": "abnormal gait", "chinese": "步态异常"}
+{"english": "stiffness", "chinese": "僵硬"}
+{"english": "hepatitis", "chinese": "肝炎"}
+{"english": "pyogranulomatous cystitis", "chinese": "脓肉芽肿性膀胱炎"}
+{"english": "Large bowel inflammation", "chinese": "大肠炎"}
+{"english": "Fecal incontinence", "chinese": "大便失禁"}
+{"english": "Rectal itching", "chinese": "直肠瘙痒"}
+{"english": "pseudo-hypoadrenocorticism", "chinese": "假性肾上腺皮质功能减退症"}
+{"english": "erythematous papules", "chinese": "红斑性丘疹"}
+{"english": "excoriated papules", "chinese": "搔破的丘疹"}
+{"english": "intense itching", "chinese": "剧烈瘙痒"}
+{"english": "raw, moist areas", "chinese": "裸露湿润区"}
+{"english": "cardiac arrhythmias", "chinese": "心律失常"}
