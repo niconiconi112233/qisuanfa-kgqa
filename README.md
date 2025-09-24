@@ -53,9 +53,11 @@ open_deep_research-mian.zip文件夹，包含
 3.最新版的知识图谱，路径：/src/triple
 
 
-问诊算法实现：
+1.sync_symptom_names.py
+将知识图谱里 类型为“症状”的节点名称，按 Excel 映射表进行标准化替换；
+2.write_probs_to_kg.py
+将概率写入知识图谱
+3.问诊算法实现：
 zhipu_wenzhen.py
-
-
 ---
 
