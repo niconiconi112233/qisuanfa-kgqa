@@ -43,5 +43,19 @@
 - 结合知识图谱问答
 - 基于贝叶斯的疾病推理
 
+
+
+
+2025-9-24
+open_deep_research-mian.zip文件夹，包含
+1.完整的deep_research生成代码，运行路径为src/ceshi.py。完整代码已配置好，更新路径可直接运行。
+2.最新版的deepresearch结果，路径/src/reports-out。
+3.最新版的知识图谱，路径：/src/triple
+
+
+问诊算法实现：
+zhipu_wenzhen.py
+
+
 ---
 
