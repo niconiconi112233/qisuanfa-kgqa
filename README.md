@@ -2,19 +2,41 @@
 
 本项目为 **绮算法** 系列中的知识图谱问答系统子模块集合，旨在构建基于结构化医学知识的智能问答能力。
 
-2025-9-24
-open_deep_research-mian.zip文件夹，包含
-1.完整的deep_research生成代码，运行路径为src/ceshi.py。完整代码已配置好，更新路径可直接运行。
-2.最新版的deepresearch结果，路径/src/reports-out。
-3.最新版的知识图谱，路径：/src/triple
+2025-9-24 上传：项目文件
 
+deep_research生成代码
 
-1.sync_symptom_names.py
-将知识图谱里 类型为“症状”的节点名称，按 Excel 映射表进行标准化替换；
-2.write_probs_to_kg.py
-将概率写入知识图谱
-3.问诊算法实现：
-zhipu_wenzhen.py
+路径：src/ceshi.py
+
+说明：完整的Deep Research生成代码，运行路径为src/ceshi.py。代码已配置好，更新路径后可直接运行。
+
+deepresearch结果
+
+路径：src/reports-out
+
+说明：最新版的Deep Research结果，存储在src/reports-out目录下。
+
+知识图谱
+
+路径：src/triple
+
+说明：最新版的知识图谱，存储在src/triple目录下。
+
+2025-9-24 上传脚本说明
+
+sync_symptom_names.py
+
+作用：将知识图谱中类型为“症状”的节点名称，按照Excel映射表进行标准化替换。
+
+write_probs_to_kg.py
+
+作用：将概率值写入知识图谱。
+
+问诊算法实现
+
+脚本：zhipu_wenzhen.py
+
+说明：实现了宠物问诊的算法。
 
 ---
 
