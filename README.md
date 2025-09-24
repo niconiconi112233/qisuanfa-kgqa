@@ -23,6 +23,8 @@ deepresearch结果
 说明：最新版的知识图谱，存储在src/triple目录下。
 
 2025-9-24 上传脚本说明
+gailv.py:
+病例概率计算
 
 sync_symptom_names.py
 
@@ -37,6 +39,7 @@ write_probs_to_kg.py
 脚本：zhipu_wenzhen.py
 
 说明：实现了宠物问诊的算法。
+
 
 ---
 
